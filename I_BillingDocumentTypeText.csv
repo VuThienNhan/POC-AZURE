@@ -1,0 +1,4493 @@
+﻿MANDT,BILLINGDOCUMENTTYPE,LANGUAGE,BILLINGDOCUMENTTYPENAME
+102,B1,1,回扣贷项凭证
+102,B1,2,ใบลดหนี้เงินคืน
+102,B1,3,리베이트 대변 메모
+102,B1,4,Credit memo rabat
+102,B1,5,Bonus dobropis
+102,B1,6,Odobrenje rabata
+102,B1,7,Memo Kredit Rebat
+102,B1,8,Кредит.авізо бонуса
+102,B1,9,Boonuse kreeditarve
+102,B1,A,مذكرة دائن للخصم
+102,B1,B,הודעת זיכוי הנחה
+102,B1,C,Bonusový dobropis
+102,B1,D,Bonusgutschrift
+102,B1,E,Rebate Credit Memo
+102,B1,F,Avoir ristourne
+102,B1,G,Πιστ.Σημ.Εκπτ.Τζίρ.
+102,B1,H,Bónuszjóváírás
+102,B1,I,Accredito bonus
+102,B1,J,リベートクレメモ
+102,B1,K,Bonuskreditnota
+102,B1,L,F.kor.min. rab.
+102,B1,M,回扣貸項通知單
+102,B1,N,Bonuscreditnota
+102,B1,O,Kreditnota for bonus
+102,B1,P,Nota crédito bônus
+102,B1,Q,Bonusový dobropis
+102,B1,R,КредитовАвизо бонуса
+102,B1,S,Abono para rappel
+102,B1,T,Prim alacak dekontu
+102,B1,U,Bonushyvityslasku
+102,B1,V,Kreditnota bonus
+102,B1,W,Кр. авизо на рабата
+102,B1,X,Nuol. kred. sąsk.
+102,B1,Y,Bonusatlaides kredītrēķins
+102,B1,c,Nota abonament ràpel
+102,B1,d,Odobrenje bonusa
+102,B1,묩,छूट क्रेडिट मेमो
+102,B1,뱋,Бонуст.кред.авиз.
+102,B1,쁩,Giấy ghicó c.khấu
+102,B1E,1,免除回扣贷项通知
+102,B1E,2,Exp.RebateCreditMemo
+102,B1E,3,확장리베이트대변메모
+102,B1E,4,Ext.CreditMemoRabat
+102,B1E,5,Razširj. dobrop.bon.
+102,B1E,6,Proš.obav.o odb.rab.
+102,B1E,7,MemoKreditRebatDjgka
+102,B1E,8,Розш.кред.авізо бон.
+102,B1E,9,Eeld. boon. kredita
+102,B1E,A,مذكرةدائن لخصم متوقع
+102,B1E,B,הודע.זיכוי הנחה צפו.
+102,B1E,C,Oček.dobrop.bonusu
+102,B1E,D,Erw. Bonusgutschrift
+102,B1E,E,Exp.RebateCreditMemo
+102,B1E,F,Avoir lié à une ristourne ét.
+102,B1E,G,Εξωτ.Πιστ.Σημ.Εκπτ.
+102,B1E,H,Bőv.bónuszjóváírás
+102,B1E,I,Ampl.: accr. bonus
+102,B1E,J,拡張リベート Cr.メモ
+102,B1E,K,Udv. bonuskreditnota
+102,B1E,L,Ocz.fakt.kor.m.rab.
+102,B1E,M,免除回扣貸項通知單
+102,B1E,N,Verw. bonuscr.nota
+102,B1E,O,Forv. kreditn./bonus
+102,B1E,P,NotaCrédBônus prev.
+102,B1E,Q,Rozš.bonus.dobropisu
+102,B1E,R,Расш.КредАвизоБонуса
+102,B1E,S,Abono p.rappel ampl.
+102,B1E,T,Glştr.prim alck.dknt
+102,B1E,U,Odot. bonushyv.lasku
+102,B1E,V,Utök. KredNotaFBonus
+102,B1E,W,Рабат-Кредитно авизо
+102,B1E,X,Išr.nuol.kredit.paž.
+102,B1E,Y,Izvērst bonusatlaides kredītrēķinu
+102,B1E,c,Nota ampl.abon.ràpel
+102,B1E,d,Prošir.odobr.bonusa
+102,B1E,묩,अपे.छूटक्रेडिटमेमो
+102,B1E,뱋,Бон.кеңейт.кр.авиз.
+102,B1E,쁩,G.g.có c.k.mởrộng
+102,B2,1,回扣更正
+102,B2,2,ใบแก้ไขเงินคืน
+102,B2,3,리베이트수정
+102,B2,4,Corecţie rabat
+102,B2,5,Korektura bonusa
+102,B2,6,Ispravljanje rabata
+102,B2,7,Pembetulan Rebat
+102,B2,8,Коректування бонуса
+102,B2,9,Boonuse parandus
+102,B2,A,تصحيح الخصم
+102,B2,B,תיקון הנחת לקוח
+102,B2,C,Oprava bonusu
+102,B2,D,Bonuskorrektur
+102,B2,E,Rebate Correction
+102,B2,F,Correction ristourne
+102,B2,G,Διόρθωση έκπτ.τζίρου
+102,B2,H,Bónuszjavítás
+102,B2,I,Correz. bonus
+102,B2,J,リベート訂正
+102,B2,K,Bonuskorrektion
+102,B2,L,Korekta rabatu
+102,B2,M,回扣更正
+102,B2,N,Bonuscorrectie
+102,B2,O,Bonusjustering
+102,B2,P,Correção de bônus
+102,B2,Q,Oprava bonusu
+102,B2,R,Корректировка бонуса
+102,B2,S,Corrección rappel
+102,B2,T,Prim düzeltmesi
+102,B2,U,Bonuskorjaus
+102,B2,V,Bonusjustering
+102,B2,W,Корекция на рабата
+102,B2,X,Nuolaidos pataisymas
+102,B2,Y,Bonusatlaides labošana
+102,B2,c,Condició p.ràpel
+102,B2,d,Ispravka bonusa
+102,B2,묩,छूट सुधार
+102,B2,뱋,Бонусты түзету
+102,B2,쁩,Đ.chỉnh chiếtkhấu
+102,B2E,1,除折扣更正外
+102,B2E,2,Exp. Rebate Correcn
+102,B2E,3,확장 리베이트 수정
+102,B2E,4,Ext.credit memo rab.
+102,B2E,5,Razš.popravek bonusa
+102,B2E,6,Proš.ispr.rabata
+102,B2E,7,Pbetulan Rebat Djgka
+102,B2E,8,Розшир.корект.бонуса
+102,B2E,9,Eeld. boon. parand.
+102,B2E,A,تصحيح خصم متوقع
+102,B2E,B,תיקון הנחה צפויה
+102,B2E,C,Oček.oprava bonusu
+102,B2E,D,Erw. Bonuskorrektur
+102,B2E,E,Exp. Rebate Correcn
+102,B2E,F,Correc. rist. étend.
+102,B2E,G,Exp. Rebate Correcn
+102,B2E,H,Bőv. bónuszkorrekt.
+102,B2E,I,Corr. bonus ampliata
+102,B2E,J,拡張リベート修正
+102,B2E,K,Udv. bonuskorrektion
+102,B2E,L,Rozsz. korekta rab.
+102,B2E,M,免除回扣更正
+102,B2E,N,Verw. bonuscorrectie
+102,B2E,O,Forv. bonusjustering
+102,B2E,P,Correção bônus prev.
+102,B2E,Q,Rozšír.oprava bonusu
+102,B2E,R,Расш. корр. бонуса
+102,B2E,S,Correc.rappel prev.
+102,B2E,T,Glştr.prim dzlt.
+102,B2E,U,Laaj. bonuskorjaus
+102,B2E,V,Utök. bonusjustering
+102,B2E,W,Разшир.КорекцияРабат
+102,B2E,X,Išr.nuolaid.patais.
+102,B2E,Y,Izvērst bonusatlaides labošanu
+102,B2E,c,Despl.correc.abon.
+102,B2E,d,Prošir.isprav.rabata
+102,B2E,묩,अपेक्षित छूट सुधार
+102,B2E,뱋,Кеңейт.бонусты түз.
+102,B2E,쁩,Đ.chỉnh ck.mởrộng
+102,B3,1,回扣部分结算
+102,B3,2,ชำระบางส่วนเงินคืน
+102,B3,3,리베이트파트정산
+102,B3,4,Decont.parţ.rabat
+102,B3,5,Delni obračun bonusa
+102,B3,6,Djelom.obrač.rabata
+102,B3,7,Pnylesaian Bhgn Rbat
+102,B3,8,Част.розрахун.бонуса
+102,B3,9,Boonuse osal. arvld.
+102,B3,A,تسوية جزء من الخصم
+102,B3,B,הנחה על איזון חלק
+102,B3,C,Dílčí zúčtov.bonusu
+102,B3,D,Bonusteilabrechnung
+102,B3,E,Rebate Part Settlmnt
+102,B3,F,Décompte part. rist.
+102,B3,G,Μέρ.Διακ.Εκπτωσης
+102,B3,H,Bónuszrész elszámols
+102,B3,I,Liquid.parz.bonus
+102,B3,J,リベート分割決済
+102,B3,K,Bonusdelafregning
+102,B3,L,Częśc. rozl. rabatu
+102,B3,M,回扣部份結算
+102,B3,N,Deelafrekening bonus
+102,B3,O,Delavregning - bonus
+102,B3,P,Liq.parcial bônus
+102,B3,Q,Čiast.zúčtov.bonusu
+102,B3,R,Част. расчет бонуса
+102,B3,S,Liq.parcial rappel
+102,B3,T,Prim kısmi hspl.
+102,B3,U,Bonuksen osatilitys
+102,B3,V,Delavräkning bonus
+102,B3,W,Част. урежд. на раб.
+102,B3,X,Nuol.dalinis atsisk.
+102,B3,Y,Daļējs bonusatlaides norēķins
+102,B3,c,Liquid.parc.ràpel
+102,B3,d,Delim.obračun bonusa
+102,B3,묩,छूट भाग निपटान
+102,B3,뱋,Бон.жарт.есеп айыр.
+102,B3,쁩,Tt.từngphần ckhấu
+102,B3E,1,免除回扣部分结算
+102,B3E,2,Exp.RebatePartSettlm
+102,B3E,3,확장리베이트부분정산
+102,B3E,4,Ext.DecontRabatParţl
+102,B3E,5,Razš.delni obr. bon.
+102,B3E,6,Proš.:Djel.obrač.rab
+102,B3E,7,PylsnSparaRebatDjgka
+102,B3E,8,Розш.част.роз.бонуса
+102,B3E,9,Eeld.boon.osal.arvl.
+102,B3E,A,تسويةجزئيةلخصم متوقع
+102,B3E,B,פרעון שותף הנחה צפוי
+102,B3E,C,Oček.díl.zúčt.bonusu
+102,B3E,D,Erw. Bonusteilabrech
+102,B3E,E,Exp.RebatePartSettlm
+102,B3E,F,Calc. part. ris. ét.
+102,B3E,G,ΕξωτΔιακανΤμήμαΕκπτ.
+102,B3E,H,Bőv.bónuszrészelsz.
+102,B3E,I,Ampl.:liq.parz.bonus
+102,B3E,J,拡張分割リベート決済
+102,B3E,K,Udv. bonusdelafregn.
+102,B3E,L,Ocz. rozl. cz. rab.
+102,B3E,M,免除回扣部份結算
+102,B3E,N,Verw. bonusdeelafr.
+102,B3E,O,Forv. delavr./bonus
+102,B3E,P,LiqParcBônus prev.
+102,B3E,Q,RozČiastZúčtBonusu
+102,B3E,R,РасшЧастРасчетБонуса
+102,B3E,S,Liq.parc.rappel amp.
+102,B3E,T,Glştr.prim kısmi hsp
+102,B3E,U,Odot. bon. osatilit.
+102,B3E,V,Utök. DelavräknBonus
+102,B3E,W,Рабат-Част.споразум.
+102,B3E,X,Išr.nuo.dalinis ats.
+102,B3E,Y,Izvērst daļējo bonusatlaides norēķinu
+102,B3E,c,Liq.parc.ràpel ampl.
+102,B3E,d,Prošir.del.obr.bon.
+102,B3E,묩,अपे.छूट भाग निपटान
+102,B3E,뱋,Бон.кең.жар.ес.айыр.
+102,B3E,쁩,Tt.tphần ckmởrộng
+102,B4,1,回扣手工增值
+102,B4,2,Rebate Manual Accrls
+102,B4,3,리베이트수작업이자
+102,B4,4,Bonif.rezervă manual
+102,B4,5,Ročna vračila rabata
+102,B4,6,Ručni obračun rabata
+102,B4,7,Akruan Manual Rebat
+102,B4,8,Бонус/рез.від.вручну
+102,B4,9,Boon. käsitsieraldis
+102,B4,A,خصم استحقاقات يدوية
+102,B4,B,הנחת הצטברויות ידנית
+102,B4,C,Bonus manuál.zásob
+102,B4,D,Bonus man.Rückstell.
+102,B4,E,Rebate Manual Accrls
+102,B4,F,Prov. manuel. rist.
+102,B4,G,Μη αυτ.εκπτ. Δεδουλ.
+102,B4,H,Bónusz man.céltart.
+102,B4,I,Bonus - rateizz.man.
+102,B4,J,リベートman.見越額
+102,B4,K,Bonus man. hensæt.
+102,B4,L,Rabat rezerwy ręcz.
+102,B4,M,回扣人工應計
+102,B4,N,Bonus handm.reserv.
+102,B4,O,Man. avsetn. - bonus
+102,B4,P,Bônus provis.manuais
+102,B4,Q,Bonus manuál.zásob
+102,B4,R,Бонус/РезОтчслВручн
+102,B4,S,Rappel provis.manual
+102,B4,T,Prim manüel krşl.
+102,B4,U,Bonus - man. var.
+102,B4,V,Manuell bonusavräkn.
+102,B4,W,РезРъчОтчисл за раб.
+102,B4,X,Nuolaid.rankin.kaup.
+102,B4,Y,Bonusatlaides manuāli uzkrājumi
+102,B4,c,Delimit.manual ràpel
+102,B4,d,Ručna rezerva bonusa
+102,B4,묩,छूट मैन्यूअल उपचय
+102,B4,뱋,Бон.қол.енг.рез.ауд.
+102,B4,쁩,D.tíchtcông c.khấu
+102,BDR1,1,外部开票凭证申请
+102,BDR1,2,คำขอเอกสารการวางบิลภายนอก
+102,BDR1,3,외부 청구 문서 요청
+102,BDR1,4,Cerere document de facturare ext.
+102,BDR1,5,Eksterna zahteva za dokument obračuna
+102,BDR1,6,Vanjski zahtjev za fakturni dokument
+102,BDR1,7,Permintaan Dokumen Pengebilan Luaran
+102,BDR1,8,Зовнішній запит документа розрахунку
+102,BDR1,9,Välise arveldusdokumendi taotlus
+102,BDR1,A,طلب مستند الفوترة الخارجي
+102,BDR1,B,בקשה למסמך חיוב חיצוני
+102,BDR1,C,Požadavek na fakturační doklad (externí)
+102,BDR1,D,Externe Fakturaanforderung
+102,BDR1,E,External Billing Document Request
+102,BDR1,F,Demande de document de facturation
+102,BDR1,G,Αίτηση Παραστατικού Τιμολόγησης
+102,BDR1,H,Számlaigény
+102,BDR1,I,Richiesta documento di fatturazione
+102,BDR1,J,請求伝票依頼
+102,BDR1,K,Fakturaforespørgsel
+102,BDR1,L,Żądanie dokumentu rozliczeniowego
+102,BDR1,M,請款文件請求
+102,BDR1,N,Facturatiedocumentaanvraag
+102,BDR1,O,Fakturaforespørsel
+102,BDR1,P,Solicitação de documento de faturamento
+102,BDR1,Q,Požiadavka na fakturačný doklad
+102,BDR1,R,Запрос фактуры
+102,BDR1,S,Solicitud documento facturación
+102,BDR1,T,Faturalama belgesi talebi
+102,BDR1,U,Laskupyyntö
+102,BDR1,V,Begäran om faktura
+102,BDR1,W,Заявка за док. за изготвяне на сметка
+102,BDR1,X,Atsiskaitymo dokumento užklausa
+102,BDR1,Y,Norēķinu dokumenta pieprasījums
+102,BDR1,c,Sol·lic.doc.facturació
+102,BDR1,d,Zahtev za fakturu
+102,BDR1,묩,बिलिंग दस्तावेज़ अनुरोध
+102,BDR1,뱋,Сыртқы фактуралық құжатқа сұрау
+102,BDR1,쁩,Yêu cầu chứng từ lập h.đơn b.ngoài
+102,BDRC,1,外部贷项开票凭证请求
+102,BDRC,2,คำขอเอกสารการวางบิลเครดิตภายนอก
+102,BDRC,3,외부 대변 청구 문서 요청
+102,BDRC,4,Cerere doc.fact.credit ext.
+102,BDRC,5,Zahteva za eksterni dok. fakt.dobropisa
+102,BDRC,6,Vanjsko potraž.:zahtjev za fakturni dok.
+102,BDRC,7,Permintaan Dok. Pengebilan Kredit Luaran
+102,BDRC,8,Зовн.кредит: запит документа фактури
+102,BDRC,9,Väl. kr. arveldusdokumendi taotlus
+102,BDRC,A,طلب مستند إعداد فواتير دائن خارجي
+102,BDRC,B,זיכוי חיצוני - בקשה של מסמך חיוב
+102,BDRC,C,Ext. fakturační doklad-kredit-požadavek
+102,BDRC,D,Fakturaanforderung extern Gutschrift
+102,BDRC,E,Ext. Credit Billing Doc. Request
+102,BDRC,F,Demande document facture avoir ext.
+102,BDRC,G,Εξωτ.Αίτηση Παραστ.Τιμολόγ.Πίστωσης
+102,BDRC,H,Külső jóváírás - számlaigénylés
+102,BDRC,I,Rich. documento fatturazione cred. est.
+102,BDRC,J,外部貸方請求伝票依頼
+102,BDRC,K,Anmodn. om ekst. kredit. faktura
+102,BDRC,L,Żądanie zedwn. faktury kor. minus
+102,BDRC,M,外部貸方請款文件請求
+102,BDRC,N,Ext. facturatiedocumentaanvraag (credit)
+102,BDRC,O,Forespørsel om ekstern kredit. faktura
+102,BDRC,P,Solicitação doc.faturamento crédito ext.
+102,BDRC,Q,Pož.na faktúru pre ext.dobropis
+102,BDRC,R,Внеш. кред. - запрос фактуры
+102,BDRC,S,Solicitud doc.facturación crédito ext.
+102,BDRC,T,Harici alacak faturalama belgesi talebi
+102,BDRC,U,Ulkoinen hyvityslaskupyyntö
+102,BDRC,V,Externt fakturaförslag (K)
+102,BDRC,W,Външ.кредит: заявка документ изг.сметка
+102,BDRC,X,Išor. kred. sąskaitos dokumento užklausa
+102,BDRC,Y,Ārējā kredīta norēķina dok. pieprasījums
+102,BDRC,c,Sol.doc.factura crèdit ext.
+102,BDRC,d,Eksterno odobrenje - zahtev za fakturu
+102,BDRC,묩,विस्तारित क्रेडिट बिलिंग दस्तावेज़ अनु.
+102,BDRC,뱋,Сыртқы кредит: фактуралық құжат сұрауы
+102,BDRC,쁩,Y.cầu ch.từ lập h.đơn ghi có ngoài
+102,BDRD,1,外部借项开票凭证请求
+102,BDRD,2,คำขอเอกสารการวางบิลเดบิตภายนอก
+102,BDRD,3,외부 차변 청구 문서 요청
+102,BDRD,4,Cerere doc.facturare debit ext.
+102,BDRD,5,Zahteva za eksterni dok. fakt.bremepisa
+102,BDRD,6,Vanjsko dugov.: zahtjev za fakturni dok.
+102,BDRD,7,Permintaan Dok. Pengebilan Debit Luaran
+102,BDRD,8,Зовнішній дебет: запит документа фактури
+102,BDRD,9,Väl. deb. arveldusdokumendi taotlus
+102,BDRD,A,طلب مستند إعداد فواتير مدين خارجي
+102,BDRD,B,חיוב חיצוני - בקשה של מסמך חיוב
+102,BDRD,C,Ext. fakturační doklad-debit-požadavek
+102,BDRD,D,Fakturaanforderung extern Lastschrift
+102,BDRD,E,Ext. Debit Billing Doc. Request
+102,BDRD,F,Demande document facture débit ext.
+102,BDRD,G,Εξωτ.Αίτηση Παραστ.Τιμολόγ.Χρέωσης
+102,BDRD,H,Külső terhelés - számlaigénylés
+102,BDRD,I,Rich. documento fatturazione deb. est.
+102,BDRD,J,外部借方請求伝票依頼
+102,BDRD,K,Anmodn. om ekst. debit. faktura
+102,BDRD,L,Żądanie zedwn. faktury kor. plus
+102,BDRD,M,外部借方請款文件請求
+102,BDRD,N,Ext. facturatiedocumentaanvraag (debet)
+102,BDRD,O,Forespørsel om ekstern debit. faktura
+102,BDRD,P,Solicitação doc.faturamento débito ext.
+102,BDRD,Q,Pož.na faktúru pre ext.ťarchopis
+102,BDRD,R,Внеш. деб. - запрос фактуры
+102,BDRD,S,Solicitud doc.facturación débito ext.
+102,BDRD,T,Harici borç faturalama belgesi talebi
+102,BDRD,U,Ulkoinen veloituslaskupyyntö
+102,BDRD,V,Externt fakturaförslag (D)
+102,BDRD,W,Външ.дебит: заявка документ изг.сметка
+102,BDRD,X,Išor. deb. sąskaitos dokumento užklausa
+102,BDRD,Y,Ārējā debeta norēķina dok. pieprasījums
+102,BDRD,c,Sol.doc.factura càrrec ext.
+102,BDRD,d,Eksterno zaduženje - zahtev za fakturu
+102,BDRD,묩,विस्तारित डेबिट बिलिंग दस्तावेज़ अनुरोध
+102,BDRD,뱋,Сыртқы дебет: фактуралық құжат сұрауы
+102,BDRD,쁩,Y.cầu ch.từ lập h.đơn ghi nợ ngoài
+102,BIND,1,间接发票回扣
+102,BIND,2,Indir. Invoice Reb.
+102,BIND,3,간접 송장 리베이트
+102,BIND,4,Indir.factură rabat
+102,BIND,5,Indir.račun bonus
+102,BIND,6,Indir.fakt.-Rab.
+102,BIND,7,Reb. Invois Tdk Lngs
+102,BIND,8,Непрямий розр.бонуса
+102,BIND,9,Kaudne arve boonus
+102,BIND,A,خصم فاتورة غير مباشر
+102,BIND,B,הנ.מסמך חיוב לא ישיר
+102,BIND,C,Nepř.zúčt.bonusu
+102,BIND,D,Indir.Rechn.Bonus
+102,BIND,E,Indir. Invoice Reb.
+102,BIND,F,Calc. indir. rist.
+102,BIND,G,Εμμεσ.Εκπτ.Τιμολογ.
+102,BIND,H,Közv.szla bónusz
+102,BIND,I,Fatt. ind. bonus
+102,BIND,J,間接請求書リベート
+102,BIND,K,Indir. fakturabonus
+102,BIND,L,Rabat fakt. pośr.
+102,BIND,M,間接發票回扣
+102,BIND,N,Ind. factuurbonus
+102,BIND,O,Indir. fakturabonus
+102,BIND,P,Bônus fatura ind.
+102,BIND,Q,Nepr.zúčt.bonusu
+102,BIND,R,КосвРасчетБонуса
+102,BIND,S,Factura indir.rappel
+102,BIND,T,Dolaylı hspl.primi
+102,BIND,U,Epäs. lask. bonus
+102,BIND,V,Indir. fakt.bonus
+102,BIND,W,НедирРабат-Фактура
+102,BIND,X,Neties.sąsk.nuolaida
+102,BIND,Y,Netieša faktūrrēķina bonusatlaide
+102,BIND,c,Factura ind.ràpel
+102,BIND,d,Indir. fakt. bonusa
+102,BIND,묩,अप्रत्यक्ष इनवॉइसछूट
+102,BIND,뱋,Жанама шот-фак.бон.
+102,BIND,쁩,C.khấu hđơn g.tiếp
+102,BINP,1,间接计划结算回扣
+102,BINP,2,Ind.Plan.SettlmntReb
+102,BINP,3,간접계획정산리베이트
+102,BINP,4,Ind.plan.rabat fact.
+102,BINP,5,Ind. plan.rač. bonus
+102,BINP,6,IndPlanObračRabat
+102,BINP,7,Reb.Pylsn.Rncg.TLngs
+102,BINP,8,Непр.план.роз.бонуса
+102,BINP,9,Kaud.pln.kul.p.boon.
+102,BINP,A,Ind.Plan.SettlmntReb
+102,BINP,B,הנ.מס.חב.מת.לא ישיר
+102,BINP,C,Nepř.pl.zúčt.bonusu
+102,BINP,D,Ind. Planrechn.Bonus
+102,BINP,E,Ind.Plan.SettlmntReb
+102,BINP,F,CalcPlan. ind. rist.
+102,BINP,G,Εμμεσ.Εκπτ.Τακτ.Πρ.
+102,BINP,H,Közv.tervelsz.bónusz
+102,BINP,I,Fatt.pian.ind. bonus
+102,BINP,J,間接計画決済リベート
+102,BINP,K,Ind. planl. afrBonus
+102,BINP,L,Rabat plan. fakt. p.
+102,BINP,M,間接規劃結算回扣
+102,BINP,N,Ind. planfact. bonus
+102,BINP,O,Ind.budsj.avr.bonus
+102,BINP,P,BônusFaturaPlanInd.
+102,BINP,Q,Nepr.pl.zúčt.bonusu
+102,BINP,R,КосвПланРасчетБонуса
+102,BINP,S,Fact.plan ind.rappel
+102,BINP,T,Dolaylı pl.hespl.prm
+102,BINP,U,Epäs. suunn.lask.bon
+102,BINP,V,Ind. plan.avräkn. bonus
+102,BINP,W,НедирПлРабат-Спораз.
+102,BINP,X,Neties.plan.atis.nl.
+102,BINP,Y,Netieša plāna norēķinu bonusatlaide
+102,BINP,c,Fact.plan.ind.ràpel
+102,BINP,d,Ind.plan.obr.bonusa
+102,BINP,묩,व्यक्ति.यो.निप.छूट
+102,BINP,뱋,Ес.айыр.бон.жан.жос.
+102,BINP,쁩,Ck.tt.gtiếp theok.h
+102,BK1,1,借项凭证协议
+102,BK1,2,ใบข้อตกลงใบเพิ่มหนี้
+102,BK1,3,차변메모계약
+102,BK1,4,Acord debit memo
+102,BK1,5,Dogovor za dobropis
+102,BK1,6,Obavj.tereć.sporaz.
+102,BK1,7,Perjanjian Memo Dbit
+102,BK1,8,Угода дебет-авізо
+102,BK1,9,Deebetarve leping
+102,BK1,A,اتفاقية مذكرة مدين
+102,BK1,B,הסכם הודעת חיוב
+102,BK1,C,Vrubopis - dohoda
+102,BK1,D,Gutschrift Abspr.
+102,BK1,E,Debit Memo Agreemnt
+102,BK1,F,Avoir accord
+102,BK1,G,Συμφ.Χρεωσ.Σημ.
+102,BK1,H,Megterhelés vitatása
+102,BK1,I,Addebito da accordo
+102,BK1,J,クレジットメモ契約
+102,BK1,K,Kreditnota - aftale
+102,BK1,L,Poroz. fakt.kor.plus
+102,BK1,M,借項通知單協議
+102,BK1,N,Creditnota afspraak
+102,BK1,O,Debetnota - avtale
+102,BK1,P,Nota crédito estip.
+102,BK1,Q,Dobropis - dohoda
+102,BK1,R,КредитАвизо-Соглашен
+102,BK1,S,Abono acuerdo
+102,BK1,T,Borç dekontu (anlş.)
+102,BK1,U,Hyvityslasku sopimus
+102,BK1,V,Avtalad debetnota
+102,BK1,W,Спораз. за ДебАвизо
+102,BK1,X,Deb. sąsk. sutartis
+102,BK1,Y,Kredīta avizo vienošanās
+102,BK1,c,Acord abonament
+102,BK1,d,Sporazum o zaduženju
+102,BK1,묩,डेबिट मेमो अनुबंध
+102,BK1,뱋,Дебеттік авизо кел.
+102,BK1,쁩,C.nhận giấyghinợ
+102,BK3,1,借项凭证协议
+102,BK3,2,ใบข้อตกลงใบเพิ่มหนี้
+102,BK3,3,차변메모계약
+102,BK3,4,Acord debit memo
+102,BK3,5,Dogovor za dobropis
+102,BK3,6,Obavj.tereć.sporaz.
+102,BK3,7,Perjanjian Memo Dbit
+102,BK3,8,Угода дебет-авізо
+102,BK3,9,Deebetarve leping
+102,BK3,A,اتفاقية مذكرة مدين
+102,BK3,B,הסכם הודעת חיוב
+102,BK3,C,Vrubopis - dohoda
+102,BK3,D,Gutschrift Abspr.
+102,BK3,E,Debit Memo Agreemnt
+102,BK3,F,Avoir accord
+102,BK3,G,Συμφ.Χρεωσ.Σημ.
+102,BK3,H,Megterhelés vitatása
+102,BK3,I,Addebito da accordo
+102,BK3,J,クレジットメモ契約
+102,BK3,K,Kreditnota - aftale
+102,BK3,L,Poroz. fakt.kor.plus
+102,BK3,M,借項通知單協議
+102,BK3,N,Creditnota afspraak
+102,BK3,O,Debetnota - avtale
+102,BK3,P,Nota crédito estip.
+102,BK3,Q,Dobropis - dohoda
+102,BK3,R,КредитАвизо-Соглашен
+102,BK3,S,Abono acuerdo
+102,BK3,T,Borç dekontu (anlş.)
+102,BK3,U,Hyvityslasku sopimus
+102,BK3,V,Avtalad debetnota
+102,BK3,W,Спораз. за ДебАвизо
+102,BK3,X,Deb. sąsk. sutartis
+102,BK3,Y,Kredīta avizo vienošanās
+102,BK3,c,Acord abonament
+102,BK3,d,Sporazum o zaduženju
+102,BK3,묩,डेबिट मेमो अनुबंध
+102,BK3,뱋,Дебеттік авизо кел.
+102,BK3,쁩,C.nhận giấyghinợ
+102,BM1,1,借项凭证协议
+102,BM1,2,ใบข้อตกลงใบเพิ่มหนี้
+102,BM1,3,차변메모계약
+102,BM1,4,Acord debit memo
+102,BM1,5,Dogovor za dobropis
+102,BM1,6,Obavj.tereć.sporaz.
+102,BM1,7,Perjanjian Memo Dbit
+102,BM1,8,Угода дебет-авізо
+102,BM1,9,Deebetarve leping
+102,BM1,A,اتفاقية مذكرة مدين
+102,BM1,B,הסכם הודעת חיוב
+102,BM1,C,Vrubopis - dohoda
+102,BM1,D,Gutschrift Abspr.
+102,BM1,E,Debit Memo Agreemnt
+102,BM1,F,Avoir accord
+102,BM1,G,Συμφ.Χρεωσ.Σημ.
+102,BM1,H,Megterhelés vitatása
+102,BM1,I,Addebito da accordo
+102,BM1,J,クレジットメモ契約
+102,BM1,K,Kreditnota - aftale
+102,BM1,L,Poroz. fakt.kor.plus
+102,BM1,M,借項通知單協議
+102,BM1,N,Creditnota afspraak
+102,BM1,O,Debetnota - avtale
+102,BM1,P,Nota crédito estip.
+102,BM1,Q,Dobropis - dohoda
+102,BM1,R,КредитАвизо-Соглашен
+102,BM1,S,Abono acuerdo
+102,BM1,T,Borç dekontu (anlş.)
+102,BM1,U,Hyvityslasku sopimus
+102,BM1,V,Avtalad debetnota
+102,BM1,W,Спораз. за ДебАвизо
+102,BM1,X,Deb. sąsk. sutartis
+102,BM1,Y,Kredīta avizo vienošanās
+102,BM1,c,Acord abonament
+102,BM1,d,Sporazum o zaduženju
+102,BM1,묩,डेबिट मेमो अनुबंध
+102,BM1,뱋,Дебеттік авизо кел.
+102,BM1,쁩,C.nhận giấyghinợ
+102,BM3,1,借项凭证协议
+102,BM3,2,ใบข้อตกลงใบเพิ่มหนี้
+102,BM3,3,차변메모계약
+102,BM3,4,Acord debit memo
+102,BM3,5,Dogovor za dobropis
+102,BM3,6,Obavj.tereć.sporaz.
+102,BM3,7,Perjanjian Memo Dbit
+102,BM3,8,Угода дебет-авізо
+102,BM3,9,Deebetarve leping
+102,BM3,A,اتفاقية مذكرة مدين
+102,BM3,B,הסכם הודעת חיוב
+102,BM3,C,Vrubopis - dohoda
+102,BM3,D,Gutschrift Abspr.
+102,BM3,E,Debit Memo Agreemnt
+102,BM3,F,Avoir accord
+102,BM3,G,Συμφ.Χρεωσ.Σημ.
+102,BM3,H,Megterhelés vitatása
+102,BM3,I,Addebito da accordo
+102,BM3,J,クレジットメモ契約
+102,BM3,K,Kreditnota - aftale
+102,BM3,L,Poroz. fakt.kor.plus
+102,BM3,M,借項通知單協議
+102,BM3,N,Creditnota afspraak
+102,BM3,O,Debetnota - avtale
+102,BM3,P,Nota crédito estip.
+102,BM3,Q,Dobropis - dohoda
+102,BM3,R,КредитАвизо-Соглашен
+102,BM3,S,Abono acuerdo
+102,BM3,T,Borç dekontu (anlş.)
+102,BM3,U,Hyvityslasku sopimus
+102,BM3,V,Avtalad debetnota
+102,BM3,W,Спораз. за ДебАвизо
+102,BM3,X,Deb. sąsk. sutartis
+102,BM3,Y,Kredīta avizo vienošanās
+102,BM3,c,Acord abonament
+102,BM3,d,Sporazum o zaduženju
+102,BM3,묩,डेबिट मेमो अनुबंध
+102,BM3,뱋,Дебеттік авизо кел.
+102,BM3,쁩,C.nhận giấyghinợ
+102,BV,1,现金销售
+102,BV,2,ใบขายเงินสด
+102,BV,3,현금 판매
+102,BV,4,Vânzări în numerar
+102,BV,5,Gotovinska prodaja
+102,BV,6,Gotovinska prodaja
+102,BV,7,Jualan Tunai
+102,BV,8,Продаж за готівку
+102,BV,9,Sularahamüük
+102,BV,A,مبيعات نقدية
+102,BV,B,מכירות במזומן
+102,BV,C,ProdZaHot
+102,BV,D,Barverkauf
+102,BV,E,Cash Sales
+102,BV,F,Vente au comptant
+102,BV,G,Πωλήσ.Τοις Μετρητοίς
+102,BV,H,Készpénzes eladás
+102,BV,I,Vendita in contanti
+102,BV,J,現金販売
+102,BV,K,Kontantsalg
+102,BV,L,Sprzedaż gotówkowa
+102,BV,M,現金銷售
+102,BV,N,Contante verkoop
+102,BV,O,Kontantsalg
+102,BV,P,Venda à vista
+102,BV,Q,Predaj za hotové
+102,BV,R,Продажа за наличные
+102,BV,S,Venta al contado
+102,BV,T,Nakit satış
+102,BV,U,Käteismyynti
+102,BV,V,Kontantförsäljning
+102,BV,W,Кешови продажби
+102,BV,X,Pardav. grynaisiais
+102,BV,Y,Pārdošana par skaidru naudu
+102,BV,c,Compravenda comptat
+102,BV,d,Gotovinska prodaja
+102,BV,묩,नकद विक्रय
+102,BV,뱋,ҚҚА сату
+102,BV,쁩,Bán tiền mặt
+102,CBC1,1,发票作废
+102,CBC1,2,การยกเลิกใบแจ้งหนี้
+102,CBC1,3,송장 취소
+102,CBC1,4,Stornare factură
+102,CBC1,5,Storno računa
+102,CBC1,6,Storniranje fakture
+102,CBC1,7,Pembatalan Invois
+102,CBC1,8,Скасування рахунка-фактури
+102,CBC1,9,Arve tühistamine
+102,CBC1,A,إلغاء الفاتورة
+102,CBC1,B,ביטול חשבונית
+102,CBC1,C,Storno faktury
+102,CBC1,D,Rechnungsstorno
+102,CBC1,E,Invoice Cancellation
+102,CBC1,F,Annulation facture
+102,CBC1,G,Ακύρωση Τιμολογίου
+102,CBC1,H,Számlastornó
+102,CBC1,I,Storno fattura
+102,CBC1,J,請求書取消
+102,CBC1,K,Fakturaannullering
+102,CBC1,L,Storno faktury
+102,CBC1,M,發票取消
+102,CBC1,N,Factuurstorno
+102,CBC1,O,Fakturaannullering
+102,CBC1,P,Estorno de fatura
+102,CBC1,Q,Storno faktúry
+102,CBC1,R,Сторнирование счета
+102,CBC1,S,Cancelación de facturas
+102,CBC1,T,Fatura iptali
+102,CBC1,U,Laskun peruutus
+102,CBC1,V,Fakturaannullering
+102,CBC1,W,Сторно на фактура
+102,CBC1,X,Sąskaitos anuliavimas
+102,CBC1,Y,Faktūrrēķina atcelšana
+102,CBC1,c,Cancel·lació de factures
+102,CBC1,d,Storniranje fakture
+102,CBC1,묩,इनवॉइस रद्दीकरण
+102,CBC1,뱋,Фактураны болдырмау
+102,CBC1,쁩,Hủy hóa đơn
+102,CBD1,1,发票
+102,CBD1,2,ใบแจ้งหนี้
+102,CBD1,3,송장
+102,CBD1,4,Factură
+102,CBD1,5,Račun
+102,CBD1,6,Faktura
+102,CBD1,7,Invois
+102,CBD1,8,Рахунок-фактура
+102,CBD1,9,Arve
+102,CBD1,A,الفاتورة
+102,CBD1,B,חשבונית
+102,CBD1,C,Faktura
+102,CBD1,D,Rechnung
+102,CBD1,E,Invoice
+102,CBD1,F,Facture
+102,CBD1,G,Τιμολόγιο
+102,CBD1,H,Számla
+102,CBD1,I,Fattura
+102,CBD1,J,請求書
+102,CBD1,K,Faktura
+102,CBD1,L,Faktura
+102,CBD1,M,發票
+102,CBD1,N,Factuur
+102,CBD1,O,Faktura
+102,CBD1,P,Fatura
+102,CBD1,Q,Faktúra
+102,CBD1,R,Счет
+102,CBD1,S,Factura
+102,CBD1,T,Fatura
+102,CBD1,U,Lasku
+102,CBD1,V,Faktura
+102,CBD1,W,Фактура
+102,CBD1,X,Sąskaita
+102,CBD1,Y,Faktūrrēķins
+102,CBD1,c,Factura
+102,CBD1,d,Faktura
+102,CBD1,묩,चालान
+102,CBD1,뱋,Шот-фактура
+102,CBD1,쁩,Hóa đơn
+102,CBD2,1,发票
+102,CBD2,2,ใบแจ้งหนี้
+102,CBD2,3,송장
+102,CBD2,4,Factură
+102,CBD2,5,Račun
+102,CBD2,6,Faktura
+102,CBD2,7,Invois
+102,CBD2,8,Рахунок-фактура
+102,CBD2,9,Arve
+102,CBD2,A,الفاتورة
+102,CBD2,B,חשבונית
+102,CBD2,C,Faktura
+102,CBD2,D,Rechnung
+102,CBD2,E,Invoice
+102,CBD2,F,Facture
+102,CBD2,G,Τιμολόγιο
+102,CBD2,H,Számla
+102,CBD2,I,Fattura
+102,CBD2,J,請求書
+102,CBD2,K,Faktura
+102,CBD2,L,Faktura
+102,CBD2,M,發票
+102,CBD2,N,Factuur
+102,CBD2,O,Faktura
+102,CBD2,P,Fatura
+102,CBD2,Q,Faktúra
+102,CBD2,R,Счет
+102,CBD2,S,Factura
+102,CBD2,T,Fatura
+102,CBD2,U,Lasku
+102,CBD2,V,Faktura
+102,CBD2,W,Фактура
+102,CBD2,X,Sąskaita
+102,CBD2,Y,Faktūrrēķins
+102,CBD2,c,Factura
+102,CBD2,d,Faktura
+102,CBD2,묩,चालान
+102,CBD2,뱋,Шот-фактура
+102,CBD2,쁩,Hóa đơn
+102,CBRE,1,退货贷项凭证
+102,CBRE,2,ใบลดหนี้ของการส่งคืน
+102,CBRE,3,대변 메모(반품)
+102,CBRE,4,Credit memo pt.retururi
+102,CBRE,5,Dobropis vračila
+102,CBRE,6,Odobrenje za povrate
+102,CBRE,7,Memo Kredit untuk Pulangan
+102,CBRE,8,Кредитове авізо для повернень
+102,CBRE,9,Tagastuste kreeditarve
+102,CBRE,A,مذكرة دائن للمرتجعات
+102,CBRE,B,הודעת זיכוי עבור החזרות
+102,CBRE,C,Dobropis pro vrácené dodávky
+102,CBRE,D,Retourengutschrift
+102,CBRE,E,Credit Memo for Returns
+102,CBRE,F,Avoir pour retours
+102,CBRE,G,Πιστωτικό Σημείωμα για Επιστροφές
+102,CBRE,H,Visszáru-jóváírás
+102,CBRE,I,Nota di credito per resi
+102,CBRE,J,返品用クレジットメモ
+102,CBRE,K,Kreditnota for returvarer
+102,CBRE,L,Faktura korygująca minus za zwroty
+102,CBRE,M,退貨貸項通知單
+102,CBRE,N,Retourencreditnota
+102,CBRE,O,Kreditnota for returer
+102,CBRE,P,Nota de crédito para devoluções
+102,CBRE,Q,Dobropis za vrátenú dodávku
+102,CBRE,R,Кредит. авизо для возвратов
+102,CBRE,S,Abono para devoluciones
+102,CBRE,T,İadeler için alacak dekontu
+102,CBRE,U,Palautusten hyvitys
+102,CBRE,V,Kreditnota för returer
+102,CBRE,W,Кредит. авизо за върн. ст.
+102,CBRE,X,Grąžinimų kreditinė sąskaita
+102,CBRE,Y,Kredītrēķini atgrieztajām precēm
+102,CBRE,c,Abonament per a devolucions
+102,CBRE,d,Odobrenje za vraćanja
+102,CBRE,묩,वापसी हेतु क्रेडिट मेमो
+102,CBRE,뱋,Қайтарымдарға арналған кредиттік авизо
+102,CBRE,쁩,Giấy ghi có cho trả hàng
+102,CFB3,1,CF 部分回扣结算
+102,CFB3,2,CF ชำระบ/ชคืนบางส่วน
+102,CFB3,3,CF 분할리베이트정산
+102,CFB3,4,CF set.dec.parţ.rab.
+102,CFB3,5,CF del.obrač.bonusa
+102,CFB3,6,CF djel.obr.rabata
+102,CFB3,7,CF Ttapn Rebat Spara
+102,CFB3,8,CF част.розр.знижки
+102,CFB3,9,CF: boon.osal.arveld
+102,CFB3,A,تسويةخصم جزئية لـ CF
+102,CFB3,B,הסכם הנחה חלקית CF
+102,CFB3,C,Částeč.zúčt.bonusu CF
+102,CFB3,D,CF Bonusteilabr.
+102,CFB3,E,CF Part.Rebate Sett.
+102,CFB3,F,Calc. part. rist. CF
+102,CFB3,G,CF Διακ.Μερ.Εκπτωσ..
+102,CFB3,H,CF bón.részl.elszám.
+102,CFB3,I,CF: liq. parz. bonus
+102,CFB3,J,CF 分割リベート決済
+102,CFB3,K,CF bonusdelafregning
+102,CFB3,L,Częśc.roz.rabatu CF
+102,CFB3,M,CF 部份回扣結算
+102,CFB3,N,CF bonusdeelafrek.
+102,CFB3,O,CF delavr. av bonus
+102,CFB3,P,Liquid.parc.bônus CF
+102,CFB3,Q,CF Čiast.zúčt.bonusu
+102,CFB3,R,ЧастичРасчБонуса CF
+102,CFB3,S,Liq.parc.rappel CF
+102,CFB3,T,CF kısmi prim hsplş.
+102,CFB3,U,CF bon. osatilitys
+102,CFB3,V,CF bonusavräkn.
+102,CFB3,W,CF част.разчет рабат
+102,CFB3,X,CF dal.nuolaid. ats.
+102,CFB3,Y,CF daļ. b.atl. iest.
+102,CFB3,c,Liq.parcial ràpel CF
+102,CFB3,d,CF del.obr.bonusa
+102,CFB3,묩,CF आंशिक छूट निपटान
+102,CFB3,뱋,CF бонус.ішін.есепт.
+102,CFB3,쁩,Tl ggiá tphần CF
+102,CFG2,1,CF 贷项凭证
+102,CFG2,2,CF ใบลดหนี้
+102,CFG2,3,CF 대변 메모
+102,CFG2,4,CF credit memo
+102,CFG2,5,CF dobropis
+102,CFG2,6,CF odobrenje
+102,CFG2,7,CF Memo Kredit
+102,CFG2,8,CF кредитове авізо
+102,CFG2,9,CF: kreeditarve
+102,CFG2,A,مذكرة دائنة لـ CF
+102,CFG2,B,הודעת זיכוי CF
+102,CFG2,C,Dobropis CF
+102,CFG2,D,CF Gutschrift
+102,CFG2,E,CF Credit Memo
+102,CFG2,F,Avoir CF
+102,CFG2,G,CF Πιστωτ.Σημείωμα
+102,CFG2,H,CF jóváírás
+102,CFG2,I,CF: nota di credito
+102,CFG2,J,CF クレジットメモ
+102,CFG2,K,CF kreditnota
+102,CFG2,L,Fakt.koryg. minus CF
+102,CFG2,M,CF 貸項通知單
+102,CFG2,N,CF creditnota
+102,CFG2,O,CF kreditnota
+102,CFG2,P,Nota de crédito CF
+102,CFG2,Q,CF Dobropis
+102,CFG2,R,Кредитовое авизо CF
+102,CFG2,S,Abono CF
+102,CFG2,T,CF alacak dekontu
+102,CFG2,U,CF hyvitys
+102,CFG2,V,CF kreditnota
+102,CFG2,W,CF кредитно авизо
+102,CFG2,X,CF kreditinė sąsk.
+102,CFG2,Y,CF kredītrēķins
+102,CFG2,c,Abonament CF
+102,CFG2,d,CF odobrenje
+102,CFG2,묩,CF क्रेडिट मेमो
+102,CFG2,뱋,CF кредиттік авизосы
+102,CFG2,쁩,Giấy ghi có CF
+102,CHFK,1,出具发票外部事务借方
+102,CHFK,2,Bill.Ext.CH Trans. D
+102,CHFK,3,어음 CH 거래 D
+102,CHFK,4,Ext.fact.CH Trans.D
+102,CHFK,5,Ekst.fakt.UP post.k.
+102,CHFK,6,Proš.fak.UU trans. K
+102,CHFK,7,UrsNg Caj Lrn Pgbl D
+102,CHFK,8,Факт.розш.СН-транз.D
+102,CHFK,9,Väl.arveld.CH toim D
+102,CHFK,A,Bill.Ext.CH Trans. D
+102,CHFK,B,חיוב תנועתCHחיצוניתD
+102,CHFK,C,Fak.ext.SZ-operace D
+102,CHFK,D,Fak.ext.VV-Vorgang D
+102,CHFK,E,Bill.Ext.CH Trans. D
+102,CHFK,F,Fact. op. GC ext. D
+102,CHFK,G,Εξ.τιμολ.CH κίν.D
+102,CHFK,H,Szl.külső SzK-műv. V
+102,CHFK,I,Fatt.est.oper. GC C
+102,CHFK,J,請求外部 CH 取引 D
+102,CHFK,K,Fakt.Ekst.KS-oper. D
+102,CHFK,L,Fak.zew.ZU-Oper. D
+102,CHFK,M,請款外部 CH 交易借項
+102,CHFK,N,Fac.ext.VV-trans. D
+102,CHFK,O,Fak. ekst. KB-op. d.
+102,CHFK,P,FatExtPrcdCompVarv.D
+102,CHFK,Q,Fak.ext.oper.AdmZm D
+102,CHFK,R,Факт.внеш.СбОперац D
+102,CHFK,S,Fact.ext.oper.GC D
+102,CHFK,T,FtrlmBlg.SY-işl.mştr
+102,CHFK,U,Lask. ulk. SH-tap. A
+102,CHFK,V,Fakt. ext. AA-tr. K
+102,CHFK,W,Менителн.CH тран. D
+102,CHFK,X,Sąsk.išor.CH oper.D
+102,CHFK,Y,Nor. ār. CH trans. D
+102,CHFK,c,Fact.oper.contr.extD
+102,CHFK,d,Ekst.fakt.UU oper. D
+102,CHFK,묩,बिलिंग बा. CH लेन. D
+102,CHFK,뱋,Факт.сырт.алым тр. D
+102,CHFK,쁩,L.h.đCH g.d.m.rộngD
+102,CHFX,1,出具发票外部事务贷方
+102,CHFX,2,Bill.Ext.CH Trans. C
+102,CHFX,3,어음 CH 거래 C
+102,CHFX,4,Ext.fact.CH Trans.C
+102,CHFX,5,Ekst.fakt.UP post.d.
+102,CHFX,6,Proš.fak.UU trans. D
+102,CHFX,7,UrsNg Caj Lrn Pgbl C
+102,CHFX,8,Факт.розш.СН-транз.C
+102,CHFX,9,Väl.arveld.CH toim C
+102,CHFX,A,Bill.Ext.CH Trans. C
+102,CHFX,B,חיוב תנועתCHחיצוניתC
+102,CHFX,C,Fak.ext.SZ-operace K
+102,CHFX,D,Fak.ext.VV-Vorgang K
+102,CHFX,E,Bill.Ext.CH Trans. C
+102,CHFX,F,Fact. op. GC ext. C
+102,CHFX,G,Εξ.τιμολ.CH κίν. C
+102,CHFX,H,Szl.külső SzK-műv.Sz
+102,CHFX,I,Fatt.est.oper. GC F
+102,CHFX,J,請求外部 CH 取引 C
+102,CHFX,K,Fakt.Ekst.KS-oper. K
+102,CHFX,L,Fak.zew.ZU-Oper. K
+102,CHFX,M,請款外部 CH 交易貸項
+102,CHFX,N,Fac.ext.VV-trans. K
+102,CHFX,O,Fak. ekst. KB-op. k.
+102,CHFX,P,FatExtPrcdCompVarv.K
+102,CHFX,Q,Fak.ext.oper.AdmZm K
+102,CHFX,R,Факт.внеш.СбОперац K
+102,CHFX,S,Fact.ext.oper.GC C
+102,CHFX,T,Ftrlm.blg.SY-işl.stc
+102,CHFX,U,Lask. ulk. SH-tap. A
+102,CHFX,V,Fakt. ext. AA-tr. L
+102,CHFX,W,Менителн.CH тран. C
+102,CHFX,X,Sąsk.išor.CH oper.C
+102,CHFX,Y,Nor. ār. CH trans. C
+102,CHFX,c,Fact.oper.contr.extD
+102,CHFX,d,Ekst.fakt.UU oper. C
+102,CHFX,묩,बिलिंग बा. CH लेन. C
+102,CHFX,뱋,Факт.сырт.алым тр. C
+102,CHFX,쁩,L.h.đCH g.d.m.rộngC
+102,CICX,1,发票作废
+102,CICX,2,การยกเลิกใบแจ้งหนี้
+102,CICX,3,송장 취소
+102,CICX,4,Stornare factură
+102,CICX,5,Storno računa
+102,CICX,6,Storniranje fakture
+102,CICX,7,Pembatalan Invois
+102,CICX,8,Скасування рахунка-фактури
+102,CICX,9,Arve tühistamine
+102,CICX,A,إلغاء الفاتورة
+102,CICX,B,ביטול חשבונית
+102,CICX,C,Storno faktury
+102,CICX,D,Rechnungsstorno
+102,CICX,E,Invoice Cancellation
+102,CICX,F,Annulation de facture
+102,CICX,G,Ακύρωση Τιμολογίου
+102,CICX,H,Számlastornó
+102,CICX,I,Storno fattura
+102,CICX,J,請求書取消
+102,CICX,K,Fakturaannullering
+102,CICX,L,Storno faktury
+102,CICX,M,發票取消
+102,CICX,N,Factuurstorno
+102,CICX,O,Fakturaannullering
+102,CICX,P,Estorno de fatura
+102,CICX,Q,Storno faktúry
+102,CICX,R,Сторнирование счета
+102,CICX,S,Cancelación de facturas
+102,CICX,T,Fatura iptali
+102,CICX,U,Laskun peruutus
+102,CICX,V,Fakturaannullering
+102,CICX,W,Сторно на фактура
+102,CICX,X,Sąskaitos anuliavimas
+102,CICX,Y,Faktūrrēķina atcelšana
+102,CICX,c,Cancel·lació de factures
+102,CICX,d,Storniranje fakture
+102,CICX,묩,इनवॉइस रद्दीकरण
+102,CICX,뱋,Фактураны болдырмау
+102,CICX,쁩,Hủy hóa đơn
+102,CIX1,1,发票 - 外部交易
+102,CIX1,2,รายการภายนอกใบแจ้งหนี้
+102,CIX1,3,송장 외부 거래
+102,CIX1,4,Tranzacţie ext.factură
+102,CIX1,5,Eksterna transakcija računa
+102,CIX1,6,Vanjska transakcija fakture
+102,CIX1,7,Transaksi Luaran Invois
+102,CIX1,8,Зовнішня транзакція рахунка-фактури
+102,CIX1,9,Arve - väline tehing
+102,CIX1,A,المعاملة الخارجية للفاتورة
+102,CIX1,B,תנועת חשבונית חיצונית
+102,CIX1,C,Ext. transakce faktury
+102,CIX1,D,Externer Rechnungsvorgang
+102,CIX1,E,Invoice Ext. Transaction
+102,CIX1,F,Opération externe facture
+102,CIX1,G,Εξωτερ.Κίνηση Τιμολογίου
+102,CIX1,H,Külső számlatranzakció
+102,CIX1,I,Transazione est. fattura
+102,CIX1,J,請求書外部取引
+102,CIX1,K,Ekst. faktureringstransaktion
+102,CIX1,L,Zewnętrzna transakcja fakturowania
+102,CIX1,M,發票外部交易
+102,CIX1,N,Ext. factuurtransactie
+102,CIX1,O,Faktura ekstern transaksjon
+102,CIX1,P,Transação externa de fatura
+102,CIX1,Q,Faktúra - externá operácia
+102,CIX1,R,Внешняя операция счета-фактуры
+102,CIX1,S,Operación de factura externa
+102,CIX1,T,Fatura harici işlemi
+102,CIX1,U,Lasku - ulkoinen tapahtuma
+102,CIX1,V,Faktura extern transaktion
+102,CIX1,W,Външна транзакция фактура
+102,CIX1,X,Išorinė sąskaitos operacija
+102,CIX1,Y,Faktūrrēķina ārējā transakcija
+102,CIX1,c,Operació externa de factura
+102,CIX1,d,Eksterna transakcija fakture
+102,CIX1,묩,इनवॉयस बाहरी ट्रांजेक्शन
+102,CIX1,뱋,Шот-фактураның сырт. транзакциясы
+102,CIX1,쁩,Giao dịch bên ngoài hóa đơn
+102,F1,1,发票
+102,F1,2,ใบแจ้งหนี้
+102,F1,3,송장
+102,F1,4,Factură
+102,F1,5,Račun
+102,F1,6,Faktura
+102,F1,7,Invois
+102,F1,8,Рахунок-фактура
+102,F1,9,Arve
+102,F1,A,فاتورة
+102,F1,B,חשבונית
+102,F1,C,Faktura
+102,F1,D,Rechnung
+102,F1,E,Invoice
+102,F1,F,Facture
+102,F1,G,Τιμολόγιο
+102,F1,H,Számla
+102,F1,I,Fattura
+102,F1,J,請求書
+102,F1,K,Faktura
+102,F1,L,Faktura
+102,F1,M,發票
+102,F1,N,Factuur
+102,F1,O,Faktura
+102,F1,P,Fatura
+102,F1,Q,Faktúra
+102,F1,R,Счет-фактура
+102,F1,S,Factura
+102,F1,T,Fatura
+102,F1,U,Lasku
+102,F1,V,Faktura
+102,F1,W,Фактура
+102,F1,X,Sąskaita
+102,F1,Y,Faktūrrēķins
+102,F1,c,Factura
+102,F1,d,Faktura
+102,F1,묩,इनवॉइस
+102,F1,뱋,Шот-фактура
+102,F1,쁩,Hoá đơn
+102,F2,1,发票
+102,F2,2,ใบกำกับสินค้า
+102,F2,3,송장
+102,F2,4,Factură
+102,F2,5,Račun
+102,F2,6,Faktura
+102,F2,7,Invois
+102,F2,8,Рахунок-фактура
+102,F2,9,Arve
+102,F2,A,الفاتورة
+102,F2,B,חשבונית
+102,F2,C,Faktura
+102,F2,D,Rechnung
+102,F2,E,Invoice
+102,F2,F,Facture
+102,F2,G,Τιμολόγιο
+102,F2,H,Számla
+102,F2,I,Fattura
+102,F2,J,請求書
+102,F2,K,Faktura
+102,F2,L,Faktura
+102,F2,M,發票
+102,F2,N,Factuur
+102,F2,O,Faktura
+102,F2,P,Fatura
+102,F2,Q,Faktúra
+102,F2,R,Счет
+102,F2,S,Factura
+102,F2,T,Fatura
+102,F2,U,Lasku
+102,F2,V,Faktura
+102,F2,W,Фактура
+102,F2,X,Sąskaita
+102,F2,Y,Faktūrrēķins
+102,F2,c,Factura
+102,F2,d,Faktura
+102,F2,묩,इनवॉइस
+102,F2,뱋,Шот-фактура
+102,F2,쁩,Hóa đơn
+102,F5,1,形式订单
+102,F5,2,รายการชั่วคราวสำหรับใบสั่ง
+102,F5,3,오더 견적
+102,F5,4,Pro forma pt.comandă
+102,F5,5,Proforma za naročilo
+102,F5,6,Pro forma za nalog
+102,F5,7,Pro Forma untuk Pesanan
+102,F5,8,Проформа для замовлення
+102,F5,9,Esialgn.arve tell-le
+102,F5,A,شكلي للأمر
+102,F5,B,פרופורמה להזמנה
+102,F5,C,Proforma pro zakáz.
+102,F5,D,Pro-forma für Auftrag
+102,F5,E,Pro Forma for Order
+102,F5,F,Facture proforma pour commande
+102,F5,G,Pro Forma για Εντολή
+102,F5,H,Pro forma rend.-hez
+102,F5,I,Proforma per ordine
+102,F5,J,受注のプロフォーマ
+102,F5,K,Proforma til ordre
+102,F5,L,Pro forma zlecenia
+102,F5,M,預估訂單
+102,F5,N,Pro-forma voor order
+102,F5,O,Proforma for ordre
+102,F5,P,Pro-forma p/ordem
+102,F5,Q,Proforma pre zákaz.
+102,F5,R,Счет-проформа для заказа
+102,F5,S,Proforma para pedido
+102,F5,T,Sprş.proforma ftr.
+102,F5,U,Proforma tilausta varten
+102,F5,V,Proforma för order
+102,F5,W,Проформа за поръчка
+102,F5,X,Išank.do k.užsakymui
+102,F5,Y,Pasūtījuma pro forma
+102,F5,c,Pro-forma p.comanda
+102,F5,d,Pro forma za nalog
+102,F5,묩,ऑर्डर हेतु अग्रिम
+102,F5,뱋,Тапсырысқа арналған проформа
+102,F5,쁩,Hđơnbgiá cho đhàng
+102,F8,1,交货的形式发票
+102,F8,2,ใบกำกับสินค้าชั่วคราวสำหรับการส่งมอบ
+102,F8,3,납품 프로 포마 송장
+102,F8,4,Factură pro forma pt.livrare
+102,F8,5,Proforma račun za dobavo
+102,F8,6,Pro forma faktura za isporuku
+102,F8,7,Invois Pro Forma untuk Penghantaran
+102,F8,8,Проформа для поставки
+102,F8,9,Esialgne arve tarne eest
+102,F8,A,فاتورة شكلية للتسليم
+102,F8,B,חשבונית פרופורמה עבור אספקה
+102,F8,C,Proforma faktura pro dodávku
+102,F8,D,Pro-forma-Rechnung für Lieferung
+102,F8,E,Pro Forma Invoice for Delivery
+102,F8,F,Facture proforma pour livraison
+102,F8,G,ProForma Τιμολόγιο για Παράδοση
+102,F8,H,Pro forma számla szállításhoz
+102,F8,I,Fattura proforma per consegna
+102,F8,J,出荷のプロフォーマインボイス
+102,F8,K,Proformafaktura for levering
+102,F8,L,Faktura pro forma dla dost.
+102,F8,M,交貨的預估發票
+102,F8,N,Pro-formafactuur voor levering
+102,F8,O,Proformafaktura for levering
+102,F8,P,Fatura pro forma p/remessa
+102,F8,Q,Proforma fakt.pre dodávku
+102,F8,R,Счет-проформа для поставки
+102,F8,S,Factura proforma para entrega
+102,F8,T,Teslimat için proforma faturası
+102,F8,U,Proformalasku toimitusta varten
+102,F8,V,Pro forma-faktura för leverans
+102,F8,W,Проформа фактура за доставка
+102,F8,X,Išankst. dok. sąsk. pristat.
+102,F8,Y,Faktūrrēķina pro forma piegādei
+102,F8,c,Factura pro-forma p.lliurament
+102,F8,d,Pro forma faktura za isporuku
+102,F8,묩,वितरण हेतु अग्रिम इनवॉइस
+102,F8,뱋,Жетк.арн.порф.-шот
+102,F8,쁩,Hóa đơn tạm để giao hàng
+102,FADP,1,预付款请求
+102,FADP,2,คำขอให้ชำระเงินดาวน์
+102,FADP,3,선금 요청
+102,FADP,4,Cerere de plată în avans
+102,FADP,5,Zahteva za predplačilo
+102,FADP,6,Zahtjev za predujam
+102,FADP,7,Permintaan Bayaran Pendahuluan
+102,FADP,8,Вимога авансов.плат.
+102,FADP,9,Ettemaksetaotlus
+102,FADP,A,طلب دَفعة مقدّمة
+102,FADP,B,בקשת מקדמה
+102,FADP,C,Požadavek na zálohu
+102,FADP,D,Anzahlungsanford.
+102,FADP,E,Down Payment Request
+102,FADP,F,Demande d'acompte
+102,FADP,G,Αίτηση Προκαταβολής
+102,FADP,H,Előlegigénylés
+102,FADP,I,Richiesta di antic.
+102,FADP,J,前受金請求
+102,FADP,K,Anmodning om forudbetaling
+102,FADP,L,Żądanie zaliczki
+102,FADP,M,訂金請求
+102,FADP,N,Vooruitbetalingsaanvraag
+102,FADP,O,Anmodning om forskuddsbetaling
+102,FADP,P,Solicitação de adiantamento
+102,FADP,Q,Požiadavka na zálohu
+102,FADP,R,Требование аванса
+102,FADP,S,Solicitud anticipo
+102,FADP,T,Peşinat talebi
+102,FADP,U,Ennakkomaksupyyntö
+102,FADP,V,Förskottsanmodan
+102,FADP,W,Заявка за авансово плащане
+102,FADP,X,Išankst. dalinio mokėjimo reikalavimas
+102,FADP,Y,Avansa maksājuma pieprasījums
+102,FADP,c,Sol·licitud de bestreta
+102,FADP,d,Zahtev za avans
+102,FADP,묩,तत्काल भुगतान अनुरोध
+102,FADP,뱋,Аванстық төлем талабы
+102,FADP,쁩,Yêu cầu đặt cọc
+102,FAS,1,预付款申请取消
+102,FAS,2,การยกเลิกคำขอให้ชำระเงินดาวน์
+102,FAS,3,선금 요청 취소
+102,FAS,4,Anulare cerere de avans
+102,FAS,5,Storno zahteve za predplačilo
+102,FAS,6,Otkazivanje zahtjeva za predujam
+102,FAS,7,Pembatalan Permintaan Bayaran Pndhluan
+102,FAS,8,Скасування вимоги авансового платежу
+102,FAS,9,Ettemaksetaotluse tühistamine
+102,FAS,A,إلغاء طلب دفعة مقدمة
+102,FAS,B,ביטול בקשה לתשלום מקדמה
+102,FAS,C,Storno požadavku na zálohu
+102,FAS,D,Storno Anzahlungsanforderung
+102,FAS,E,Down Payment Request Cancellation
+102,FAS,F,Annulation de la demande d'acompte
+102,FAS,G,Ακύρωση Αίτησης Προκαταβολής
+102,FAS,H,Előlegigénylés stornózása
+102,FAS,I,Storno richiesta di acconto
+102,FAS,J,前受金請求取消
+102,FAS,K,Annullering af forudbetalingsanmodning
+102,FAS,L,Storno żądania zaliczki
+102,FAS,M,訂金請求取消
+102,FAS,N,Storno vooruitbetalingsaanvraag
+102,FAS,O,Annullering av anmodning om forsk.bet.
+102,FAS,P,Estorno solicitação adiantamento
+102,FAS,Q,Storno požiadavky na zálohu
+102,FAS,R,Сторно запроса аванса
+102,FAS,S,Cancelación de la solicitud de anticipo
+102,FAS,T,Peşinat talebi iptali
+102,FAS,U,Ennakkomaksupyynnön peruutus
+102,FAS,V,Annullering av förskottsanmodan
+102,FAS,W,"Заявка за аванс.плащане, сторно"
+102,FAS,X,Atš. išankst. dalinio mok. užklausą
+102,FAS,Y,Avansa maksājuma pieprasījuma atcelšana
+102,FAS,c,Anul·lar sol·licitud de bestreta
+102,FAS,d,Otkazivanje zahteva za avans
+102,FAS,묩,तत्काल भुग.अनु.रद्द
+102,FAS,뱋,Аван.төлем сұр.болд.
+102,FAS,쁩,Hủy yêu cầu trả trước
+102,FAZ,1,预付款请求
+102,FAZ,2,คำขอให้ชำระเงินดาวน์
+102,FAZ,3,선금 요청
+102,FAZ,4,Cerere plată în avans
+102,FAZ,5,Zahteva za predplač.
+102,FAZ,6,Zahtjev za predujam
+102,FAZ,7,Permintaan Bayaran Pendahuluan
+102,FAZ,8,Вимога авансового платежу
+102,FAZ,9,Ettemaksetaotlus
+102,FAZ,A,طلب دَفعة مقدّمة
+102,FAZ,B,בקשת מקדמה
+102,FAZ,C,Požadavek na zálohu
+102,FAZ,D,Anzahlungsanforderung
+102,FAZ,E,Down Payment Request
+102,FAZ,F,Demande d'acompte
+102,FAZ,G,Αίτηση Προκαταβολής
+102,FAZ,H,Előlegigénylés
+102,FAZ,I,Richiesta di acconto
+102,FAZ,J,前受金請求
+102,FAZ,K,Anmodning om forudbetaling
+102,FAZ,L,Żądanie zaliczki
+102,FAZ,M,訂金請求
+102,FAZ,N,Vooruitbetalingsaanvraag
+102,FAZ,O,Anmodning om forskuddsbetaling
+102,FAZ,P,Solicitação de adiantamento
+102,FAZ,Q,Požiadavka na zálohu
+102,FAZ,R,Требование авансового платежа
+102,FAZ,S,Solicitud de anticipo
+102,FAZ,T,Peşinat talebi
+102,FAZ,U,Ennakkomaksupyyntö
+102,FAZ,V,Förskottsanmodan
+102,FAZ,W,Искане за авансово плащане
+102,FAZ,X,Išankst. dalinio mokėj. reik.
+102,FAZ,Y,Avansa maksājuma pieprasījums
+102,FAZ,c,Sol·licitud de bestreta
+102,FAZ,d,Zahtev za avans
+102,FAZ,묩,तत्काल भुगतान अनुरोध
+102,FAZ,뱋,Аванстық төлем талабы
+102,FAZ,쁩,Yêu cầu trả trước
+102,FAZS,1,BOS 预付请求
+102,FAZS,2,BOS คำขอให้ชรง.ดาวน์
+102,FAZS,3,BOS 선금요청
+102,FAZS,4,SpecServCerereAvans
+102,FAZS,5,ZahtZaPredplač SS
+102,FAZS,6,Lista usluga zahtjev za predujam
+102,FAZS,7,Permintaan Bayaran Pendahuluan BOS
+102,FAZS,8,BOS DownPaymentReqst
+102,FAZS,9,BOS ettemaksetaotlus
+102,FAZS,A,طلب دفعة مقدمة لـBOS
+102,FAZS,B,BOS בקשת מקדמה
+102,FAZS,C,Požad.na zálohu SV
+102,FAZS,D,Anzahlungsanf. LV
+102,FAZS,E,BOS DownPaymentReqst
+102,FAZS,F,Demande d'acompte cahier des charges
+102,FAZS,G,Αίτησ.προκαταβ.BOS
+102,FAZS,H,BOS DownPaymentReqst
+102,FAZS,I,Rich. acconto CPS
+102,FAZS,J,BOS 前払金請求
+102,FAZS,K,ForudbetAnmodn. SYF
+102,FAZS,L,Żądanie zaliczki SpU
+102,FAZS,M,服務表訂金請求
+102,FAZS,N,VoorBetAnvr. ServCat
+102,FAZS,O,Anmodning om forsk.bet. TK
+102,FAZS,P,Solic.adiant.RS
+102,FAZS,Q,Požiad.na zálohu SV
+102,FAZS,R,ТребовАвансПлтж- ОДМ
+102,FAZS,S,Sol.anticipo CS
+102,FAZS,T,Serv.lst.peşinat tlp
+102,FAZS,U,Enn.maksupyyntö PH
+102,FAZS,V,Tjänstespec. förskottsanm.
+102,FAZS,W,КатРаб.заявка авансово плащане
+102,FAZS,X,BOS IšankstMokėjUžkl
+102,FAZS,Y,MS avansa maksājuma pieprasījums
+102,FAZS,c,Sol·licitud de bestreta BOS
+102,FAZS,d,Lista usluga - zahtev za avans
+102,FAZS,묩,BOS DownPaymentReqst
+102,FAZS,뱋,BOS аванстық төлем сұрауы
+102,FAZS,쁩,BOS yêu cầu đ.cọc
+102,FL,1,形式LB
+102,FL,2,ล่วงหน้าสำหรับ LB
+102,FL,3,LB 견적
+102,FL,4,Proforma pt.LB
+102,FL,5,Proforma za LB
+102,FL,6,Proforma za LB
+102,FL,7,Proforma untuk LB
+102,FL,8,Проформа для LB
+102,FL,9,"Esialgn.arve, LB"
+102,FL,A,شكلي لـ LB
+102,FL,B,פרופורמה עבור LB
+102,FL,C,Profor.pro pr.ve mz.
+102,FL,D,Proforma für LB
+102,FL,E,Proforma for LB
+102,FL,F,Proforma pour LB
+102,FL,G,Proforma για LB
+102,FL,H,Proforma bérfeld.hoz
+102,FL,I,Proforma per lav.est
+102,FL,J,仮請求書: LB
+102,FL,K,Proforma til LF
+102,FL,L,Pro forma dla LB
+102,FL,M,LB 預估發票
+102,FL,N,Pro forma voor LB
+102,FL,O,Proforma for UL
+102,FL,P,Proforma para LB
+102,FL,Q,Proforma p.PrácZaMzd
+102,FL,R,Проформа для LB
+102,FL,S,Proforma para LB
+102,FL,T,FÜ için proforma
+102,FL,U,"Proforma, LB"
+102,FL,V,Proforma för lego
+102,FL,W,Проформа за LB
+102,FL,X,Išankst.dokument.LB
+102,FL,Y,LB pro forma
+102,FL,c,Pro-forma prov.subc.
+102,FL,d,Proforma za LB
+102,FL,묩,LB हेतु प्रोफॉर्मा
+102,FL,뱋,LB арн.проформа
+102,FL,쁩,Báogiá tạm cho LB
+102,FP,1,出据发票POS-接口
+102,FP,2,Billing POS-Interfce
+102,FP,3,청구 POS-인터페이스
+102,FP,4,Factură intrfaţă POS
+102,FP,5,Faktura POS-vmesnik
+102,FP,6,POS-sučelje faktur.
+102,FP,7,Pgbiln AntrMuka-POS
+102,FP,8,Фактура інтерф.POS
+102,FP,9,Arveld. POS liides
+102,FP,A,واجهة-POS للفواتير
+102,FP,B,חיוב ממשק-POS
+102,FP,C,Faktura interf.POS
+102,FP,D,Faktura POS-Interf.
+102,FP,E,Billing POS-Interfce
+102,FP,F,Facturation interface POS
+102,FP,G,Τιμολόγ. POS-Παρέμβ.
+102,FP,H,Számla POS-interfész
+102,FP,I,Fattura interf. POS
+102,FP,J,POS 請求 - Interfce
+102,FP,K,Faktura POS-interf.
+102,FP,L,Faktura POS-Inter.
+102,FP,M,請款 POS - 介面
+102,FP,N,Factuur POS-interf.
+102,FP,O,Faktura POS-Interf.
+102,FP,P,Interf.POS doc.fat.
+102,FP,Q,Faktúra rozhran.POS
+102,FP,R,Фактура POS-интерф.
+102,FP,S,Interf.POS Factura
+102,FP,T,Ftrl.POS arabirimi
+102,FP,U,Lasku - POS-liittymä
+102,FP,V,Faktura pos-interf.
+102,FP,W,Факт. POS-интерфейс
+102,FP,X,Sąskaitos POS sąsaja
+102,FP,Y,Rēķina izrakstīšanas POS saskarne
+102,FP,c,Factura interf.TPV
+102,FP,d,Faktur. POS interf.
+102,FP,묩,बिलिंग POS-इंटरफ़ेस
+102,FP,뱋,POS интер. шот ұсыну
+102,FP,쁩,Lập hđ POS-g.diện
+102,FR,1,发票修复
+102,FR,2,แก้ไขใบแจ้งหนี้
+102,FR,3,수리송장
+102,FR,4,Factură reparaţie
+102,FR,5,Račun popravilo
+102,FR,6,Faktura Popravak
+102,FR,7,Pembaikan Invois
+102,FR,8,Рах.-фактура: випр.
+102,FR,9,"Arve, parandamine"
+102,FR,A,إصلاح الفاتورة
+102,FR,B,תיקון חשבונית
+102,FR,C,Faktura - reparatura
+102,FR,D,Rechnung Reparatur
+102,FR,E,Invoice Repair
+102,FR,F,Facture réparation
+102,FR,G,Τιμολόγιο Διορθώσεων
+102,FR,H,Számla - reparatúra
+102,FR,I,Fattura riparazione
+102,FR,J,請求書 (修理費用)
+102,FR,K,Faktura reparation
+102,FR,L,Rachunek naprawy
+102,FR,M,維修發票
+102,FR,N,Factuur reparatie
+102,FR,O,Faktura - reparasjon
+102,FR,P,Fatura reparação
+102,FR,Q,Faktúra - oprava
+102,FR,R,Счет-факт./исправ.
+102,FR,S,Fatura reparación
+102,FR,T,Fatura (onarım)
+102,FR,U,"Lasku, korjaus"
+102,FR,V,Faktura reparation
+102,FR,W,Корекция на фактура
+102,FR,X,Sąskaitos taisymas
+102,FR,Y,Faktūrrēķina labošana
+102,FR,c,Reparació factura
+102,FR,d,Popravka fakture
+102,FR,묩,इनवॉइस मरम्मत
+102,FR,뱋,Шот-фактураны түзету
+102,FR,쁩,Sửa hoá đơn
+102,FS,E,
+102,FV,1,发票合同
+102,FV,2,ใบแจ้งหนี้ตามสัญญา
+102,FV,3,일괄계약송장
+102,FV,4,Factură contract
+102,FV,5,Račun pogodba
+102,FV,6,Faktura Ugovor
+102,FV,7,Kontrak Invois
+102,FV,8,Рах.-факт.: контракт
+102,FV,9,"Arve, leping"
+102,FV,A,عقد فاتورة
+102,FV,B,חוזה חשבונית
+102,FV,C,Faktura - smlouva
+102,FV,D,Rechnung Vertrag
+102,FV,E,Invoice Contract
+102,FV,F,Facture contrat
+102,FV,G,Τιμολ.Σύμβασης
+102,FV,H,Számla - szerződés
+102,FV,I,Fattura contratto
+102,FV,J,請求契約
+102,FV,K,Faktura kontrakt
+102,FV,L,Rachunek umowy
+102,FV,M,發票契約
+102,FV,N,Factuur contract
+102,FV,O,Faktura - kontrakt
+102,FV,P,Fatura doc.contrat.
+102,FV,Q,Faktúra - zmluva
+102,FV,R,Счет-фактура:договор
+102,FV,S,Factura contrato
+102,FV,T,Fatura (sözleşme)
+102,FV,U,Lasku - sopimus
+102,FV,V,Faktura avtal
+102,FV,W,Договор с фактура
+102,FV,X,Sąskaitos kontraktas
+102,FV,Y,Faktūrrēķina līgums
+102,FV,c,Factura contracte
+102,FV,d,Faktura-ugovor
+102,FV,묩,इनवॉइस संविदा
+102,FV,뱋,"Шот-фактура, келіс."
+102,FV,쁩,Hoá đơn hợp đồng
+102,FX,1,出具发票外部事务
+102,FX,2,รายการวางบิลภายนอก
+102,FX,3,외부거래 대금청구
+102,FX,4,Factură operaţie ext
+102,FX,5,Faktura ekst. post.
+102,FX,6,Trans.ext.faktur.
+102,FX,7,Pgbln Trnsaksi Luarn
+102,FX,8,Факт.зовн.транзакції
+102,FX,9,"Arveld, välin. toim."
+102,FX,A,معامَلة توسعة فاتورة
+102,FX,B,חיוב העברות חיצוניות
+102,FX,C,Faktura ext.operace
+102,FX,D,Faktura ext.Vorgang
+102,FX,E,Billing Ext Transact
+102,FX,F,FactureOpératExterne
+102,FX,G,Εξ.κιν.τιμολόγησης
+102,FX,H,Külső műv. száml.
+102,FX,I,Fattura oper.esterna
+102,FX,J,請求 - 外部取引
+102,FX,K,Faktura ekst.operat.
+102,FX,L,Faktura zew. oper.
+102,FX,M,外部交易請款
+102,FX,N,Fact. ext. operatie
+102,FX,O,Faktura ekst. oper.
+102,FX,P,DocFat operação ext.
+102,FX,Q,Faktúra ext.operácie
+102,FX,R,ФактураВнешОперации
+102,FX,S,Factura operac.ext.
+102,FX,T,Ftr.blg(harici işl.)
+102,FX,U,Lasku - ulk. tap.
+102,FX,V,Faktura ext.trans.
+102,FX,W,Фактура за външ.опер
+102,FX,X,Sąskait.išor.operac.
+102,FX,Y,Rēķinu izrakstīšanas ārēja transakcija
+102,FX,c,Factura oper.ext.
+102,FX,d,Fakt.ekst.transakc.
+102,FX,묩,बिलिंग बाहरी लेनदेन
+102,FX,뱋,Сырт.транзак.фактур.
+102,FX,쁩,L.h.đ gdịch m.rộng
+102,FXG,1,贷项凭证 S-b（含发票）
+102,FXG,2,ใบลดหนี้ S-b w.i.
+102,FXG,3,대변 메모 S-b(송장 있음)
+102,FXG,4,Credit memo S-b w.i
+102,FXG,5,Dobropis S-b w.i.
+102,FXG,6,Odobrenje samofakturiranja s KreirFakt
+102,FXG,7,Memo Kredit S-b w.i.
+102,FXG,8,Кред.авізо з фактур.
+102,FXG,9,Kreeditarve S-b w.i.
+102,FXG,A,مذكرة دائنة S-b w.i.
+102,FXG,B,הודעת זיכוי S-b w.i.
+102,FXG,C,Dobrop. SB s fakt.
+102,FXG,D,Gutschr. GSV m.R.
+102,FXG,E,Credit Memo S-b w.i.
+102,FXG,F,Avoir PNCav.CF
+102,FXG,G,Πιστ.σημ. S-b w.i.
+102,FXG,H,Jóváírás JVE számlával
+102,FXG,I,Nota cred.PA c.fatt.
+102,FXG,J,クレジットメモ/請求書あり
+102,FXG,K,Kreditnota KNP med faktura
+102,FXG,L,Faktura korygująca minus RFKMzR
+102,FXG,M,貸項通知單 S-b〈含發票〉
+102,FXG,N,Creditnota CNM m. f.
+102,FXG,O,Kreditnota KPR m/fakt.
+102,FXG,P,Nota crédito PNC c/fat.
+102,FXG,Q,Dobropis s faktúrou
+102,FXG,R,КредитАвизо РКА/счет
+102,FXG,S,Abono pr.ab.c/fact.
+102,FXG,T,Alck.dknt.rez.ile AK
+102,FXG,U,Hyvitys HM sis. l.
+102,FXG,V,Kreditnota FLB med faktura
+102,FXG,W,Кредитно авизо с фактура
+102,FXG,X,Kredit. sąs.s-b.ček.
+102,FXG,Y,Kredītrēķins S-b w.i.
+102,FXG,c,Ab.proced.ab.a/fact.
+102,FXG,d,Odobrenje - samofakturisanje sa fakturom
+102,FXG,묩,क्रेडिटमेमो S-b w.i.
+102,FXG,뱋,Кред.авизо S-b w.i.
+102,FXG,쁩,Giấy ghi có S-b w.i.
+102,FXL,1,借项凭证 S-b（含发票）
+102,FXL,2,ใบเพิ่มหนี้ S-b w.i.
+102,FXL,3,차변 메모 S-b(송장 있음)
+102,FXL,4,Debit memo S-b w.i
+102,FXL,5,Bremepis S-b w.i.
+102,FXL,6,Terećenje samofakturiranja s KreirFakt
+102,FXL,7,Memo Debit S-b w.i.
+102,FXL,8,Дебет.авізо з факт.
+102,FXL,9,Deebetarve S-b w.i.
+102,FXL,A,مذكرة مدينة S-b w.i.
+102,FXL,B,הודעת חיוב S-b w.i.
+102,FXL,C,Vrubop. SB s fakt.
+102,FXL,D,Lastschr. GSV m.R.
+102,FXL,E,Debit Memo S-b w.i.
+102,FXL,F,Note débit PNC av.CF
+102,FXL,G,Χρεωστ.σημ. S-b w.i.
+102,FXL,H,Terhelés JVE számlával
+102,FXL,I,Nota deb.PA con fatt.
+102,FXL,J,デビットメモ/請求書あり
+102,FXL,K,Debetnota KNP med faktura
+102,FXL,L,Faktura korygująca plus RFKMzR
+102,FXL,M,借項通知單 S-b〈含發票〉
+102,FXL,N,Debetnota CNM m. f.
+102,FXL,O,Debetnota KPR m/fakt.
+102,FXL,P,Nota débito PNC c/fat.
+102,FXL,Q,Ťarchopis s faktúrou
+102,FXL,R,ДебетАвизо РКА/счет
+102,FXL,S,NotCgo.pr.ab.c/fact.
+102,FXL,T,Borç dknt.rez.ile AK
+102,FXL,U,Veloitus HM sis. l.
+102,FXL,V,Debetnota FLB med faktura
+102,FXL,W,Дебитно авизо с фактура
+102,FXL,X,Debet. sąs.s-b.ček.
+102,FXL,Y,Debeta avizo S-b w.i.
+102,FXL,c,NotCàrrecProcAbFact
+102,FXL,d,Zaduženje - samofakturisanje sa fakturom
+102,FXL,묩,डेबिट मेमो S-b w.i.
+102,FXL,뱋,Деб.авизо S-b w.i.
+102,FXL,쁩,Giấy ghi nợ S-b w.i.
+102,FXS,1,发票 S-b w.i.
+102,FXS,2,ใบแจ้งหนี้ S-b w.i.
+102,FXS,3,송장 S-b w.i.
+102,FXS,4,Factură S-b w.i
+102,FXS,5,Račun S-b w.i.
+102,FXS,6,Faktura samofakturiranja s KreirFakt
+102,FXS,7,Invois S-b w.i.
+102,FXS,8,Рахунок з фактурою
+102,FXS,9,Arve S-b w.i.
+102,FXS,A,فاتورة S-b w.i.
+102,FXS,B,חשבונית S-b w.i.
+102,FXS,C,Faktura - DP s fakt.
+102,FXS,D,Rechnung GSV m.R.
+102,FXS,E,Invoice S-b w.i.
+102,FXS,F,Facture PNC av.CF
+102,FXS,G,Τιμολόγιο S-b w.i.
+102,FXS,H,Számla JVE számlával
+102,FXS,I,Fattura PA con fatt.
+102,FXS,J,請求書/請求書あり
+102,FXS,K,Faktura KNP m/fakt.
+102,FXS,L,Faktura RFKMzR
+102,FXS,M,發票 S-b〈含發票〉
+102,FXS,N,Factuur CNM m. f.
+102,FXS,O,Faktura KPR m/fakt.
+102,FXS,P,Fatura    PNC c/fat.
+102,FXS,Q,Faktúra - DP s fakt.
+102,FXS,R,СчетФактура РКА/счет
+102,FXS,S,Fact.proc.ab.c/fact.
+102,FXS,T,Fatura rez.ile AK
+102,FXS,U,Lasku HM sis. l.
+102,FXS,V,Faktura FLB m fakt.
+102,FXS,W,Факт. - ПД с фактура
+102,FXS,X,Sąskaita s-b.ček.
+102,FXS,Y,Faktūrrēķins S-b w.i
+102,FXS,c,Fact.proced.ab.fact.
+102,FXS,d,FakturaSamof.sa p.
+102,FXS,묩,इनवॉइस S-b w.i.
+102,FXS,뱋,Шот-фак.S-b w.i.
+102,FXS,쁩,Hđơn S-b w.i.
+102,G2,1,贷项凭证
+102,G2,2,ใบลดหนี้
+102,G2,3,대변 메모
+102,G2,4,Credit memo
+102,G2,5,Dobropis
+102,G2,6,Odobrenje
+102,G2,7,Memo Kredit
+102,G2,8,Кредитове авізо
+102,G2,9,Kreeditarve
+102,G2,A,المذكرة الدائنة
+102,G2,B,הודעת זיכוי
+102,G2,C,Dobropis
+102,G2,D,Gutschrift
+102,G2,E,Credit Memo
+102,G2,F,Avoir
+102,G2,G,Πιστωτικό Σημείωμα
+102,G2,H,Jóváírás
+102,G2,I,Nota di credito
+102,G2,J,クレジットメモ
+102,G2,K,Kreditnota
+102,G2,L,Faktura korygująca minus
+102,G2,M,貸項通知單
+102,G2,N,Creditnota
+102,G2,O,Kreditnota
+102,G2,P,Nota de crédito
+102,G2,Q,Dobropis
+102,G2,R,Кредитовое авизо
+102,G2,S,Nota de crédito
+102,G2,T,Alacak dekontu
+102,G2,U,Hyvitys
+102,G2,V,Kreditnota
+102,G2,W,Кредитно авизо
+102,G2,X,Kreditinė sąskaita
+102,G2,Y,Kredītrēķins
+102,G2,c,Nota d'abonament
+102,G2,d,Odobrenje
+102,G2,묩,क्रेडिट मेमो
+102,G2,뱋,Кредиттік авизо
+102,G2,쁩,Giấy ghi Có
+102,G2S,1,第三方贷项凭证
+102,G2S,2,ใบลดหนี้ - บุคคลภายนอก
+102,G2S,3,제3자 대변 메모
+102,G2S,4,Credit memo terţ
+102,G2S,5,Dobropis tretje stranke
+102,G2S,6,Odobrenje treće stane
+102,G2S,7,Memo Kredit Pihak Ke-3
+102,G2S,8,Кред.авізо/3 сторона
+102,G2S,9,Kolm. osap. kreeditarve
+102,G2S,A,طرف ثالث لمذكرة دائن
+102,G2S,B,הודעת זיכוי צד שלישי
+102,G2S,C,Dobropis - 3. strana
+102,G2S,D,Gutschrift Strecke
+102,G2S,E,Cred. Memo 3rd Party
+102,G2S,F,Avoir tiers
+102,G2S,G,Πιστωτ.Σημ.Τρίτου
+102,G2S,H,Jóváírás - háromszögügylet
+102,G2S,I,Nota credito terzi
+102,G2S,J,クレジットメモ (仕入先直送)
+102,G2S,K,Kreditnota tredjepart
+102,G2S,L,Faktura korygująca minus - str. trzecia
+102,G2S,M,貸項通知單〈第三方〉
+102,G2S,N,Creditnota extern
+102,G2S,O,Kreditnota tredjepart
+102,G2S,P,Nota crédito terceiros
+102,G2S,Q,Dobropis - 3.strana
+102,G2S,R,Кред. авизо/3 сторона
+102,G2S,S,Abono de terceros
+102,G2S,T,Alacak dekontu - üçüncü taraf
+102,G2S,U,Hyvitys suoratoimitus
+102,G2S,V,Kreditnota tredjepart
+102,G2S,W,Кр. авизо 3-та стр.
+102,G2S,X,3-iosios šalies kreditinė sąskaita
+102,G2S,Y,Kredītrēķins 3. pusei
+102,G2S,c,Abonament tercer
+102,G2S,d,Odobrenje 3. strane
+102,G2S,묩,क्रेडिट मेमो तृतीय पक्ष
+102,G2S,뱋,Кред.авиз.3-тарабы
+102,G2S,쁩,Bên thứ ba giấy ghi có
+102,HR,1,出具发票培训管理
+102,HR,2,Billing Training Adm
+102,HR,3,교육관리 대금청구
+102,HR,4,Factură seminar
+102,HR,5,Faktura upr.seminar.
+102,HR,6,Faktur.admin.obučav.
+102,HR,7,Pentadbir Latihan Pengebilan
+102,HR,8,Факт./керуван.семін.
+102,HR,9,Koolit. hal.arveld.
+102,HR,A,Billing Training Adm
+102,HR,B,חיוב מינהלת הכשרה
+102,HR,C,Faktura admin.semin.
+102,HR,D,Faktura Seminarverw.
+102,HR,E,Billing Training Adm
+102,HR,F,Facturation admin. formation
+102,HR,G,Διαχ.Εκπαιδ.Τιμολ.
+102,HR,H,Oktatási admin. száml.
+102,HR,I,Fattura gest.corsi
+102,HR,J,請求 - 研修管理
+102,HR,K,Faktura seminaradm.
+102,HR,L,Faktura-wyk. szkol.
+102,HR,M,請款訓練管理
+102,HR,N,Factuur seminaradm.
+102,HR,O,Faktura - kursadm.
+102,HR,P,DocFaturam.- AdmCurs
+102,HR,Q,Faktúra admin.semin.
+102,HR,R,ФактураУправлСеминар
+102,HR,S,Fact.gestión curso
+102,HR,T,Ftrl.blg.(eğitim)
+102,HR,U,Lasku - seminaarih.
+102,HR,V,Faktura kurs
+102,HR,W,ФактЗаАдмОбучение
+102,HR,X,Sąsk.kval.kėlimo ad.
+102,HR,Y,Rēķinu izr. apm. adm
+102,HR,c,Doc.factur.gest.curs
+102,HR,d,Faktur.admin.obuke
+102,HR,묩,बिलिंग प्रशिक्षण व्य
+102,HR,뱋,Оқытуды басқ.факт.
+102,HR,쁩,Ql.h.luyện lậphđơn
+102,IG,1,内部贷项凭证
+102,IG,2,ใบลดหนี้ภายใน
+102,IG,3,내부 대변 메모
+102,IG,4,Credit memo intern
+102,IG,5,Interni dobropis
+102,IG,6,Interno odobrenje
+102,IG,7,Memo Kredit Dalaman
+102,IG,8,Внутрішнє кредитове авізо
+102,IG,9,Sisemine kreeditarve
+102,IG,A,مذكرة دائنة داخلية
+102,IG,B,הודעת זיכוי פנימית
+102,IG,C,Interní dobropis
+102,IG,D,Interne Gutschrift
+102,IG,E,Internal Credit Memo
+102,IG,F,Note de crédit interne
+102,IG,G,Εσωτερικό πιστ.σημ.
+102,IG,H,Belső jóváírás
+102,IG,I,Nota di credito interna
+102,IG,J,内部クレジットメモ
+102,IG,K,Intern kreditnota
+102,IG,L,Wewn. fakt.kor.minus
+102,IG,M,內部貸項通知單
+102,IG,N,Interne creditnota
+102,IG,O,Intern kreditnota
+102,IG,P,Nota de crédito interna
+102,IG,Q,Interný dobropis
+102,IG,R,Внутреннее кредитовое авизо
+102,IG,S,Nota de crédito interna
+102,IG,T,Dahili alck.dekontu
+102,IG,U,Sisäinen hyvitys
+102,IG,V,Intern kreditnota
+102,IG,W,Вътрешно кредитно известие
+102,IG,X,Vidinė kreditinė sąskaita
+102,IG,Y,Iekšējais kredītrēķins
+102,IG,c,Abonament intern
+102,IG,d,Interno odobrenje
+102,IG,묩,आंतरिक क्रेडिट मेमो
+102,IG,뱋,Ішкі кредиттік авизо
+102,IG,쁩,Giấy ghicó nộibộ
+102,IG2,1,增强内部贷项凭证
+102,IG2,2,Enh. Int. CreditMemo
+102,IG2,3,확장 내부 대변 메모
+102,IG2,4,Credit memo int.ext.
+102,IG2,5,Razšir.int.dobropis
+102,IG2,6,Proš.int. odobrenje
+102,IG2,7,Memo Kredit Dalaman Dipertingkatkan
+102,IG2,8,Розшир.кред.авізо %
+102,IG2,9,Kreeditarve täien.ju
+102,IG2,A,مذكرة دائن دولي معزز
+102,IG2,B,הו.זיכוי פנימי.מורח.
+102,IG2,C,Rozš.int.dobropis
+102,IG2,D,Erw. Int. Gutschrift
+102,IG2,E,Enh. Int. CreditMemo
+102,IG2,F,Avoir inter. étendu
+102,IG2,G,Βελτ.Διασ.Πιστ.Σημ.
+102,IG2,H,Bőv. belső jóváírás
+102,IG2,I,Accredito int. ampl.
+102,IG2,J,拡張内部クレジットメモ
+102,IG2,K,Udv. int. kreditnota
+102,IG2,L,Rozszerz. wewn. FKM
+102,IG2,M,增強的內部貸項通知單
+102,IG2,N,Uitgb. int.cred.nota
+102,IG2,O,Utv. int. kreditnota
+102,IG2,P,Nota créd.ampl.int.
+102,IG2,Q,Rozšír.int.dobropis
+102,IG2,R,Расш. КредитАвизо
+102,IG2,S,Abono int.ampliado
+102,IG2,T,Glşm.dhl.alck.dknt.
+102,IG2,U,Laaj. sis. hyvitys
+102,IG2,V,Utök. int. kred.nota
+102,IG2,W,Разш.вътр.кред.авизо
+102,IG2,X,Išpl.vid.kredito pž.
+102,IG2,Y,Paplaš.iekš.kred.rķ.
+102,IG2,c,Int.ampl.abonament
+102,IG2,d,Prošir.int.odobrenje
+102,IG2,묩,एन्हांस आ.CreditMemo
+102,IG2,뱋,Кең.ішк.несиел.авизо
+102,IG2,쁩,G.g.có n.bộ n.cấp
+102,IGA,1,内部贷项凭证订单相关
+102,IGA,2,เกี่ยวกับใบสั่ง ICM
+102,IGA,3,ICM 오더 관련
+102,IGA,4,ICM cu legare la comandă
+102,IGA,5,"ICM, povezan z nalogom"
+102,IGA,6,ICM povezan s nalogom
+102,IGA,7,Pesanan Berkaitan ICM
+102,IGA,8,ВКА по'язане з замовленням
+102,IGA,9,ICM: tellimusega seotud
+102,IGA,A,أمر ICM ذو صلة
+102,IGA,B,קשור להזמנת ICM
+102,IGA,C,Int.dobr. k zakázce
+102,IGA,D,IG auftragsbezogen
+102,IGA,E,ICM Order-Related
+102,IGA,F,NCI liée à commande
+102,IGA,G,ICM Σχετ.με Παραγγ.
+102,IGA,H,B.jóváírás - rend.alapú
+102,IGA,I,NCI rif. a ordine
+102,IGA,J,ICM 受注関連
+102,IGA,K,ICM-ordrerelateret
+102,IGA,L,WFKM z odniesieniem do zlecenia
+102,IGA,M,內部貸項通知單 - 訂單相關
+102,IGA,N,ICM ordergerelateerd
+102,IGA,O,ICK ordrerelatert
+102,IGA,P,NC interna relativa à ordem
+102,IGA,Q,ID so vzťahom k zákazke
+102,IGA,R,Отн. к зак. внутр.кред.авизо
+102,IGA,S,AI en rel.pedido
+102,IGA,T,ICM sipariş referanslı
+102,IGA,U,"SisHyvMaksu, tilaus"
+102,IGA,V,ICM-orderrelaterad
+102,IGA,W,Вътр.кредитно авизо свързано с поръчка
+102,IGA,X,ICM susijęs su užsakymu
+102,IGA,Y,Ar pasūtījumu saistīts ICM
+102,IGA,c,ICM rel.comanda
+102,IGA,d,Povezano sa ICM nalogom
+102,IGA,묩,ICM ऑर्डर-संबंधी
+102,IGA,뱋,ICM тапс.қатысты
+102,IGA,쁩,Đơn hàng ICM có liên quan
+102,IGS,1,内部贷项凭证取消
+102,IGS,2,การยกเลิกใบลดหนี้ภายใน
+102,IGS,3,내부 대변 메모 취소
+102,IGS,4,Stornare credit memo intern
+102,IGS,5,Storno internega dobropisa
+102,IGS,6,Otkazivanje internog odobrenja
+102,IGS,7,Pembatalan Memo Kredit Dalaman
+102,IGS,8,Скасування внутрішнього кредитов.авізо
+102,IGS,9,Sisemise kreeditarve tühistamine
+102,IGS,A,إلغاء المذكرة الدائنة الداخلية
+102,IGS,B,ביטול הודעת זיכוי פנימית
+102,IGS,C,Storno interního dobropisu
+102,IGS,D,Storno interne Gutschrift
+102,IGS,E,Internal Credit Memo Cancellation
+102,IGS,F,Annulation d'avoir interne
+102,IGS,G,Ακύρωση Εσωτερικού Πιστωτικ.Σημειώματος
+102,IGS,H,Belső jóváírás stornózása
+102,IGS,I,Storno accredito interno
+102,IGS,J,内部クレジットメモ取消
+102,IGS,K,Annuller intern kreditnota
+102,IGS,L,Storno wewn. faktury korygującej minus
+102,IGS,M,取消內部貸項通知單
+102,IGS,N,Stornering interne creditnota
+102,IGS,O,Annuller intern kreditnota
+102,IGS,P,Estorno de nota de crédito interna
+102,IGS,Q,Storno interného dobropisu
+102,IGS,R,Сторно внутреннего кредитового авизо
+102,IGS,S,Cancelación de abono interno
+102,IGS,T,Dahili alacak dekontu iptali
+102,IGS,U,Sisäisen hyvityksen peruutus
+102,IGS,V,Annullera intern kreditnota
+102,IGS,W,Сторниране вътрешно кредитно известие
+102,IGS,X,Vidinės kreditinės sąskaitos atšaukimas
+102,IGS,Y,Iekšējā kredītrēķina atcelšana
+102,IGS,c,Anul·lar nota abonament interna
+102,IGS,d,Storno internog odobrenja
+102,IGS,묩,ICM रद्द करें
+102,IGS,뱋,ICM болдырмау
+102,IGS,쁩,Hủy giấy ghi có nội bộ
+102,IV,1,公司间开票
+102,IV,2,การวางบิลระหว่างบริษัท
+102,IV,3,회사 간 청구
+102,IV,4,Facturare intercomp.
+102,IV,5,Medpodj. poravnava
+102,IV,6,Interno Fakturiranje
+102,IV,7,Pengebilan Antara Syarikat
+102,IV,8,Міжфірмове фактурування
+102,IV,9,Konts-sis. arveldus
+102,IV,A,فوترة بين الشركات
+102,IV,B,חיוב בין חברות
+102,IV,C,Interní zúčtování
+102,IV,D,Interne Verrechnung
+102,IV,E,Intercompany Billing
+102,IV,F,Facturation interne
+102,IV,G,Διεταιρ.τιμολόγηση
+102,IV,H,Belső elszámolás
+102,IV,I,Fatturazione interna
+102,IV,J,会社間請求
+102,IV,K,Intern fakturering
+102,IV,L,Rozliczenie wewn.
+102,IV,M,公司間請款
+102,IV,N,Interne verrekening
+102,IV,O,Intern avregning
+102,IV,P,Faturamento interno
+102,IV,Q,Interné zúčtovanie
+102,IV,R,Внутр. перерасчет
+102,IV,S,Facturación interna
+102,IV,T,Dhl.mahsuplaştırma
+102,IV,U,Sisäinen laskutus
+102,IV,V,Intern avräkning
+102,IV,W,Междуфирмено изготвяне на сметка
+102,IV,X,Tarpbal. sąsk. išr.
+102,IV,Y,Starpuzņ. norēķini
+102,IV,c,Facturació interna
+102,IV,d,Interno fakturisanje
+102,IV,묩,अंतरकंपनी बिलिंग
+102,IV,뱋,Ішкі қайта есептеу
+102,IV,쁩,Hoá đơn nội bộ
+102,IVA,1,公司间开票订单相关
+102,IVA,2,เกี่ยวกับใบสั่ง IB
+102,IVA,3,IB 오더 관련
+102,IVA,4,Legat de facturare intercompanie
+102,IVA,5,"IB, povezan z nalogom"
+102,IVA,6,IB povezan s nalogom
+102,IVA,7,Pesanan Berkaitan IB
+102,IVA,8,ВР по'язане з замовленням
+102,IVA,9,IB: tellimusega seotud
+102,IVA,A,أمر IB ذو صلة
+102,IVA,B,קשור להזמנת IB
+102,IVA,C,Int.zúčt.k zakázce
+102,IVA,D,IV auftragsbezogen
+102,IVA,E,IB Order-Related
+102,IVA,F,Fact. int. liée à cde
+102,IVA,G,IB Σχετ.με Παραγγ.
+102,IVA,H,BE - rendelésalapú
+102,IVA,I,Fatt. int. rif. ord.
+102,IVA,J,IB (受注関連)
+102,IVA,K,IF-ordrerelateret
+102,IVA,L,WFKM z odniesieniem do zlecenia
+102,IVA,M,公司間請款 - 訂單相關
+102,IVA,N,IV ordergerelateerd
+102,IVA,O,IA - ordrerelatert
+102,IVA,P,Faturamento interno relativa à ordem
+102,IVA,Q,IZ so vzťahom k zákazke
+102,IVA,R,Отн. к зак. внутр. перерасчет
+102,IVA,S,FI en rel.pedido
+102,IVA,T,Dhl.mhsp.sprş.referanslı
+102,IVA,U,"Sis.laskutus, tilaus"
+102,IVA,V,FF-orderrelaterad
+102,IVA,W,Междуфирм.фактуриране свързано с поръчка
+102,IVA,X,IB susijęs su užsakymu
+102,IVA,Y,Ar pasūtījumu saistīts SUN
+102,IVA,c,IB relac.comanda
+102,IVA,d,Povezano s nalogom za interno fakturis.
+102,IVA,묩,IB ऑर्डर-संबंधी
+102,IVA,뱋,IB тапс.қатысты
+102,IVA,쁩,Đơn hàng IB có liên quan
+102,IVS,1,公司间开票取消
+102,IVS,2,การยกเลิกการวางบิลระหว่างบริษัท
+102,IVS,3,회사 간 청구 취소
+102,IVS,4,Stornare facturare intercompanie
+102,IVS,5,Storno obračuna med šiframi podjetja
+102,IVS,6,Otkazivanje fakturiranja među poduzećima
+102,IVS,7,Pembatalan Pengebilan Antara Syarikat
+102,IVS,8,Скасування міжфірмового розрахунку
+102,IVS,9,Kontsernisisese arveldamise tühistamine
+102,IVS,A,إلغاء الفوترة بين الشركات
+102,IVS,B,ביטול חיוב בין חברות
+102,IVS,C,Storno interního zúčtování
+102,IVS,D,Storno interne Verrechnung
+102,IVS,E,Intercompany Billing Cancellation
+102,IVS,F,Annulation de facturation inter-sociétés
+102,IVS,G,Ενδοεταιρική Ακύρωση Τιμολόγησης
+102,IVS,H,Váll. átfogó elszámolás stornózása
+102,IVS,I,Storno fatturazione intercompany
+102,IVS,J,会社間請求取消
+102,IVS,K,Annullering af intern afregning
+102,IVS,L,Storno rozliczenia wewnętrznego
+102,IVS,M,取消公司間請款
+102,IVS,N,Stornering interne verrekening
+102,IVS,O,Annuller intern fakturering
+102,IVS,P,Cancelamento de fatura interempresarial
+102,IVS,Q,Storno interného zúčtovania
+102,IVS,R,Сторно внутреннего перерасчета
+102,IVS,S,Cancelación de facturación interna
+102,IVS,T,ŞA mahsuplaştırma iptali
+102,IVS,U,Sisäisen veloituksen peruutus
+102,IVS,V,Annullera intern avräkning
+102,IVS,W,Сторниране вътрешнофирмено изготв.сметка
+102,IVS,X,Tarpbalansinio sąsk. išrašymo atšaukimas
+102,IVS,Y,Starpuzņēmumu norēķinu atcelšana
+102,IVS,c,Anul·lar facturació interna
+102,IVS,d,Storno internog fakturisanja
+102,IVS,묩,IB रद्द करें
+102,IVS,뱋,IB болдырмау
+102,IVS,쁩,Hủy lập hóa đơn liên công ty
+102,J001,1,DRM COGS 调整
+102,J001,2,DRM การปรับปรุง COGS
+102,J001,3,DRM 매출 원가 조정
+102,J001,4,DRMAjCostBunuriVând
+102,J001,5,DRM prilag.last.str.
+102,J001,6,DRM usklađenje troška prodane robe
+102,J001,7,DRM COGS Pelarasan
+102,J001,8,Коригування DRM COGS
+102,J001,9,DRM COGS korrigeer.
+102,J001,A,DRM: ضبط تكلفة البضاعة المباعة
+102,J001,B,DRM COGS התאמה
+102,J001,C,DRM COGS Adj.
+102,J001,D,DRM COGS Adj.
+102,J001,E,DRM COGS Adj.
+102,J001,F,DRM Ajust. CtRevient
+102,J001,G,Προσ.DRM COGS
+102,J001,H,DRM forg. ktg. kiig.
+102,J001,I,DRM COGS Adj.
+102,J001,J,DRM COGS 調整
+102,J001,K,DRM SK korr.
+102,J001,L,DRM: Koszty wł. dos.
+102,J001,M,DRM 銷貨成本調整
+102,J001,N,DRM COGS Adj.
+102,J001,O,DRM COGS Adj.
+102,J001,P,DRM ajuste COGS
+102,J001,Q,DRM COGS Adj.
+102,J001,R,DRM COGS корр.
+102,J001,S,DRM COGS Adj.
+102,J001,T,DRM COGS ayarlaması
+102,J001,U,DRM omakust. muk.
+102,J001,V,DRM KSV just.
+102,J001,W,DRM COGS кориг.
+102,J001,X,DRM COGS koreg.
+102,J001,Y,DRM COGS korekcija
+102,J001,c,DRM COGS Aj.
+102,J001,d,DRM COGS usklađiv.
+102,J001,묩,DRM COGS समायोजन
+102,J001,뱋,DRM COGS реттеуі
+102,J001,쁩,DRM COGS đ.chỉnh
+102,J3G1,1,CEM 内部
+102,J3G1,2,CEM ภายใน
+102,J3G1,3,CEM 내부
+102,J3G1,4,CEM intern
+102,J3G1,5,ETM interno
+102,J3G1,6,CEM interno
+102,J3G1,7,CEM Dalaman
+102,J3G1,8,CEM: внутрішнє
+102,J3G1,9,CEM: sisemine
+102,J3G1,A,إدارة معدات الإنشاء: داخلي
+102,J3G1,B,CEM פנימי
+102,J3G1,C,EMT: Interní
+102,J3G1,D,ETM intern
+102,J3G1,E,CEM Internal
+102,J3G1,F,ETM interne
+102,J3G1,G,Εσωτερικό CEM
+102,J3G1,H,CEM belső
+102,J3G1,I,ETM interno
+102,J3G1,J,CEM (内部)
+102,J3G1,K,ETM intern
+102,J3G1,L,EMT - wewn.
+102,J3G1,M,設備與工具管理〈內部〉
+102,J3G1,N,ETM intern
+102,J3G1,O,ETM internt
+102,J3G1,P,EMT interna
+102,J3G1,Q,EMT: Interné
+102,J3G1,R,ETM: внутр.
+102,J3G1,S,ETM interno
+102,J3G1,T,ETM dahili
+102,J3G1,U,CEM sisäinen
+102,J3G1,V,CEM intern
+102,J3G1,W,CEM вътрешен
+102,J3G1,X,CEM vidinis
+102,J3G1,Y,Iekšējais CEM
+102,J3G1,c,CEM intern
+102,J3G1,d,CEM interno
+102,J3G1,묩,CEM आंतरिक
+102,J3G1,뱋,CEM ішкі
+102,J3G1,쁩,CEM bên trong
+102,J3G2,1,CEM 外部
+102,J3G2,2,CEM ภายนอก
+102,J3G2,3,CEM 외부
+102,J3G2,4,CEM extern
+102,J3G2,5,ETM eksterno
+102,J3G2,6,CEM vanjsko
+102,J3G2,7,CEM Luaran
+102,J3G2,8,CEM: зовнішнє
+102,J3G2,9,CEM: väline
+102,J3G2,A,إدارة معدات الإنشاء: خارجي
+102,J3G2,B,CEM חיצוני
+102,J3G2,C,CEM externí
+102,J3G2,D,ETM extern
+102,J3G2,E,CEM External
+102,J3G2,F,ETM externe
+102,J3G2,G,Εξωτερικό CEM
+102,J3G2,H,CEM külső
+102,J3G2,I,ETM esterno
+102,J3G2,J,CEM (外部)
+102,J3G2,K,ETM ekstern
+102,J3G2,L,EMT - zewn.
+102,J3G2,M,設備與工具管理〈外部〉
+102,J3G2,N,ETM extern
+102,J3G2,O,ETM eksternt
+102,J3G2,P,ETM externa
+102,J3G2,Q,EMT: Externé
+102,J3G2,R,ETM: внешн.
+102,J3G2,S,ETM externo
+102,J3G2,T,ETM harici
+102,J3G2,U,CEM ulkoinen
+102,J3G2,V,CEM extern
+102,J3G2,W,CEM външен
+102,J3G2,X,CEM išorinis
+102,J3G2,Y,Ārējais CEM
+102,J3G2,c,CEM extern
+102,J3G2,d,CEM eksterno
+102,J3G2,묩,CEM बाहरी
+102,J3G2,뱋,CEM сыртқы
+102,J3G2,쁩,CEM bên ngoài
+102,J3G3,1,CEM 发票清单（内部）
+102,J3G3,2,CEM รายการใบแจ้งหนี้ - ภายใน
+102,J3G3,3,CEM 내부 송장 리스트
+102,J3G3,4,CEM listă fact.int.
+102,J3G3,5,Seznam računov CEM - interno
+102,J3G3,6,CEM lista faktura interno
+102,J3G3,7,Senarai Invois Dalaman CEM
+102,J3G3,8,Внутрішній список рахунків-фактур CEM
+102,J3G3,9,CEM: sis. arveloend
+102,J3G3,A,إدارة معدات الإنشاء: قائمة فواتير داخلية
+102,J3G3,B,CEM רשימת חשבוניות פנימית
+102,J3G3,C,CEM: Sezn.fakt.int.
+102,J3G3,D,ETM RechListe int.
+102,J3G3,E,CEM Invoice List Int
+102,J3G3,F,ETM Liste factures int.
+102,J3G3,G,Εσωτ.λίστα τιμολ.CEM
+102,J3G3,H,CEM belső számlalista
+102,J3G3,I,ETM lista fatt. int.
+102,J3G3,J,CEM 請求書一覧 (内部)
+102,J3G3,K,ETM-faktureringsliste intern
+102,J3G3,L,EMT - wewnętrzna lista faktur
+102,J3G3,M,設備與工具管理發票清單〈內部〉
+102,J3G3,N,CEM factuurlijst int
+102,J3G3,O,ETM fakturaliste int.
+102,J3G3,P,ETM lista faturas int.
+102,J3G3,Q,CEM Int.zoznam faktúr
+102,J3G3,R,ЕТМ: ВнутрСписСчетов
+102,J3G3,S,ETM Lst.factura int.
+102,J3G3,T,ETM ftr.lst.dahili
+102,J3G3,U,CEM laskuluett. sis.
+102,J3G3,V,CEM-fakturalista intern
+102,J3G3,W,CEM вътрешен списък фактури
+102,J3G3,X,CEM vidinis sąskaitų sąrašas
+102,J3G3,Y,CEM iekšējais faktūrrēķinu saraksts
+102,J3G3,c,Llista de factura CEM interna
+102,J3G3,d,CEM lista fakt.-int.
+102,J3G3,묩,CEM चालान सूची आतंरिक
+102,J3G3,뱋,CEM шот фактура тізімі: ішкі
+102,J3G3,쁩,CEM ds h.đơn n.bộ
+102,J3G4,1,CEM 物料重购（内部）
+102,J3G4,2,CEM การซื้อคืนวัสดุ - ภายใน
+102,J3G4,3,CEM 내부 자재 재매입
+102,J3G4,4,CEM reaprov.mat.int.
+102,J3G4,5,Vnovičen nakup materiala CEM - interno
+102,J3G4,6,CEM ponovna kupnja materijala interno
+102,J3G4,7,Pembelian Semula Bahan Dalaman CEM
+102,J3G4,8,CEM: внутрішній викуп матеріалу
+102,J3G4,9,CEM:sis.mat.kord-ost
+102,J3G4,A,إدارةمعدات إنشاء: إعادة شراء مواد داخلية
+102,J3G4,B,CEM רכש מחדש של חומר פנימי
+102,J3G4,C,CEM: Odkup mat.int.
+102,J3G4,D,ETM MatRückkauf int.
+102,J3G4,E,CEM Mat. Repur. Int.
+102,J3G4,F,ETM rachat article int.
+102,J3G4,G,CEM Εσ.Αναπρομ.Υλ.
+102,J3G4,H,CEM belső anyag-visszavás.
+102,J3G4,I,ETM: riacq. mat. int.
+102,J3G4,J,CEM 品目再購入 (内部)
+102,J3G4,K,ETM-materialetilbagekøb internt
+102,J3G4,L,EMT Materiał - wykup wewnętrzny
+102,J3G4,M,設備與工具管理物料重購〈內部〉
+102,J3G4,N,CEM ArtTerugkoop int
+102,J3G4,O,ETM mat.tilbekjøp. int.
+102,J3G4,P,ETM recompra material int.
+102,J3G4,Q,CEM Int.odkúpenie mat.
+102,J3G4,R,ETM: ВнутрВыкупМатрл
+102,J3G4,S,ETM Recpra.mat.int.
+102,J3G4,T,ETM mlz.gr.alma dhl.
+102,J3G4,U,CEM nim.TakOsto sis.
+102,J3G4,V,CEM-materialåterköp internt
+102,J3G4,W,CEM вътрешно изкупуване материали
+102,J3G4,X,CEM vidinis medžiagų perpirkimas
+102,J3G4,Y,CEM materiālu iekšējā atpirkšana
+102,J3G4,c,CEM mat.recompr.int.
+102,J3G4,d,CEM otkup.mat.- int.
+102,J3G4,묩,CEM सामग्री पुन: क्रय आतंरिक
+102,J3G4,뱋,CEM мат.сатып алу: ішкі
+102,J3G4,쁩,M.lại v.t n.bộ CEM
+102,J3G6,1,CEM 取消（内部）
+102,J3G6,2,CEM การยกเลิก - ภายใน
+102,J3G6,3,CEM 내부 취소
+102,J3G6,4,CEM stornare int.
+102,J3G6,5,Preklic CEM - interno
+102,J3G6,6,CEM otkazivanje interno
+102,J3G6,7,Pembatalan Dalaman CEM
+102,J3G6,8,Внутрішнє скасування CEM
+102,J3G6,9,CEM: sisem. tühist.
+102,J3G6,A,إدارة معدات الإنشاء: إلغاء داخلي
+102,J3G6,B,CEM ביטול פנימי
+102,J3G6,C,CEM: Storno interní
+102,J3G6,D,ETM Storno intern
+102,J3G6,E,CEM Cancellation Int
+102,J3G6,F,ETM Annulation int.
+102,J3G6,G,Εσωτ.ακύρωση CEM
+102,J3G6,H,CEM belső stornó
+102,J3G6,I,ETM storno interno
+102,J3G6,J,CEM 解約 (内部)
+102,J3G6,K,ETM-annullering intern
+102,J3G6,L,EMT Storno wewnętrzne
+102,J3G6,M,設備與工具管理取消〈內部〉
+102,J3G6,N,CEM storno intern
+102,J3G6,O,ETM tilbakeføring int.
+102,J3G6,P,ETM estorno interno
+102,J3G6,Q,CEM Interné storno
+102,J3G6,R,ETM: внутр. сторно
+102,J3G6,S,ETM Anulación int.
+102,J3G6,T,ETM iptali dhl.
+102,J3G6,U,CEM peruutus sis.
+102,J3G6,V,CEM-annullering intern
+102,J3G6,W,CEM вътрешно сторно
+102,J3G6,X,CEM vidinis anuliavimas
+102,J3G6,Y,CEM iekšējā atcelšana
+102,J3G6,c,Cancel·lació CEM interna
+102,J3G6,d,CEM storniranje - interno
+102,J3G6,묩,CEM रद्दकरण आतंरिक
+102,J3G6,뱋,CEM түзетпе: ішкі
+102,J3G6,쁩,CEM hủy nội bộ
+102,J3G7,1,CEM 取消（外部）
+102,J3G7,2,CEM การยกเลิก - ภายนอก
+102,J3G7,3,CEM 외부 취소
+102,J3G7,4,CEM stornare ext.
+102,J3G7,5,Preklic CEM - eksterno
+102,J3G7,6,CEM otkazivanje vanjsko
+102,J3G7,7,Pembatalan Luaran CEM
+102,J3G7,8,Зовнішнє скасування CEM
+102,J3G7,9,CEM: väline tühistamine
+102,J3G7,A,إدارة معدات الإنشاء: إلغاء خارجي
+102,J3G7,B,CEM ביטול חיצוני
+102,J3G7,C,CEM: Storno externí
+102,J3G7,D,ETM Storno extern
+102,J3G7,E,CEM Cancellation Ext
+102,J3G7,F,ETM Annulation ext.
+102,J3G7,G,Εξωτ.ακύρωση CEM
+102,J3G7,H,CEM külső stornó
+102,J3G7,I,ETM storno esterno
+102,J3G7,J,CEM 解約 (外部)
+102,J3G7,K,ETM-annullering ekstern
+102,J3G7,L,EMT Storno zewnętrzne
+102,J3G7,M,設備與工具管理取消〈外部〉
+102,J3G7,N,CEM storno extern
+102,J3G7,O,ETM tilbakeføring ekst.
+102,J3G7,P,ETM estorno externo
+102,J3G7,Q,CEM Externé storno
+102,J3G7,R,ETM: внешнее сторно
+102,J3G7,S,ETM Anulación ext.
+102,J3G7,T,ETM iptali hrc.
+102,J3G7,U,CEM peruutus ulk.
+102,J3G7,V,CEM-annullering extern
+102,J3G7,W,CEM външно сторно
+102,J3G7,X,CEM išrorinis anuliavimas
+102,J3G7,Y,CEM ārējā atcelšana
+102,J3G7,c,Cancel·lació CEM externa
+102,J3G7,d,CEM storniranje - eksterno
+102,J3G7,묩,CEM रद्दकरण बाहरी
+102,J3G7,뱋,CEM түзетпе: сыртқы
+102,J3G7,쁩,CEM hủy bên ngoài
+102,J3G8,1,CEM 物料销售（外部）
+102,J3G8,2,CEM การขายวัสดุ - ภายนอก
+102,J3G8,3,CEM 외부 자재 판매
+102,J3G8,4,CEM vânzări mat.ext.
+102,J3G8,5,Prodaja materiala CEM - eksterno
+102,J3G8,6,CEM prodaja materijala vanjska
+102,J3G8,7,Jualan Bahan Luaran CEM
+102,J3G8,8,CEM: зовнішній продаж матеріалу
+102,J3G8,9,CEM: väl. mat. müük
+102,J3G8,A,إدارة معدات الإنشاء: مبيعات مواد خارجية
+102,J3G8,B,CEM מכירות חומר חיצוני
+102,J3G8,C,CEM: Prodej mat.ext.
+102,J3G8,D,ETM MatVerkauf ext.
+102,J3G8,E,CEM Mat. Sales Ext.
+102,J3G8,F,ETM Vente article ext.
+102,J3G8,G,Εξωτ.πωλ.υλικού CEM
+102,J3G8,H,CEM - külső anyagért.
+102,J3G8,I,ETM: vend. mat. est.
+102,J3G8,J,CEM 品目販売 (外部)
+102,J3G8,K,ETM-materialesalg ekstern
+102,J3G8,L,EMT Materiał - sprzedaż zewnętrzna
+102,J3G8,M,設備與工具管理物料銷售〈外部〉
+102,J3G8,N,CEM art.verkoop ext.
+102,J3G8,O,ETM mat. salg ekst.
+102,J3G8,P,ETM venda material ext.
+102,J3G8,Q,CEM Ext.predaj mat.
+102,J3G8,R,ETM: ВнешПродажаМтрл
+102,J3G8,S,ETM Venta mat.ext.
+102,J3G8,T,ETM mlz.stş.harici
+102,J3G8,U,CEM nim. myynti ulk.
+102,J3G8,V,CEM-mat.förs. extern
+102,J3G8,W,CEM външи продажби материали
+102,J3G8,X,CEM išorinis medž. pardavimas
+102,J3G8,Y,CEM materiālu ārējā pārdošana
+102,J3G8,c,Venda mat.ext.CEM
+102,J3G8,d,CEM prodaja materijala - eksterno
+102,J3G8,묩,CEM सामग्री विक्रय बाहरी
+102,J3G8,뱋,CEM мат. сату: сыртқы
+102,J3G8,쁩,Bán v.tư ngoài CEM
+102,J3G9,1,CEM 物料重购（外部）
+102,J3G9,2,CEM การซื้อคืนวัสดุ - ภายนอก
+102,J3G9,3,CEM 외부 자재 재매입
+102,J3G9,4,CEM reaprov.mat.ext.
+102,J3G9,5,Vnovičen nakup materiala CEM - eksterno
+102,J3G9,6,CEM ponovna kupnja materijala eksterno
+102,J3G9,7,Pembelian Semula Bahan Luaran CEM
+102,J3G9,8,CEM: зовнішній викуп матеріалу
+102,J3G9,9,CEM:väl.mat.kord-ost
+102,J3G9,A,إدارةمعدات إنشاء: إعادة شراء مواد خارجية
+102,J3G9,B,CEM רכש מחדש של חומר חיצוני
+102,J3G9,C,CEM: Odkup mat.ext.
+102,J3G9,D,ETM MatRückkauf ext.
+102,J3G9,E,CEM Mat. Repur. Ext.
+102,J3G9,F,ETM rachat article ext.
+102,J3G9,G,Εξωτ.Αναπρομ.Υλικ.CEM
+102,J3G9,H,CEM külső anyag-visszavás.
+102,J3G9,I,ETM: riacq. mat. est.
+102,J3G9,J,CEM 品目再購入 (外部)
+102,J3G9,K,ETM-materialetilbagekøb eksternt
+102,J3G9,L,EMT Materiał - wykup zewnętrzny
+102,J3G9,M,設備與工具管理物料重購〈外部〉
+102,J3G9,N,CEM ArtTerugkoop ext
+102,J3G9,O,ETM mat.tilbakekjøp. ekst.
+102,J3G9,P,ETM recompra material ext.
+102,J3G9,Q,CEM Ext.odkúpenie mat.
+102,J3G9,R,ETM: ВнешВыкупМатрл
+102,J3G9,S,ETM Recpr.mat.ext.
+102,J3G9,T,ETM mlz.gr.alma hrc.
+102,J3G9,U,CEM nim.TakOsto ulk.
+102,J3G9,V,CEM-materialåterköp externt
+102,J3G9,W,CEM външно изкупуване материали
+102,J3G9,X,CEM išorinis medž. perpirkimas
+102,J3G9,Y,CEM materiālu ārējā atpirkšana
+102,J3G9,c,CEM mat.recompr.ext.
+102,J3G9,d,CEM otkup materijala - eksterno
+102,J3G9,묩,CEM सामग्री पुन: क्रय बाहरी
+102,J3G9,뱋,CEM сат.сатып алу: сыртқы
+102,J3G9,쁩,M.lại v.t ngoài CEM
+102,J3GA,1,CEM 冲销 GC（内部/外部）
+102,J3GA,2,CEM การกลับรายการ GC - ภายใน/ภายนอก
+102,J3GA,3,CEM 역분개 GC 내/외
+102,J3GA,4,CEMStornCGInt/Ext
+102,J3GA,5,CEM – storno globalne valute – int./eks.
+102,J3GA,6,CEM storniranje GC interno/vanjsko
+102,J3GA,7,Pembalikan CEM dalaman/luaran GC
+102,J3GA,8,Сторно CEM: GC вн./зовн.
+102,J3GA,9,CEM: tühis.GCsis./v.
+102,J3GA,A,إدراة معدات إنشاء:إلغاء م.ع. داخلي/خارجي
+102,J3GA,B,CEM סטורנו GC פנימי/חיצוני
+102,J3GA,C,CEM: StorDobr Int/Ex
+102,J3GA,D,ETM Storno GU int/ex
+102,J3GA,E,CEM Revrsl GC Int/Ex
+102,J3GA,F,ETM annul. maître oeuvre int./ext.
+102,J3GA,G,CEM Αντιλ. GC εσ/εξ.
+102,J3GA,H,CEM külső/belső főváll. stornója
+102,J3GA,I,ETM st. AG int./est.
+102,J3GA,J,CEM 取消 GC (内部/外部)
+102,J3GA,K,ETM-annullering af HE intern/ekstern
+102,J3GA,L,EMT Storno GW wewnętrzne/zewnętrzne
+102,J3GA,M,設備與工具管理迴轉外包商〈內/外部〉
+102,J3GA,N,CEM storno CN int/ex
+102,J3GA,O,ETM tilbakeføring HE int./ekst.
+102,J3GA,P,ETM est.CG int./ext.
+102,J3GA,Q,CEM StorDobr Int/Ex
+102,J3GA,R,ЕТМ:сторно ГП вн/внш
+102,J3GA,S,ETM AnulContrInt/Ex
+102,J3GA,T,ETM AİV dhl./hrc.
+102,J3GA,U,CEM per. PU sis/ulk
+102,J3GA,V,CEM-annullering av HE int./ext.
+102,J3GA,W,CEM сторн. GC вътр./външ.
+102,J3GA,X,CEM anul. GC vid/iš.
+102,J3GA,Y,CEM stornēšanas iekšējā/ārējā KV
+102,J3GA,c,CEM anul.GC int./ext.
+102,J3GA,d,CEM storno GlavUgovarača - int./ekst.
+102,J3GA,묩,CEM रिव. GC आंत./बा.
+102,J3GA,뱋,CEM түзетпе GC ішкі/сыртқы
+102,J3GA,쁩,CEM đảo GC trg/ngoài
+102,J3GB,1,CEM GC（内部）
+102,J3GB,2,CEM GC ภายใน
+102,J3GB,3,CEM GC 내부
+102,J3GB,4,CEM CG intern
+102,J3GB,5,CEM – globalna valuta - interno
+102,J3GB,6,CEM GC interno
+102,J3GB,7,CEM GC Dalaman
+102,J3GB,8,CEM GC внутрішній
+102,J3GB,9,CEM: GC sisemine
+102,J3GB,A,إدارة معدات الإنشاء: متعاقد عام داخلي
+102,J3GB,B,CEM GC פנימי
+102,J3GB,C,CEM: Dobropis int.
+102,J3GB,D,ETM GU intern
+102,J3GB,E,CEM GC Internal
+102,J3GB,F,ETM maître oeuvre int.
+102,J3GB,G,CEM GC εσωτερικό
+102,J3GB,H,CEM belső főváll.
+102,J3GB,I,ETM AG interno
+102,J3GB,J,CEM GC (内部)
+102,J3GB,K,ETM HE intern
+102,J3GB,L,EMT GW wewnętrzne
+102,J3GB,M,設備與工具管理外包商〈內部〉
+102,J3GB,N,CEM CN intern
+102,J3GB,O,ETM HE intern
+102,J3GB,P,CEM CG interno
+102,J3GB,Q,CEM Dobropis int.
+102,J3GB,R,ЕТМ: ВнутрГенПодрядч
+102,J3GB,S,ETM contr.int.
+102,J3GB,T,ETM AİV dahili
+102,J3GB,U,CEM pääurak. sis.
+102,J3GB,V,CEM HE intern
+102,J3GB,W,CEM GC вътр.
+102,J3GB,X,CEM GC vidinis
+102,J3GB,Y,CEM iekšējā koncerna valūta
+102,J3GB,c,CEM GC intern
+102,J3GB,d,CEM glavni ugovarač - interno
+102,J3GB,묩,CEM GC आतंरिक
+102,J3GB,뱋,CEM GC ішкі
+102,J3GB,쁩,CEM GC nội bộ
+102,J3GC,1,CEM GU（外部）
+102,J3GC,2,CEM GU ภายนอก
+102,J3GC,3,CEM GU 외부
+102,J3GC,4,CEM CG extern
+102,J3GC,5,CEM – GU - eksterno
+102,J3GC,6,CEM GU vanjsko
+102,J3GC,7,CEM GC Luaran
+102,J3GC,8,CEM GU зовнішній
+102,J3GC,9,CEM: GU väline
+102,J3GC,A,إدراة معدات الإنشاء: متعاقد عام خارجي
+102,J3GC,B,CEM GU חיצוני
+102,J3GC,C,CEM: Dobropis ext.
+102,J3GC,D,ETM GU extern
+102,J3GC,E,CEM GU External
+102,J3GC,F,ETM maître oeuvre ext.
+102,J3GC,G,CEM GU εξωτερικό
+102,J3GC,H,CEM külső főváll.
+102,J3GC,I,ETM AG esterno
+102,J3GC,J,CEM GU (外部)
+102,J3GC,K,ETM HE ekstern
+102,J3GC,L,EMT GW zewnętrzne
+102,J3GC,M,設備與工具管理外包商〈外部〉
+102,J3GC,N,CEM CN extern
+102,J3GC,O,ETM HE ekstern
+102,J3GC,P,LEC GU externo
+102,J3GC,Q,CEM Dobropis ext.
+102,J3GC,R,ЕТМ: ВншГенПодрядчик
+102,J3GC,S,ETM contr.ext.
+102,J3GC,T,ETM AİV harici
+102,J3GC,U,CEM pääurak. ulk.
+102,J3GC,V,CEM HE extern
+102,J3GC,W,CEM GU външ.
+102,J3GC,X,CEM GU išorinis
+102,J3GC,Y,CEM ārējais GU
+102,J3GC,c,CEM GU extern
+102,J3GC,d,CEM glavni ugovarač - eksterno
+102,J3GC,묩,CEM GU आतंरिक
+102,J3GC,뱋,CEM GU сыртқы
+102,J3GC,쁩,CEM GU ngoài
+102,JEX,6,Račun trošar.Indija
+102,JEX,E,Excise Invoice India
+102,JEX,G,Τιμ.ειδ.φόρου-Ινδία
+102,JEX,묩,उत्पाद इनवॉइस भारत
+102,JGL,1,贷项凭证
+102,JGL,2,ใบลดหนี้
+102,JGL,3,대변 메모
+102,JGL,4,Credit memo
+102,JGL,5,Dobropis
+102,JGL,6,Odobrenje
+102,JGL,7,Memo Kredit
+102,JGL,8,Кредитове авізо
+102,JGL,9,Kreeditarve
+102,JGL,A,المذكرة الدائنة
+102,JGL,B,הודעת זיכוי
+102,JGL,C,Dobropis
+102,JGL,D,Gutschrift
+102,JGL,E,Credit Memo
+102,JGL,F,Avoir
+102,JGL,G,Πιστωτικό Σημείωμα
+102,JGL,H,Jóváírás
+102,JGL,I,Nota di credito
+102,JGL,J,クレジットメモ
+102,JGL,K,Kreditnota
+102,JGL,L,Faktura koryg. minus
+102,JGL,M,貸項通知單
+102,JGL,N,Creditnota
+102,JGL,O,Kreditnota
+102,JGL,P,Nota de crédito
+102,JGL,Q,Dobropis
+102,JGL,R,Кредитовое авизо
+102,JGL,S,Abono
+102,JGL,T,Alacak dekontu
+102,JGL,U,Hyvitys
+102,JGL,V,Kreditnota
+102,JGL,W,Кредитно авизо
+102,JGL,X,Kreditinė sąskaita
+102,JGL,Y,Kredītrēķins
+102,JGL,c,Abonament
+102,JGL,d,Odobrenje
+102,JGL,묩,क्रेडिट मेमो
+102,JGL,뱋,Кредиттік авизо
+102,JGL,쁩,Giấy ghi Có
+102,JLL,1,借项凭证
+102,JLL,2,ใบเพิ่มหนี้
+102,JLL,3,차변 메모
+102,JLL,4,Debit memo
+102,JLL,5,Bremepis
+102,JLL,6,Terećenje
+102,JLL,7,Memo Debit
+102,JLL,8,Дебетове авізо
+102,JLL,9,Deebetarve
+102,JLL,A,مذكرة مدين
+102,JLL,B,הודעת חיוב
+102,JLL,C,Vrubopis
+102,JLL,D,Lastschrift
+102,JLL,E,Debit Memo
+102,JLL,F,Note de débit
+102,JLL,G,Χρεωστικό Σημείωμα
+102,JLL,H,Terhelés
+102,JLL,I,Nota di debito
+102,JLL,J,デビットメモ
+102,JLL,K,Debetnota
+102,JLL,L,Faktura korygująca plus
+102,JLL,M,借項通知單
+102,JLL,N,Debetnota
+102,JLL,O,Debetnota
+102,JLL,P,Nota de débito
+102,JLL,Q,Ťarchopis
+102,JLL,R,Дебетовое авизо
+102,JLL,S,Nota de cargo
+102,JLL,T,Borç dekontu
+102,JLL,U,Veloituslasku
+102,JLL,V,Debetnota
+102,JLL,W,Дебитно авизо
+102,JLL,X,Debetinė sąskaita
+102,JLL,Y,Debeta avizo
+102,JLL,c,Nota de càrrec
+102,JLL,d,Zaduženje
+102,JLL,묩,डेबिट मेमो
+102,JLL,뱋,Дебет авизосы
+102,JLL,쁩,Giấy ghi nợ
+102,L2,1,借项凭证
+102,L2,2,ใบเพิ่มหนี้
+102,L2,3,차변 메모
+102,L2,4,Debit memo
+102,L2,5,Bremepis
+102,L2,6,Terećenje
+102,L2,7,Memo Debit
+102,L2,8,Дебетове авізо
+102,L2,9,Deebetarve
+102,L2,A,مذكرة مدين
+102,L2,B,הודעת חיוב
+102,L2,C,Vrubopis
+102,L2,D,Lastschrift
+102,L2,E,Debit Memo
+102,L2,F,Note de débit
+102,L2,G,Χρεωστικό Σημείωμα
+102,L2,H,Terhelés
+102,L2,I,Nota di debito
+102,L2,J,デビットメモ
+102,L2,K,Debetnota
+102,L2,L,Faktura koryg. plus
+102,L2,M,借項通知單
+102,L2,N,Debetnota
+102,L2,O,Debetnota
+102,L2,P,Nota de débito
+102,L2,Q,Ťarchopis
+102,L2,R,Дебетовое авизо
+102,L2,S,Nota de cargo
+102,L2,T,Borç dekontu
+102,L2,U,Veloituslasku
+102,L2,V,Debetnota
+102,L2,W,Дебитно авизо
+102,L2,X,Debetinė sąskaita
+102,L2,Y,Debeta avizo
+102,L2,c,Nota càrrec
+102,L2,d,Zaduženje
+102,L2,묩,डेबिट मेमो
+102,L2,뱋,Дебет авизосы
+102,L2,쁩,Giấy ghi nợ
+102,LG,1,贷项凭证清单
+102,LG,2,รายการใบลดหนี้
+102,LG,3,대변 메모 리스트
+102,LG,4,Listă credit memo
+102,LG,5,Seznam dobropisov
+102,LG,6,List odobrenja
+102,LG,7,Senarai Memo Kredit
+102,LG,8,Список кредит.авізо
+102,LG,9,Kreeditarve loend
+102,LG,A,قائمة مذكرات الدائن
+102,LG,B,רשימת הודעות זיכוי
+102,LG,C,Seznam dobropisů
+102,LG,D,Gutschriftsliste
+102,LG,E,Credit Memo List
+102,LG,F,Liste d'avoirs
+102,LG,G,Λίστ.Πιστ.Σημειωμάτ.
+102,LG,H,Jóváíráslista
+102,LG,I,Lista note cred.
+102,LG,J,クレジットメモ一覧
+102,LG,K,Kreditnotaliste
+102,LG,L,Lista faktur KM
+102,LG,M,貸項通知單清單
+102,LG,N,Creditnotalijst
+102,LG,O,Kreditnotaliste
+102,LG,P,Lista nota crédito
+102,LG,Q,Zoznam dobropisov
+102,LG,R,Список кред. авизо
+102,LG,S,Lista de abonos
+102,LG,T,Alacak dekontu lst.
+102,LG,U,Hyvityslaskuluettelo
+102,LG,V,Krediteringslista
+102,LG,W,Списък кредит. авизо
+102,LG,X,Kred. sąsk. sąr.
+102,LG,Y,Kredīta avizo sar.
+102,LG,c,Llista d'abonaments
+102,LG,d,Lista odobrenja
+102,LG,묩,क्रेडिट मेमो सूची
+102,LG,뱋,Кред.авиз.тізімі
+102,LG,쁩,Ds giấy ghi có
+102,LGS,1,取消贷项凭证清单
+102,LGS,2,ยกเลิกรายการใบลดหนี้
+102,LGS,3,대변메모리스트 취소
+102,LGS,4,AnulareListăCredMemo
+102,LGS,5,Preklic seznama dobropisov
+102,LGS,6,Otkaži listu odobrenja
+102,LGS,7,Batal Senarai Memo Kredit
+102,LGS,8,Скасувати список кредитових авізо
+102,LGS,9,Kreed-arve loe. tüh.
+102,LGS,A,إلغاء قائمة مذكرة دائن
+102,LGS,B,בטל רשימת הודעות זיכוי
+102,LGS,C,Storno sezn.dobrop.
+102,LGS,D,Storno Gutschriftenliste
+102,LGS,E,Cancel Cred.Mem.List
+102,LGS,F,Annulation de liste d'avoirs
+102,LGS,G,Ακύρ.Λίστ.Πιστ.Σημ.
+102,LGS,H,Jóváíráslista stornózása
+102,LGS,I,Storno lista accred.
+102,LGS,J,クレジットメモ一覧取消
+102,LGS,K,Ann. kreditnotaliste
+102,LGS,L,Stor.l. fak.kor.min.
+102,LGS,M,取消貸項通知單清單
+102,LGS,N,Storno cred.nota-lst
+102,LGS,O,Annuller kreditnotaliste
+102,LGS,P,Estorno Listas NCréd
+102,LGS,Q,Zrušiť zoznam dobr.
+102,LGS,R,Сторно спис. кредитовых авизо
+102,LGS,S,Anul.lista de abonos
+102,LGS,T,Alc.dkn.lst.ters kyt
+102,LGS,U,Per. hyv.laskuluett.
+102,LGS,V,Annullera kreditnotlista
+102,LGS,W,Отказ списък кредитни известия
+102,LGS,X,Anul.kred.sąsk.sąr.
+102,LGS,Y,Atcelt kredīta avizo sarakstu
+102,LGS,c,Anul.llst.abonaments
+102,LGS,d,Otkaži listu odobr.
+102,LGS,묩,क्रे.मे.सूची रद्द क.
+102,LGS,뱋,Кред.авиз.тіз.болд.
+102,LGS,쁩,Hủy ds.giấybáocó
+102,LR,1,发票清单
+102,LR,2,รายการใบกำกับสินค้า
+102,LR,3,송장 리스트
+102,LR,4,Listă de facturi
+102,LR,5,Seznam računov
+102,LR,6,Lista faktura
+102,LR,7,Senarai Invois
+102,LR,8,Сп.рах.-фак.
+102,LR,9,Arvete loend
+102,LR,A,قائمة الفواتير
+102,LR,B,רשימת חשבוניות
+102,LR,C,Seznam faktur
+102,LR,D,Rechnungsliste
+102,LR,E,Invoice List
+102,LR,F,Liste de factures
+102,LR,G,Λίστα τιμολογίων
+102,LR,H,Számlalista
+102,LR,I,Lista fatture
+102,LR,J,請求書一覧
+102,LR,K,Fakturaliste
+102,LR,L,Lista faktur
+102,LR,M,發票清單
+102,LR,N,Factuurlijst
+102,LR,O,Fakturaliste
+102,LR,P,Lista de faturas
+102,LR,Q,Zoznam faktúr
+102,LR,R,Список счетов
+102,LR,S,Lista de facturas
+102,LR,T,Fatura listesi
+102,LR,U,Laskuluettelo
+102,LR,V,Fakturalista
+102,LR,W,Списък фактури
+102,LR,X,Sąskaitų sąrašas
+102,LR,Y,Rēķinu saraksts
+102,LR,c,Llista factures
+102,LR,d,Lista faktura
+102,LR,묩,इनवॉइस सूची
+102,LR,뱋,Шоттар тізімі
+102,LR,쁩,Danh sách Hóa đơn
+102,LRS,1,发票清单取消
+102,LRS,2,การยกเลิกรายการใบแจ้งหนี้
+102,LRS,3,송장 리스트 취소
+102,LRS,4,Anulare listă de facturi
+102,LRS,5,Stornno seznama računov
+102,LRS,6,Storniraj listu faktura
+102,LRS,7,Pembatalan Senarai Invois
+102,LRS,8,Скасування списку рахунків-фактур
+102,LRS,9,Arveloendi tühistamine
+102,LRS,A,إلغاء قائمة الفواتير
+102,LRS,B,ביטול רשימת חשבוניות
+102,LRS,C,Storno seznamu faktur
+102,LRS,D,Storno Rechnungsliste
+102,LRS,E,Invoice List Cancellation
+102,LRS,F,Annulation de la liste de factures
+102,LRS,G,Ακύρωση Λίστας Τιμολογίου
+102,LRS,H,Számlalista stornózása
+102,LRS,I,Storno lista fatture
+102,LRS,J,請求書一覧取消
+102,LRS,K,Annullering af fakturaliste
+102,LRS,L,Storno listy faktur
+102,LRS,M,發票清單取消
+102,LRS,N,Storno factuurlijst
+102,LRS,O,Annullering av fakturaliste
+102,LRS,P,Estorno de lista de faturas
+102,LRS,Q,Storno zoznamu faktúr
+102,LRS,R,Сторно списка счетов
+102,LRS,S,Cancelación de lista de factura
+102,LRS,T,Fatura listesi iptali
+102,LRS,U,Laskuluettelon peruutus
+102,LRS,V,Annullering av fakturalista
+102,LRS,W,Сторниране списък фактуру
+102,LRS,X,Sąskaitų sąrašo atšaukimas
+102,LRS,Y,Faktūrrēķinu saraksta atcelšana
+102,LRS,c,Anul.llista factures
+102,LRS,d,Storniranje liste faktura
+102,LRS,묩,इनवॉइस सूची रद्दकरें
+102,LRS,뱋,Шот-факт.тіз.болд.
+102,LRS,쁩,Hủy danh sách hóa đơn
+102,RE,1,退货货记
+102,RE,2,ใบลดหนี้ของการส่งคืน
+102,RE,3,반품의 대변
+102,RE,4,Credit pt.retururi
+102,RE,5,Kredit za vračila
+102,RE,6,Odobr. za povrate
+102,RE,7,Kredit utk Pulangan
+102,RE,8,Кредит для повернен.
+102,RE,9,Tagastuste kreedit
+102,RE,A,دائن للمرتجعات
+102,RE,B,אשראי להחלפות
+102,RE,C,Dobropis vrác.dod.
+102,RE,D,Retourengutschrift
+102,RE,E,Credit for Returns
+102,RE,F,Avoir pour retours
+102,RE,G,Πίστωση για Επιστρ.
+102,RE,H,Visszáru-jóváírás
+102,RE,I,Nota cred.per resi
+102,RE,J,返品クレジット
+102,RE,K,KredNota returvarer
+102,RE,L,Fak.k.min za zwroty
+102,RE,M,退貨通知單
+102,RE,N,Retourencreditnota
+102,RE,O,Returkreditnota
+102,RE,P,Crédito devolução
+102,RE,Q,Dobropis vrát.dod.
+102,RE,R,Кредитов. возврата
+102,RE,S,Abono p.devoluciones
+102,RE,T,İade alacak dekontu
+102,RE,U,Palautushyvityslasku
+102,RE,V,Kreditnota returer
+102,RE,W,Кредит. на върн. ст.
+102,RE,X,Grąžinimų kreditas
+102,RE,Y,Kredīts atgriešanai
+102,RE,c,Abon.devolucions
+102,RE,d,Odobrenje za vrać.
+102,RE,묩,वापसी हेतु क्रेडिट
+102,RE,뱋,Қайтар.арн.кредит
+102,RE,쁩,T.dụng chohoànlại
+102,S1,1,发票作废
+102,S1,2,การยกเลิกใบแจ้งหนี้
+102,S1,3,송장 취소
+102,S1,4,Stornare factură
+102,S1,5,Storno računa
+102,S1,6,Storniranje fakture
+102,S1,7,Pembatalan Invois
+102,S1,8,Скасування рахунка-фактури
+102,S1,9,Arve tühistamine
+102,S1,A,إلغاء الفاتورة
+102,S1,B,ביטול חשבונית
+102,S1,C,Storno faktury
+102,S1,D,Storno Rechnung
+102,S1,E,Invoice Cancellation
+102,S1,F,Annulation de facture
+102,S1,G,Ακύρωση Τιμολογίου
+102,S1,H,Számlastornó
+102,S1,I,Storno fattura
+102,S1,J,請求書取消
+102,S1,K,Fakturaannullering
+102,S1,L,Storno faktury
+102,S1,M,發票取消
+102,S1,N,Factuurstorno
+102,S1,O,Fakturaannullering
+102,S1,P,Estorno de fatura
+102,S1,Q,Storno faktúry
+102,S1,R,Сторно счета
+102,S1,S,Cancelación de facturas
+102,S1,T,Fatura iptali
+102,S1,U,Laskun peruutus
+102,S1,V,Fakturaannullering
+102,S1,W,Сторно на фактура
+102,S1,X,Sąskaitos anuliavimas
+102,S1,Y,Faktūrrēķina atcelšana
+102,S1,c,Cancel·lació de factures
+102,S1,d,Storniranje fakture
+102,S1,묩,इनवॉइस रद्द करें
+102,S1,뱋,Шотты болдырмау
+102,S1,쁩,Hủy hóa đơn
+102,S2,1,贷项凭证取消
+102,S2,2,การยกเลิกใบลดหนี้
+102,S2,3,대변 메모 취소
+102,S2,4,Anulare credit memo
+102,S2,5,Storno dobropisa
+102,S2,6,Storniranje odobrenja
+102,S2,7,Pembatalan Memo Kredit
+102,S2,8,Скасування кредитового авізо
+102,S2,9,Kreeditarve tühistamine
+102,S2,A,إلغاء مذكرة دائنة
+102,S2,B,ביטול של הודעת זיכוי
+102,S2,C,Storno dobropisu
+102,S2,D,Storno Gutschrift
+102,S2,E,Credit Memo Cancellation
+102,S2,F,Annulation d'avoir
+102,S2,G,Ακύρωση Πιστ.Σημειώματος
+102,S2,H,Jóváírás stornózása
+102,S2,I,Storno nota di credito
+102,S2,J,クレジットメモ取消
+102,S2,K,Annullering af kreditnota
+102,S2,L,Storno faktury korygującej minus
+102,S2,M,貸項通知單取消
+102,S2,N,Storno creditnota
+102,S2,O,Annullering av kreditnota
+102,S2,P,Estorno de nota de crédito
+102,S2,Q,Storno dobropisu
+102,S2,R,Сторно кредитового авизо
+102,S2,S,Cancelación de nota de abono
+102,S2,T,Alacak dekontu iptali
+102,S2,U,Hyvityksen peruutus
+102,S2,V,Annullering av kreditnota
+102,S2,W,Сторниране кредитно авизо
+102,S2,X,Kreditinės sąskaitos atšaukimas
+102,S2,Y,Kredītrēķina atcelšana
+102,S2,c,Cancel·lació de nota d'abonament
+102,S2,d,Storniranje odobrenja
+102,S2,묩,क्रेडिट मेमो रद्द करें
+102,S2,뱋,Кред.авиз.болдырмау
+102,S2,쁩,Hủy giấy ghi có
+102,S3,1,取消发票
+102,S3,2,ยกเลิกใบแจ้งหนี้
+102,S3,3,송장 취소
+102,S3,4,Stornare factură
+102,S3,5,Preklic računa
+102,S3,6,Storniraj fakturu
+102,S3,7,Batal Invois
+102,S3,8,Скасувати рахунок-фактуру
+102,S3,9,Tühista arve
+102,S3,A,إلغاء الفاتورة
+102,S3,B,ביטול חשבונית
+102,S3,C,Storno faktury
+102,S3,D,Rechn. storn.
+102,S3,E,Cancel Invoice
+102,S3,F,Annuler facture
+102,S3,G,Ακύρωση Τιμολογίου
+102,S3,H,Számla stornózása
+102,S3,I,Stornare fattura
+102,S3,J,請求書取消
+102,S3,K,Annuller faktura
+102,S3,L,Stornowanie faktury
+102,S3,M,取消發票
+102,S3,N,Factuur storneren
+102,S3,O,Annuller faktura
+102,S3,P,Estornar fatura
+102,S3,Q,Stornovanie faktúry
+102,S3,R,Сторнировать счет-фактуру
+102,S3,S,Cancelar factura
+102,S3,T,Faturayı iptal et
+102,S3,U,Peruuta lasku
+102,S3,V,Annullera faktura
+102,S3,W,Сторниране на фактура
+102,S3,X,Atšaukti sąskaitą
+102,S3,Y,Atcelt faktūrrēķinu
+102,S3,c,Anul·lar la factura
+102,S3,d,Storniraj fakturu
+102,S3,묩,इनवॉइस रद्द करें
+102,S3,뱋,Шотты болдырмау
+102,S3,쁩,Hủy hóa đơn
+102,SHR,1,取消培训管理
+102,SHR,2,Cancel Training Adm
+102,SHR,3,교육관리취소
+102,SHR,4,Anulare seminar
+102,SHR,5,Storno upr.seminar.
+102,SHR,6,Otkaži administraciju obuke
+102,SHR,7,Batal Pgrsn Latihan
+102,SHR,8,Сторно керув.семін.
+102,SHR,9,Tühista koolit. hald
+102,SHR,A,إلغاء إدارة التدريب
+102,SHR,B,ביטול אדמינסט. הכשרה
+102,SHR,C,Storno admin.semin.
+102,SHR,D,Storno Seminarverw.
+102,SHR,E,Cancel Training Adm
+102,SHR,F,Annulation admin. formation
+102,SHR,G,Ακύρ.Διεύθ.Εκπαίδ.
+102,SHR,H,Oktatási admin. storn.
+102,SHR,I,Storno gest.corsi
+102,SHR,J,研修管理取消
+102,SHR,K,Annul. seminaradm.
+102,SHR,L,Storno - wyk. szkol.
+102,SHR,M,取消訓練管理
+102,SHR,N,Storno seminaradm.f.
+102,SHR,O,TilbFør. - kursadm.
+102,SHR,P,Estorno adm.curso
+102,SHR,Q,Storno admin.semin.
+102,SHR,R,СторноУправлСеминар
+102,SHR,S,Anul.gest.seminario
+102,SHR,T,Ters kayıt (eğitim)
+102,SHR,U,Peruuta seminaarih.
+102,SHR,V,Annull. kurs
+102,SHR,W,ОтказНаАдмОбучение
+102,SHR,X,Kval.kėlimo adm. an.
+102,SHR,Y,Atcelt apmācību administrēšanu
+102,SHR,c,Anul·l.gestió curs
+102,SHR,d,Otkaži admin.obuke
+102,SHR,묩,प्रशि.व्य. रद्द करें
+102,SHR,뱋,Оқыт.әкімш.болдырм.
+102,SHR,쁩,Hủy qlýhuấnluyện
+102,SV,1,取消现金订单
+102,SV,2,ยกเลิกการขายเงินสด
+102,SV,3,현금판매취소
+102,SV,4,Anul.vânz.în numerar
+102,SV,5,Storno got.prod.
+102,SV,6,Otkaži gotov. prod.
+102,SV,7,Batal Jualan Tunai
+102,SV,8,Сторно/продаж готів.
+102,SV,9,Tühista sularahamüük
+102,SV,A,إلغاء البيع النقدي
+102,SV,B,ביטול מכירה במזומן
+102,SV,C,Storno-ProdZaHot
+102,SV,D,Storno Barverkauf
+102,SV,E,Cancel Cash Sale
+102,SV,F,Annulat.Vte comptant
+102,SV,G,Ακύρ.Πώλησ.τοις μετρ
+102,SV,H,Kp. értékesítés storn.
+102,SV,I,Storno vnd. contanti
+102,SV,J,現金販売取消
+102,SV,K,Annul. kontantsalg
+102,SV,L,Storno sprz. gotówk.
+102,SV,M,取消現金銷售
+102,SV,N,Storno cont.verkoop
+102,SV,O,Tilb.før. kont.salg
+102,SV,P,Estorn.venda à vista
+102,SV,Q,Storno PredajaZaHot
+102,SV,R,Сторно/ПродажаНаличн
+102,SV,S,Anul.venta contado
+102,SV,T,Ters kyt(nakit stş.)
+102,SV,U,Peruuta käteismyynti
+102,SV,V,Anull. kont.förs.
+102,SV,W,Сторн. на ПродБрой
+102,SV,X,Pardavimo gryn.p.an.
+102,SV,Y,Atcelt pārdošanu par skaidru naudu
+102,SV,c,AnulCompravdaComptat
+102,SV,d,Otkaži gotov.prodaju
+102,SV,묩,नकद विक्रय रद्द करें
+102,SV,뱋,ҚолмаҚолАқшСатБ
+102,SV,쁩,Hủy bán tiền mặt
+102,SVCB,1,客户管理服务确认开票凭证请求
+102,SVCB,2,Cust. Mgmt Service Conf. BDR
+102,SVCB,3,고객 관리 서비스 확인 BDR
+102,SVCB,4,Fact.detaliată conf.serv.gest.clienţi
+102,SVCB,5,Potrd.stor.upravlj.str.pos.dokaz.računa
+102,SVCB,6,Upravljanje kupcima-potvrda usluge BDR
+102,SVCB,7,Konfigurasi Perkhidmatan Pgrsn Plgn BDR
+102,SVCB,8,Керув.клієн.: BDR підтвердження послуги
+102,SVCB,9,Kliendihalduse teenuse kinnitus - BDR
+102,SVCB,A,طلب مستند فوترة لتأكيد خدمة إدارة عملاء
+102,SVCB,B,BDR לאישור שירות ניהול לקוחות
+102,SVCB,C,Mgmt zákaz.-zpět.hláš.serv. - BDR
+102,SVCB,D,Kundenmanagement Service-Konf. BDR
+102,SVCB,E,Cust. Mgmt Service Conf. BDR
+102,SVCB,F,Gestion clients - Confirm. service DDF
+102,SVCB,G,Επιβεβ.Υπηρεσ.Διαχείρ.Πελατών BDR
+102,SVCB,H,Vevőkezelés - szolg. visszajel. BDR
+102,SVCB,I,Conf. serv. gestione clienti RDFE
+102,SVCB,J,得意先管理サービス確認 BDR
+102,SVCB,K,Kundestyring servicekonfig. FDR
+102,SVCB,L,Zarządz. kl. - potwierdzenie usługi BDR
+102,SVCB,M,客戶管理服務確認請款文件請求
+102,SVCB,N,Aangep. beh.service.conf. BDR
+102,SVCB,O,Kundeadmin. servicekonfig. ekstern FA
+102,SVCB,P,Conf.serv.gerenc.clnts.SolicDocFatmto.
+102,SVCB,Q,Správa odberat.-konfig.služby BDR
+102,SVCB,R,Управ. кл. - подтв. серв. запроса факт.
+102,SVCB,S,Conf.servicio gest.clien.BDR
+102,SVCB,T,Müşteri yönetimi servis teyidi BDR
+102,SVCB,U,Asiakashall. palvelun vahv. laskupyyntö
+102,SVCB,V,Kundhantering servicekonfig. BDR
+102,SVCB,W,BDR - потв.услуга - управление клиенти
+102,SVCB,X,Kliento valdymo paslaugos patvirtin. BDR
+102,SVCB,Y,Klientu pārvald. pakalpoj. konf. BRD
+102,SVCB,c,Conf.servei gest.clients BDR
+102,SVCB,d,Upravljanje kupcima-potvrda usluge BDR
+102,SVCB,묩,ग्राहक प्रबंधन सेवा पुष्टिकरण BDR
+102,SVCB,뱋,Кл. басқ.: қызм. растау - факт. сұрауы
+102,SVCB,쁩,Cấu hình dịch vụ q.lý kh.hàng BDR
+102,SVOB,1,客户管理服务订单开票凭证请求
+102,SVOB,2,Cust. Mgmt Service Order BDR
+102,SVOB,3,고객 관리 서비스 오더 BDR
+102,SVOB,4,Fact.detaliată cdă serv.gest.clienţi
+102,SVOB,5,Stor.nalog upravlj.str.pos.dokaz.računa
+102,SVOB,6,Uprav. kupcima-nalog za uslugu BDR
+102,SVOB,7,Pesanan Pkhdmtn Pengurusan Pelanggan BDR
+102,SVOB,8,Керув.клієн.: BDR серв.зам.
+102,SVOB,9,Kliendihalduse teenusetellimus - BDR
+102,SVOB,A,طلب مستند فوترة لأمر خدمة إدارة العملاء
+102,SVOB,B,BDR להזמנת שירות ניהול לקוחות
+102,SVOB,C,Mgmt zákazníků - servis.zákazka BDR
+102,SVOB,D,Kundenmanagement Serviceauftrag BDR
+102,SVOB,E,Cust. Mgmt Service Order BDR
+102,SVOB,F,Gestion clients - Ordre de service DDF
+102,SVOB,G,Εντολή Υπηρεσ.Διαχείρ.Πελατών BDR
+102,SVOB,H,Vevőkezelés - szolg.rendelés BDR
+102,SVOB,I,Ordine serv. gestione clienti RDFE
+102,SVOB,J,得意先管理サービスオーダ BDR
+102,SVOB,K,Kundestyring serviceordre FDR
+102,SVOB,L,Zarządz. kl. - zlecenie serw. BDR
+102,SVOB,M,客戶管理服務單請款文件請求
+102,SVOB,N,Aangepaste beheerserviceorder BDR
+102,SVOB,O,Kundeadmin. serviceordre ekstern FA
+102,SVOB,P,Ordem serv.gerenc.clnts.SolicDocFatmto.
+102,SVOB,Q,Správa odberat.- servis.zákazka BDR
+102,SVOB,R,Управ. кл. - серв. заказ - запрос факт.
+102,SVOB,S,Orden servicio gest.clien.BDR
+102,SVOB,T,Müşteri yönetimi servis siparişi BDR
+102,SVOB,U,Asiakashall. palvelun til. laskupyyntö
+102,SVOB,V,Kundhantering serviceorder BDR
+102,SVOB,W,BDR - поръчка услуга - управл.клиенти
+102,SVOB,X,Kliento valdymo paslaugos patvirtin. BDR
+102,SVOB,Y,Klientu pārvald. pakalpoj. pasūt. BRD
+102,SVOB,c,Ordre servei gest.clients BDR
+102,SVOB,d,Upravljanje kupcima-nalog za uslugu BDR
+102,SVOB,묩,ग्राहक प्रबंधन सेवा ऑर्डर BDR
+102,SVOB,뱋,Кл. басқару.: қызм. тапс. - факт. сұрау.
+102,SVOB,쁩,Đ.hàng dịch vụ q.lý khách hàng BDR
+102,SVTB,1,客户管理服务确认
+102,SVTB,2,การจัดการลูกค้า - การยืนยันบริการ
+102,SVTB,3,고객 관리 서비스 확인
+102,SVTB,4,Con.seviciu gestiune clienţi
+102,SVTB,5,Upravljanje strank – pogodba o storitvi
+102,SVTB,6,Upravljanje kupcima - ugovor o uslugama
+102,SVTB,7,Kontrak Perkhidmatan Pengurusan Planggan
+102,SVTB,8,Кер.клієнтами: дог.на над.послуг
+102,SVTB,9,Kliendihalduse teenuseleping
+102,SVTB,A,تأكيد خدمة إدارة العملاء
+102,SVTB,B,חוזה שירות לניהול לקוחות
+102,SVTB,C,Mgmt zák. - servisní smlouva
+102,SVTB,D,Kundenmanagement Servicevertrag
+102,SVTB,E,Cust. Mgmt Service Con
+102,SVTB,F,Gestion clients - Confirmation service
+102,SVTB,G,Υπηρεσία Διαχείρισης Πελατών
+102,SVTB,H,Vevőkezelés szolg. visszaig.
+102,SVTB,I,Contr. servizio gestione clienti
+102,SVTB,J,得意先管理サービス確認
+102,SVTB,K,Kundestyring servicekon.
+102,SVTB,L,Zarządz. kl. - potw. usługi
+102,SVTB,M,客戶管理服務確認
+102,SVTB,N,Servicecontract klantbeheer
+102,SVTB,O,Kundeadministrasjon servicekontrakt
+102,SVTB,P,Contrato serviços gerenciamento clientes
+102,SVTB,Q,Správa odberat.- spät.hlás.servisu
+102,SVTB,R,Управл. кл. - сервисный договор
+102,SVTB,S,Conf.servicio gest.clien.
+102,SVTB,T,Mşt.Yönetimi Srv.Söz.
+102,SVTB,U,Asiakashallinta - palvelusopimus
+102,SVTB,V,Kundhantering serviceavtal
+102,SVTB,W,Управление на клиенти - конфиг.на услуга
+102,SVTB,X,Kliento valdymo paslaugos sutartis
+102,SVTB,Y,Klientu pārvaldības pakalpojuma līgums
+102,SVTB,c,Con.servei gestió clients
+102,SVTB,d,UgovOUslUprKlij - zapis detalaj fakture
+102,SVTB,묩,ग्राहक प्रबंधन सेवा संविदा BDR
+102,SVTB,뱋,Кл. басқару: қызм.келіс. - факт. сұрауы
+102,SVTB,쁩,Hợp đồng dịch vụ q.lý khách hàng
+102,VLF2,E,
+102,VLG2,1,VMS 退货贷项
+102,VLG2,2,VMS เครดิตการคืน
+102,VLG2,3,VMS 반품 대변
+102,VLG2,4,VMS credit retururi
+102,VLG2,5,VMS dobropis vračila
+102,VLG2,6,VMS odobrenje povrata
+102,VLG2,7,Kredit Pulangan VMS
+102,VLG2,8,Повернення VMS: кредит
+102,VLG2,9,VMS tag. kreeditarve
+102,VLG2,A,نظام إدارة المركبات: مذكرة مرتجعات
+102,VLG2,B,VMS זיכוי החזרים
+102,VLG2,C,VMS Dobr.na vr.dod.
+102,VLG2,D,VMS Retouren-GS
+102,VLG2,E,VMS Returns Credit
+102,VLG2,F,VMS AvoirSur Retours
+102,VLG2,G,Πίστωση Επιστρ.VMS
+102,VLG2,H,VMS visszáruk jóváírása
+102,VLG2,I,VMS nota cred. resi
+102,VLG2,J,VMS 返品クレジットメモ
+102,VLG2,K,VMS returvarer-KN
+102,VLG2,L,VMS: Fakt.kor.min.
+102,VLG2,M,VMS 退貨貸項
+102,VLG2,N,VMS CredNota retour.
+102,VLG2,O,VMS - kreditnota for returer
+102,VLG2,P,NC devolução VMS
+102,VLG2,Q,VMS Dobr.na vr.dod.
+102,VLG2,R,СУ ТС - КрдАвзВозврт
+102,VLG2,S,VMS Abono devol.
+102,VLG2,T,VMS iade alck.dknt.
+102,VLG2,U,VMS palautusten hyv.
+102,VLG2,V,VMS returer kredit
+102,VLG2,W,VMS кредит за връщ.
+102,VLG2,X,VMS grąžin. kreditą
+102,VLG2,Y,VMS atgr.preču kred.
+102,VLG2,c,VMS Crèdit de devolució
+102,VLG2,d,VMS kredit vraćanja
+102,VLG2,묩,VMS रिटर्न क्रेडिट
+102,VLG2,뱋,VMS қайтарымдар: кредит
+102,VLG2,쁩,VMS g.có hg.tr.lại
+102,VLS1,E,
+102,WIA,1,海外工厂
+102,WIA,2,โรงงานในต่างประเทศ
+102,WIA,3,해외 플랜트
+102,WIA,4,Unităţi log. externe
+102,WIA,5,Obrati v tujini
+102,WIA,6,Pogoni u inozemstvu
+102,WIA,7,Loji Luar Negara
+102,WIA,8,Заводи за кордоном
+102,WIA,9,Tegevusüksused välismaal
+102,WIA,A,المصانع بالخارج
+102,WIA,B,אתרים בחוץ לארץ
+102,WIA,C,Závody v zahraničí
+102,WIA,D,Werke im Ausland
+102,WIA,E,Plants Abroad
+102,WIA,F,Divisions étranger
+102,WIA,G,Εγκαταστάσεις στο Εξωτερικό
+102,WIA,H,Gyárak külföldön
+102,WIA,I,Divisioni all'estero
+102,WIA,J,海外プラント
+102,WIA,K,Fabrikker i udlandet
+102,WIA,L,Zakłady za granicą
+102,WIA,M,國外工廠
+102,WIA,N,Vest. in buitenland
+102,WIA,O,Fabrikker i utlandet
+102,WIA,P,Centros no exterior
+102,WIA,Q,Závody v zahraničí
+102,WIA,R,Заводы за границей
+102,WIA,S,Centros extranjero
+102,WIA,T,Yurtdışındaki ÜY
+102,WIA,U,Ulkom. toimipisteet
+102,WIA,V,Prod.enh. utomlands
+102,WIA,W,Заводи зад граница
+102,WIA,X,Užsienio gamyklos
+102,WIA,Y,Saimniecības ārvalstīs
+102,WIA,c,Centres a estranger
+102,WIA,d,Pogoni u inostranst.
+102,WIA,묩,विदेशी प्लांट
+102,WIA,뱋,Шетел зауыттары
+102,WIA,쁩,Nh.máy ở nc ngoài
+102,YCI2,1,发票
+102,YCI2,2,ใบกำกับสินค้า
+102,YCI2,3,송장
+102,YCI2,4,Factură
+102,YCI2,5,Račun
+102,YCI2,6,Faktura
+102,YCI2,7,Invois
+102,YCI2,8,Рахунок-фактура
+102,YCI2,9,Arve
+102,YCI2,A,الفاتورة
+102,YCI2,B,חשבונית
+102,YCI2,C,Faktura
+102,YCI2,D,Rechnung
+102,YCI2,E,MH_Consignment Issue Invoice
+102,YCI2,F,Facture
+102,YCI2,G,Τιμολόγιο
+102,YCI2,H,Számla
+102,YCI2,I,Fattura
+102,YCI2,J,請求書
+102,YCI2,K,Faktura
+102,YCI2,L,Faktura
+102,YCI2,M,發票
+102,YCI2,N,Factuur
+102,YCI2,O,Faktura
+102,YCI2,P,Fatura
+102,YCI2,Q,Faktúra
+102,YCI2,R,Счет
+102,YCI2,S,Factura
+102,YCI2,T,Fatura
+102,YCI2,U,Lasku
+102,YCI2,V,Faktura
+102,YCI2,W,Фактура
+102,YCI2,X,Sąskaita
+102,YCI2,Y,Faktūrrēķins
+102,YCI2,c,Factura
+102,YCI2,d,Faktura
+102,YCI2,묩,इनवॉइस
+102,YCI2,뱋,Шот-фактура
+102,YCI2,쁩,Hóa đơn
+102,YCRE,1,退货贷项凭证
+102,YCRE,2,ใบลดหนี้ของการส่งคืน
+102,YCRE,3,대변 메모(반품)
+102,YCRE,4,Credit memo pt.retururi
+102,YCRE,5,Dobropis vračila
+102,YCRE,6,Odobrenje za povrate
+102,YCRE,7,Memo Kredit untuk Pulangan
+102,YCRE,8,Кредитове авізо для повернень
+102,YCRE,9,Tagastuste kreeditarve
+102,YCRE,A,مذكرة دائن للمرتجعات
+102,YCRE,B,הודעת זיכוי עבור החזרות
+102,YCRE,C,Dobropis pro vrácené dodávky
+102,YCRE,D,Retourengutschrift
+102,YCRE,E,MH_Credit for Returns
+102,YCRE,F,Avoir pour retours
+102,YCRE,G,Πιστωτικό Σημείωμα για Επιστροφές
+102,YCRE,H,Visszáru-jóváírás
+102,YCRE,I,Nota di credito per resi
+102,YCRE,J,返品用クレジットメモ
+102,YCRE,K,Kreditnota for returvarer
+102,YCRE,L,Faktura korygująca minus za zwroty
+102,YCRE,M,退貨貸項通知單
+102,YCRE,N,Retourencreditnota
+102,YCRE,O,Kreditnota for returer
+102,YCRE,P,Nota de crédito para devoluções
+102,YCRE,Q,Dobropis za vrátenú dodávku
+102,YCRE,R,Кредит. авизо для возвратов
+102,YCRE,S,Abono para devoluciones
+102,YCRE,T,İadeler için alacak dekontu
+102,YCRE,U,Palautusten hyvitys
+102,YCRE,V,Kreditnota för returer
+102,YCRE,W,Кредит. авизо за върн. ст.
+102,YCRE,X,Grąžinimų kreditinė sąskaita
+102,YCRE,Y,Kredītrēķini atgrieztajām precēm
+102,YCRE,c,Abonament per a devolucions
+102,YCRE,d,Odobrenje za vraćanja
+102,YCRE,묩,वापसी हेतु क्रेडिट मेमो
+102,YCRE,뱋,Қайтарымдарға арналған кредиттік авизо
+102,YCRE,쁩,Giấy ghi có cho trả hàng
+102,YDDF,1,发票
+102,YDDF,2,ใบกำกับสินค้า
+102,YDDF,3,송장
+102,YDDF,4,Factură
+102,YDDF,5,Račun
+102,YDDF,6,Faktura
+102,YDDF,7,Invois
+102,YDDF,8,Рахунок-фактура
+102,YDDF,9,Arve
+102,YDDF,A,الفاتورة
+102,YDDF,B,חשבונית
+102,YDDF,C,Faktura
+102,YDDF,D,Rechnung
+102,YDDF,E,MH_Dom W/ MB Inv
+102,YDDF,F,Facture
+102,YDDF,G,Τιμολόγιο
+102,YDDF,H,Számla
+102,YDDF,I,Fattura
+102,YDDF,J,請求書
+102,YDDF,K,Faktura
+102,YDDF,L,Faktura
+102,YDDF,M,發票
+102,YDDF,N,Factuur
+102,YDDF,O,Faktura
+102,YDDF,P,Fatura
+102,YDDF,Q,Faktúra
+102,YDDF,R,Счет
+102,YDDF,S,Factura
+102,YDDF,T,Fatura
+102,YDDF,U,Lasku
+102,YDDF,V,Faktura
+102,YDDF,W,Фактура
+102,YDDF,X,Sąskaita
+102,YDDF,Y,Faktūrrēķins
+102,YDDF,c,Factura
+102,YDDF,d,Faktura
+102,YDDF,묩,इनवॉइस
+102,YDDF,뱋,Шот-фактура
+102,YDDF,쁩,Hóa đơn
+102,YDF2,1,发票
+102,YDF2,2,ใบกำกับสินค้า
+102,YDF2,3,송장
+102,YDF2,4,Factură
+102,YDF2,5,Račun
+102,YDF2,6,Faktura
+102,YDF2,7,Invois
+102,YDF2,8,Рахунок-фактура
+102,YDF2,9,Arve
+102,YDF2,A,الفاتورة
+102,YDF2,B,חשבונית
+102,YDF2,C,Faktura
+102,YDF2,D,Rechnung
+102,YDF2,E,MH_Domestic Invoice
+102,YDF2,F,Facture
+102,YDF2,G,Τιμολόγιο
+102,YDF2,H,Számla
+102,YDF2,I,Fattura
+102,YDF2,J,請求書
+102,YDF2,K,Faktura
+102,YDF2,L,Faktura
+102,YDF2,M,發票
+102,YDF2,N,Factuur
+102,YDF2,O,Faktura
+102,YDF2,P,Fatura
+102,YDF2,Q,Faktúra
+102,YDF2,R,Счет
+102,YDF2,S,Factura
+102,YDF2,T,Fatura
+102,YDF2,U,Lasku
+102,YDF2,V,Faktura
+102,YDF2,W,Фактура
+102,YDF2,X,Sąskaita
+102,YDF2,Y,Faktūrrēķins
+102,YDF2,c,Factura
+102,YDF2,d,Faktura
+102,YDF2,묩,इनवॉइस
+102,YDF2,뱋,Шот-фактура
+102,YDF2,쁩,Hóa đơn
+102,YEDF,1,发票
+102,YEDF,2,ใบกำกับสินค้า
+102,YEDF,3,송장
+102,YEDF,4,Factură
+102,YEDF,5,Račun
+102,YEDF,6,Faktura
+102,YEDF,7,Invois
+102,YEDF,8,Рахунок-фактура
+102,YEDF,9,Arve
+102,YEDF,A,الفاتورة
+102,YEDF,B,חשבונית
+102,YEDF,C,Faktura
+102,YEDF,D,Rechnung
+102,YEDF,E,MH_Exp_W/_MB Invoice
+102,YEDF,F,Facture
+102,YEDF,G,Τιμολόγιο
+102,YEDF,H,Számla
+102,YEDF,I,Fattura
+102,YEDF,J,請求書
+102,YEDF,K,Faktura
+102,YEDF,L,Faktura
+102,YEDF,M,發票
+102,YEDF,N,Factuur
+102,YEDF,O,Faktura
+102,YEDF,P,Fatura
+102,YEDF,Q,Faktúra
+102,YEDF,R,Счет
+102,YEDF,S,Factura
+102,YEDF,T,Fatura
+102,YEDF,U,Lasku
+102,YEDF,V,Faktura
+102,YEDF,W,Фактура
+102,YEDF,X,Sąskaita
+102,YEDF,Y,Faktūrrēķins
+102,YEDF,c,Factura
+102,YEDF,d,Faktura
+102,YEDF,묩,इनवॉइस
+102,YEDF,뱋,Шот-фактура
+102,YEDF,쁩,Hóa đơn
+102,YEF2,1,发票
+102,YEF2,2,ใบกำกับสินค้า
+102,YEF2,3,송장
+102,YEF2,4,Factură
+102,YEF2,5,Račun
+102,YEF2,6,Faktura
+102,YEF2,7,Invois
+102,YEF2,8,Рахунок-фактура
+102,YEF2,9,Arve
+102,YEF2,A,الفاتورة
+102,YEF2,B,חשבונית
+102,YEF2,C,Faktura
+102,YEF2,D,Rechnung
+102,YEF2,E,MH_Emergency Invoice
+102,YEF2,F,Facture
+102,YEF2,G,Τιμολόγιο
+102,YEF2,H,Számla
+102,YEF2,I,Fattura
+102,YEF2,J,請求書
+102,YEF2,K,Faktura
+102,YEF2,L,Faktura
+102,YEF2,M,發票
+102,YEF2,N,Factuur
+102,YEF2,O,Faktura
+102,YEF2,P,Fatura
+102,YEF2,Q,Faktúra
+102,YEF2,R,Счет
+102,YEF2,S,Factura
+102,YEF2,T,Fatura
+102,YEF2,U,Lasku
+102,YEF2,V,Faktura
+102,YEF2,W,Фактура
+102,YEF2,X,Sąskaita
+102,YEF2,Y,Faktūrrēķins
+102,YEF2,c,Factura
+102,YEF2,d,Faktura
+102,YEF2,묩,इनवॉइस
+102,YEF2,뱋,Шот-фактура
+102,YEF2,쁩,Hóa đơn
+102,YEX2,1,发票
+102,YEX2,2,ใบกำกับสินค้า
+102,YEX2,3,송장
+102,YEX2,4,Factură
+102,YEX2,5,Račun
+102,YEX2,6,Faktura
+102,YEX2,7,Invois
+102,YEX2,8,Рахунок-фактура
+102,YEX2,9,Arve
+102,YEX2,A,الفاتورة
+102,YEX2,B,חשבונית
+102,YEX2,C,Faktura
+102,YEX2,D,Rechnung
+102,YEX2,E,MH_Export Invoice
+102,YEX2,F,Facture
+102,YEX2,G,Τιμολόγιο
+102,YEX2,H,Számla
+102,YEX2,I,Fattura
+102,YEX2,J,請求書
+102,YEX2,K,Faktura
+102,YEX2,L,Faktura
+102,YEX2,M,發票
+102,YEX2,N,Factuur
+102,YEX2,O,Faktura
+102,YEX2,P,Fatura
+102,YEX2,Q,Faktúra
+102,YEX2,R,Счет
+102,YEX2,S,Factura
+102,YEX2,T,Fatura
+102,YEX2,U,Lasku
+102,YEX2,V,Faktura
+102,YEX2,W,Фактура
+102,YEX2,X,Sąskaita
+102,YEX2,Y,Faktūrrēķins
+102,YEX2,c,Factura
+102,YEX2,d,Faktura
+102,YEX2,묩,इनवॉइस
+102,YEX2,뱋,Шот-фактура
+102,YEX2,쁩,Hóa đơn
+102,YF2,1,发票
+102,YF2,2,ใบกำกับสินค้า
+102,YF2,3,송장
+102,YF2,4,Factură
+102,YF2,5,Račun
+102,YF2,6,Faktura
+102,YF2,7,Invois
+102,YF2,8,Рахунок-фактура
+102,YF2,9,Arve
+102,YF2,A,الفاتورة
+102,YF2,B,חשבונית
+102,YF2,C,Faktura
+102,YF2,D,Rechnung
+102,YF2,E,Invoice
+102,YF2,F,Facture
+102,YF2,G,Τιμολόγιο
+102,YF2,H,Számla
+102,YF2,I,Fattura
+102,YF2,J,請求書
+102,YF2,K,Faktura
+102,YF2,L,Faktura
+102,YF2,M,發票
+102,YF2,N,Factuur
+102,YF2,O,Faktura
+102,YF2,P,Fatura
+102,YF2,Q,Faktúra
+102,YF2,R,Счет
+102,YF2,S,Factura
+102,YF2,T,Fatura
+102,YF2,U,Lasku
+102,YF2,V,Faktura
+102,YF2,W,Фактура
+102,YF2,X,Sąskaita
+102,YF2,Y,Faktūrrēķins
+102,YF2,c,Factura
+102,YF2,d,Faktura
+102,YF2,묩,इनवॉइस
+102,YF2,뱋,Шот-фактура
+102,YF2,쁩,Hóa đơn
+102,YF5,1,形式订单
+102,YF5,2,รายการชั่วคราวสำหรับใบสั่ง
+102,YF5,3,오더 견적
+102,YF5,4,Pro forma pt.comandă
+102,YF5,5,Proforma za naročilo
+102,YF5,6,Pro forma za nalog
+102,YF5,7,Pro Forma untuk Pesanan
+102,YF5,8,Проформа для замовлення
+102,YF5,9,Esialgn.arve tell-le
+102,YF5,A,شكلي للأمر
+102,YF5,B,פרופורמה להזמנה
+102,YF5,C,Proforma pro zakáz.
+102,YF5,D,Pro-forma für Auftrag
+102,YF5,E,MH_Pro Forma for Order
+102,YF5,F,Facture proforma pour commande
+102,YF5,G,Pro Forma για Εντολή
+102,YF5,H,Pro forma rend.-hez
+102,YF5,I,Proforma per ordine
+102,YF5,J,受注のプロフォーマ
+102,YF5,K,Proforma til ordre
+102,YF5,L,Pro forma zlecenia
+102,YF5,M,預估訂單
+102,YF5,N,Pro-forma voor order
+102,YF5,O,Proforma for ordre
+102,YF5,P,Pro-forma p/ordem
+102,YF5,Q,Proforma pre zákaz.
+102,YF5,R,Счет-проформа для заказа
+102,YF5,S,Proforma para pedido
+102,YF5,T,Sprş.proforma ftr.
+102,YF5,U,Proforma tilausta varten
+102,YF5,V,Proforma för order
+102,YF5,W,Проформа за поръчка
+102,YF5,X,Išank.do k.užsakymui
+102,YF5,Y,Pasūtījuma pro forma
+102,YF5,c,Pro-forma p.comanda
+102,YF5,d,Pro forma za nalog
+102,YF5,묩,ऑर्डर हेतु अग्रिम
+102,YF5,뱋,Тапсырысқа арналған проформа
+102,YF5,쁩,Hđơnbgiá cho đhàng
+102,YF8,1,交货的形式发票
+102,YF8,2,ใบกำกับสินค้าชั่วคราวสำหรับการส่งมอบ
+102,YF8,3,납품 프로 포마 송장
+102,YF8,4,Factură pro forma pt.livrare
+102,YF8,5,Proforma račun za dobavo
+102,YF8,6,Pro forma faktura za isporuku
+102,YF8,7,Invois Pro Forma untuk Penghantaran
+102,YF8,8,Проформа для поставки
+102,YF8,9,Esialgne arve tarne eest
+102,YF8,A,فاتورة شكلية للتسليم
+102,YF8,B,חשבונית פרופורמה עבור אספקה
+102,YF8,C,Proforma faktura pro dodávku
+102,YF8,D,Pro-forma-Rechnung für Lieferung
+102,YF8,E,MH_Pro Forma Inv f Dlv
+102,YF8,F,Facture proforma pour livraison
+102,YF8,G,ProForma Τιμολόγιο για Παράδοση
+102,YF8,H,Pro forma számla szállításhoz
+102,YF8,I,Fattura proforma per consegna
+102,YF8,J,出荷のプロフォーマインボイス
+102,YF8,K,Proformafaktura for levering
+102,YF8,L,Faktura pro forma dla dost.
+102,YF8,M,交貨的預估發票
+102,YF8,N,Pro-formafactuur voor levering
+102,YF8,O,Proformafaktura for levering
+102,YF8,P,Fatura pro forma p/remessa
+102,YF8,Q,Proforma fakt.pre dodávku
+102,YF8,R,Счет-проформа для поставки
+102,YF8,S,Factura proforma para entrega
+102,YF8,T,Teslimat için proforma faturası
+102,YF8,U,Proformalasku toimitusta varten
+102,YF8,V,Pro forma-faktura för leverans
+102,YF8,W,Проформа фактура за доставка
+102,YF8,X,Išankst. dok. sąsk. pristat.
+102,YF8,Y,Faktūrrēķina pro forma piegādei
+102,YF8,c,Factura pro-forma p.lliurament
+102,YF8,d,Pro forma faktura za isporuku
+102,YF8,묩,वितरण हेतु अग्रिम इनवॉइस
+102,YF8,뱋,Жетк.арн.порф.-шот
+102,YF8,쁩,Hóa đơn tạm để giao hàng
+102,YFAZ,1,预付款请求
+102,YFAZ,2,คำขอให้ชำระเงินดาวน์
+102,YFAZ,3,선금 요청
+102,YFAZ,4,Cerere plată în avans
+102,YFAZ,5,Zahteva za predplač.
+102,YFAZ,6,Zahtjev za predujam
+102,YFAZ,7,Permintaan Bayaran Pendahuluan
+102,YFAZ,8,Вимога авансового платежу
+102,YFAZ,9,Ettemaksetaotlus
+102,YFAZ,A,طلب دَفعة مقدّمة
+102,YFAZ,B,בקשת מקדמה
+102,YFAZ,C,Požadavek na zálohu
+102,YFAZ,D,Anzahlungsanforderung
+102,YFAZ,E,MH_Down Payment Request
+102,YFAZ,F,Demande d'acompte
+102,YFAZ,G,Αίτηση Προκαταβολής
+102,YFAZ,H,Előlegigénylés
+102,YFAZ,I,Richiesta di acconto
+102,YFAZ,J,前受金請求
+102,YFAZ,K,Anmodning om forudbetaling
+102,YFAZ,L,Żądanie zaliczki
+102,YFAZ,M,訂金請求
+102,YFAZ,N,Vooruitbetalingsaanvraag
+102,YFAZ,O,Anmodning om forskuddsbetaling
+102,YFAZ,P,Solicitação de adiantamento
+102,YFAZ,Q,Požiadavka na zálohu
+102,YFAZ,R,Требование авансового платежа
+102,YFAZ,S,Solicitud de anticipo
+102,YFAZ,T,Peşinat talebi
+102,YFAZ,U,Ennakkomaksupyyntö
+102,YFAZ,V,Förskottsanmodan
+102,YFAZ,W,Искане за авансово плащане
+102,YFAZ,X,Išankst. dalinio mokėj. reik.
+102,YFAZ,Y,Avansa maksājuma pieprasījums
+102,YFAZ,c,Sol·licitud de bestreta
+102,YFAZ,d,Zahtev za avans
+102,YFAZ,묩,तत्काल भुगतान अनुरोध
+102,YFAZ,뱋,Аванстық төлем талабы
+102,YFAZ,쁩,Yêu cầu trả trước
+102,YFC2,1,发票
+102,YFC2,2,ใบกำกับสินค้า
+102,YFC2,3,송장
+102,YFC2,4,Factură
+102,YFC2,5,Račun
+102,YFC2,6,Faktura
+102,YFC2,7,Invois
+102,YFC2,8,Рахунок-фактура
+102,YFC2,9,Arve
+102,YFC2,A,الفاتورة
+102,YFC2,B,חשבונית
+102,YFC2,C,Faktura
+102,YFC2,D,Rechnung
+102,YFC2,E,MH_FOC Invoice
+102,YFC2,F,Facture
+102,YFC2,G,Τιμολόγιο
+102,YFC2,H,Számla
+102,YFC2,I,Fattura
+102,YFC2,J,請求書
+102,YFC2,K,Faktura
+102,YFC2,L,Faktura
+102,YFC2,M,發票
+102,YFC2,N,Factuur
+102,YFC2,O,Faktura
+102,YFC2,P,Fatura
+102,YFC2,Q,Faktúra
+102,YFC2,R,Счет
+102,YFC2,S,Factura
+102,YFC2,T,Fatura
+102,YFC2,U,Lasku
+102,YFC2,V,Faktura
+102,YFC2,W,Фактура
+102,YFC2,X,Sąskaita
+102,YFC2,Y,Faktūrrēķins
+102,YFC2,c,Factura
+102,YFC2,d,Faktura
+102,YFC2,묩,इनवॉइस
+102,YFC2,뱋,Шот-фактура
+102,YFC2,쁩,Hóa đơn
+102,YFV,1,发票
+102,YFV,2,ใบกำกับสินค้า
+102,YFV,3,송장
+102,YFV,4,Factură
+102,YFV,5,Račun
+102,YFV,6,Faktura
+102,YFV,7,Invois
+102,YFV,8,Рахунок-фактура
+102,YFV,9,Arve
+102,YFV,A,الفاتورة
+102,YFV,B,חשבונית
+102,YFV,C,Faktura
+102,YFV,D,Rechnung
+102,YFV,E,MH_Invoice Contract
+102,YFV,F,Facture
+102,YFV,G,Τιμολόγιο
+102,YFV,H,Számla
+102,YFV,I,Fattura
+102,YFV,J,請求書
+102,YFV,K,Faktura
+102,YFV,L,Faktura
+102,YFV,M,發票
+102,YFV,N,Factuur
+102,YFV,O,Faktura
+102,YFV,P,Fatura
+102,YFV,Q,Faktúra
+102,YFV,R,Счет
+102,YFV,S,Factura
+102,YFV,T,Fatura
+102,YFV,U,Lasku
+102,YFV,V,Faktura
+102,YFV,W,Фактура
+102,YFV,X,Sąskaita
+102,YFV,Y,Faktūrrēķins
+102,YFV,c,Factura
+102,YFV,d,Faktura
+102,YFV,묩,इनवॉइस
+102,YFV,뱋,Шот-фактура
+102,YFV,쁩,Hóa đơn
+102,YFXP,1,形式订单
+102,YFXP,2,รายการชั่วคราวสำหรับใบสั่ง
+102,YFXP,3,오더 견적
+102,YFXP,4,Pro forma pt.comandă
+102,YFXP,5,Proforma za naročilo
+102,YFXP,6,Pro forma za nalog
+102,YFXP,7,Pro Forma untuk Pesanan
+102,YFXP,8,Проформа для замовлення
+102,YFXP,9,Esialgn.arve tell-le
+102,YFXP,A,شكلي للأمر
+102,YFXP,B,פרופורמה להזמנה
+102,YFXP,C,Proforma pro zakáz.
+102,YFXP,D,Pro-forma für Auftrag
+102,YFXP,E,Sub Cont Chalan
+102,YFXP,F,Facture proforma pour commande
+102,YFXP,G,Pro Forma για Εντολή
+102,YFXP,H,Pro forma rend.-hez
+102,YFXP,I,Proforma per ordine
+102,YFXP,J,受注のプロフォーマ
+102,YFXP,K,Proforma til ordre
+102,YFXP,L,Pro forma zlecenia
+102,YFXP,M,預估訂單
+102,YFXP,N,Pro-forma voor order
+102,YFXP,O,Proforma for ordre
+102,YFXP,P,Pro-forma p/ordem
+102,YFXP,Q,Proforma pre zákaz.
+102,YFXP,R,Счет-проформа для заказа
+102,YFXP,S,Proforma para pedido
+102,YFXP,T,Sprş.proforma ftr.
+102,YFXP,U,Proforma tilausta varten
+102,YFXP,V,Proforma för order
+102,YFXP,W,Проформа за поръчка
+102,YFXP,X,Išank.do k.užsakymui
+102,YFXP,Y,Pasūtījuma pro forma
+102,YFXP,c,Pro-forma p.comanda
+102,YFXP,d,Pro forma za nalog
+102,YFXP,묩,ऑर्डर हेतु अग्रिम
+102,YFXP,뱋,Тапсырысқа арналған проформа
+102,YFXP,쁩,Hđơnbgiá cho đhàng
+102,YG2,1,贷项凭证
+102,YG2,2,ใบลดหนี้
+102,YG2,3,대변 메모
+102,YG2,4,Credit memo
+102,YG2,5,Dobropis
+102,YG2,6,Odobrenje
+102,YG2,7,Memo Kredit
+102,YG2,8,Кредитове авізо
+102,YG2,9,Kreeditarve
+102,YG2,A,المذكرة الدائنة
+102,YG2,B,הודעת זיכוי
+102,YG2,C,Dobropis
+102,YG2,D,Gutschrift
+102,YG2,E,MH_Credit Memo
+102,YG2,F,Avoir
+102,YG2,G,Πιστωτικό Σημείωμα
+102,YG2,H,Jóváírás
+102,YG2,I,Nota di credito
+102,YG2,J,クレジットメモ
+102,YG2,K,Kreditnota
+102,YG2,L,Faktura korygująca minus
+102,YG2,M,貸項通知單
+102,YG2,N,Creditnota
+102,YG2,O,Kreditnota
+102,YG2,P,Nota de crédito
+102,YG2,Q,Dobropis
+102,YG2,R,Кредитовое авизо
+102,YG2,S,Nota de crédito
+102,YG2,T,Alacak dekontu
+102,YG2,U,Hyvitys
+102,YG2,V,Kreditnota
+102,YG2,W,Кредитно авизо
+102,YG2,X,Kreditinė sąskaita
+102,YG2,Y,Kredītrēķins
+102,YG2,c,Nota d'abonament
+102,YG2,d,Odobrenje
+102,YG2,묩,क्रेडिट मेमो
+102,YG2,뱋,Кредиттік авизо
+102,YG2,쁩,Giấy ghi Có
+102,YICR,1,贷项凭证
+102,YICR,2,ใบลดหนี้
+102,YICR,3,대변 메모
+102,YICR,4,Credit memo
+102,YICR,5,Dobropis
+102,YICR,6,Odobrenje
+102,YICR,7,Memo Kredit
+102,YICR,8,Кредитове авізо
+102,YICR,9,Kreeditarve
+102,YICR,A,المذكرة الدائنة
+102,YICR,B,הודעת זיכוי
+102,YICR,C,Dobropis
+102,YICR,D,Gutschrift
+102,YICR,E,MH_IN_Cre Memo Retro
+102,YICR,F,Avoir
+102,YICR,G,Πιστωτικό Σημείωμα
+102,YICR,H,Jóváírás
+102,YICR,I,Nota di credito
+102,YICR,J,クレジットメモ
+102,YICR,K,Kreditnota
+102,YICR,L,Faktura korygująca minus
+102,YICR,M,貸項通知單
+102,YICR,N,Creditnota
+102,YICR,O,Kreditnota
+102,YICR,P,Nota de crédito
+102,YICR,Q,Dobropis
+102,YICR,R,Кредитовое авизо
+102,YICR,S,Nota de crédito
+102,YICR,T,Alacak dekontu
+102,YICR,U,Hyvitys
+102,YICR,V,Kreditnota
+102,YICR,W,Кредитно авизо
+102,YICR,X,Kreditinė sąskaita
+102,YICR,Y,Kredītrēķins
+102,YICR,c,Nota d'abonament
+102,YICR,d,Odobrenje
+102,YICR,묩,क्रेडिट मेमो
+102,YICR,뱋,Кредиттік авизо
+102,YICR,쁩,Giấy ghi Có
+102,YIDR,1,借项凭证
+102,YIDR,2,ใบเพิ่มหนี้
+102,YIDR,3,차변 메모
+102,YIDR,4,Debit memo
+102,YIDR,5,Bremepis
+102,YIDR,6,Terećenje
+102,YIDR,7,Memo Debit
+102,YIDR,8,Дебетове авізо
+102,YIDR,9,Deebetarve
+102,YIDR,A,مذكرة مدين
+102,YIDR,B,הודעת חיוב
+102,YIDR,C,Vrubopis
+102,YIDR,D,Lastschrift
+102,YIDR,E,MH_IN_Deb Memo Retro
+102,YIDR,F,Note de débit
+102,YIDR,G,Χρεωστικό Σημείωμα
+102,YIDR,H,Terhelés
+102,YIDR,I,Nota di debito
+102,YIDR,J,デビットメモ
+102,YIDR,K,Debetnota
+102,YIDR,L,Faktura koryg. plus
+102,YIDR,M,借項通知單
+102,YIDR,N,Debetnota
+102,YIDR,O,Debetnota
+102,YIDR,P,Nota de débito
+102,YIDR,Q,Ťarchopis
+102,YIDR,R,Дебетовое авизо
+102,YIDR,S,Nota de cargo
+102,YIDR,T,Borç dekontu
+102,YIDR,U,Veloituslasku
+102,YIDR,V,Debetnota
+102,YIDR,W,Дебитно авизо
+102,YIDR,X,Debetinė sąskaita
+102,YIDR,Y,Debeta avizo
+102,YIDR,c,Nota càrrec
+102,YIDR,d,Zaduženje
+102,YIDR,묩,डेबिट मेमो
+102,YIDR,뱋,Дебет авизосы
+102,YIDR,쁩,Giấy ghi nợ
+102,YIN1,1,发票
+102,YIN1,2,ใบกำกับสินค้า
+102,YIN1,3,송장
+102,YIN1,4,Factură
+102,YIN1,5,Račun
+102,YIN1,6,Faktura
+102,YIN1,7,Invois
+102,YIN1,8,Рахунок-фактура
+102,YIN1,9,Arve
+102,YIN1,A,الفاتورة
+102,YIN1,B,חשבונית
+102,YIN1,C,Faktura
+102,YIN1,D,Rechnung
+102,YIN1,E,MH_Interstate invoice
+102,YIN1,F,Facture
+102,YIN1,G,Τιμολόγιο
+102,YIN1,H,Számla
+102,YIN1,I,Fattura
+102,YIN1,J,請求書
+102,YIN1,K,Faktura
+102,YIN1,L,Faktura
+102,YIN1,M,發票
+102,YIN1,N,Factuur
+102,YIN1,O,Faktura
+102,YIN1,P,Fatura
+102,YIN1,Q,Faktúra
+102,YIN1,R,Счет
+102,YIN1,S,Factura
+102,YIN1,T,Fatura
+102,YIN1,U,Lasku
+102,YIN1,V,Faktura
+102,YIN1,W,Фактура
+102,YIN1,X,Sąskaita
+102,YIN1,Y,Faktūrrēķins
+102,YIN1,c,Factura
+102,YIN1,d,Faktura
+102,YIN1,묩,इनवॉइस
+102,YIN1,뱋,Шот-фактура
+102,YIN1,쁩,Hóa đơn
+102,YIN2,1,形式订单
+102,YIN2,2,รายการชั่วคราวสำหรับใบสั่ง
+102,YIN2,3,오더 견적
+102,YIN2,4,Pro forma pt.comandă
+102,YIN2,5,Proforma za naročilo
+102,YIN2,6,Pro forma za nalog
+102,YIN2,7,Pro Forma untuk Pesanan
+102,YIN2,8,Проформа для замовлення
+102,YIN2,9,Esialgn.arve tell-le
+102,YIN2,A,شكلي للأمر
+102,YIN2,B,פרופורמה להזמנה
+102,YIN2,C,Proforma pro zakáz.
+102,YIN2,D,Pro-forma für Auftrag
+102,YIN2,E,MH_Intra state / Inter com STO
+102,YIN2,F,Facture proforma pour commande
+102,YIN2,G,Pro Forma για Εντολή
+102,YIN2,H,Pro forma rend.-hez
+102,YIN2,I,Proforma per ordine
+102,YIN2,J,受注のプロフォーマ
+102,YIN2,K,Proforma til ordre
+102,YIN2,L,Pro forma zlecenia
+102,YIN2,M,預估訂單
+102,YIN2,N,Pro-forma voor order
+102,YIN2,O,Proforma for ordre
+102,YIN2,P,Pro-forma p/ordem
+102,YIN2,Q,Proforma pre zákaz.
+102,YIN2,R,Счет-проформа для заказа
+102,YIN2,S,Proforma para pedido
+102,YIN2,T,Sprş.proforma ftr.
+102,YIN2,U,Proforma tilausta varten
+102,YIN2,V,Proforma för order
+102,YIN2,W,Проформа за поръчка
+102,YIN2,X,Išank.do k.užsakymui
+102,YIN2,Y,Pasūtījuma pro forma
+102,YIN2,c,Pro-forma p.comanda
+102,YIN2,d,Pro forma za nalog
+102,YIN2,묩,ऑर्डर हेतु अग्रिम
+102,YIN2,뱋,Тапсырысқа арналған проформа
+102,YIN2,쁩,Hđơnbgiá cho đhàng
+102,YJF2,1,发票
+102,YJF2,2,ใบกำกับสินค้า
+102,YJF2,3,송장
+102,YJF2,4,Factură
+102,YJF2,5,Račun
+102,YJF2,6,Faktura
+102,YJF2,7,Invois
+102,YJF2,8,Рахунок-фактура
+102,YJF2,9,Arve
+102,YJF2,A,الفاتورة
+102,YJF2,B,חשבונית
+102,YJF2,C,Faktura
+102,YJF2,D,Rechnung
+102,YJF2,E,MH_JIT Sch. Agrmnt Invoice
+102,YJF2,F,Facture
+102,YJF2,G,Τιμολόγιο
+102,YJF2,H,Számla
+102,YJF2,I,Fattura
+102,YJF2,J,請求書
+102,YJF2,K,Faktura
+102,YJF2,L,Faktura
+102,YJF2,M,發票
+102,YJF2,N,Factuur
+102,YJF2,O,Faktura
+102,YJF2,P,Fatura
+102,YJF2,Q,Faktúra
+102,YJF2,R,Счет
+102,YJF2,S,Factura
+102,YJF2,T,Fatura
+102,YJF2,U,Lasku
+102,YJF2,V,Faktura
+102,YJF2,W,Фактура
+102,YJF2,X,Sąskaita
+102,YJF2,Y,Faktūrrēķins
+102,YJF2,c,Factura
+102,YJF2,d,Faktura
+102,YJF2,묩,इनवॉइस
+102,YJF2,뱋,Шот-фактура
+102,YJF2,쁩,Hóa đơn
+102,YL2,1,借项凭证
+102,YL2,2,ใบเพิ่มหนี้
+102,YL2,3,차변 메모
+102,YL2,4,Debit memo
+102,YL2,5,Bremepis
+102,YL2,6,Terećenje
+102,YL2,7,Memo Debit
+102,YL2,8,Дебетове авізо
+102,YL2,9,Deebetarve
+102,YL2,A,مذكرة مدين
+102,YL2,B,הודעת חיוב
+102,YL2,C,Vrubopis
+102,YL2,D,Lastschrift
+102,YL2,E,MH_Debit Memo
+102,YL2,F,Note de débit
+102,YL2,G,Χρεωστικό Σημείωμα
+102,YL2,H,Terhelés
+102,YL2,I,Nota di debito
+102,YL2,J,デビットメモ
+102,YL2,K,Debetnota
+102,YL2,L,Faktura koryg. plus
+102,YL2,M,借項通知單
+102,YL2,N,Debetnota
+102,YL2,O,Debetnota
+102,YL2,P,Nota de débito
+102,YL2,Q,Ťarchopis
+102,YL2,R,Дебетовое авизо
+102,YL2,S,Nota de cargo
+102,YL2,T,Borç dekontu
+102,YL2,U,Veloituslasku
+102,YL2,V,Debetnota
+102,YL2,W,Дебитно авизо
+102,YL2,X,Debetinė sąskaita
+102,YL2,Y,Debeta avizo
+102,YL2,c,Nota càrrec
+102,YL2,d,Zaduženje
+102,YL2,묩,डेबिट मेमो
+102,YL2,뱋,Дебет авизосы
+102,YL2,쁩,Giấy ghi nợ
+102,YLG,1,贷项凭证清单
+102,YLG,2,รายการใบลดหนี้
+102,YLG,3,대변 메모 리스트
+102,YLG,4,Listă credit memo
+102,YLG,5,Seznam dobropisov
+102,YLG,6,List odobrenja
+102,YLG,7,Senarai Memo Kredit
+102,YLG,8,Список кредит.авізо
+102,YLG,9,Kreeditarve loend
+102,YLG,A,قائمة مذكرات الدائن
+102,YLG,B,רשימת הודעות זיכוי
+102,YLG,C,Seznam dobropisů
+102,YLG,D,Gutschriftsliste
+102,YLG,E,MH_Credit Memo List
+102,YLG,F,Liste d'avoirs
+102,YLG,G,Λίστ.Πιστ.Σημειωμάτ.
+102,YLG,H,Jóváíráslista
+102,YLG,I,Lista note cred.
+102,YLG,J,クレジットメモ一覧
+102,YLG,K,Kreditnotaliste
+102,YLG,L,Lista faktur KM
+102,YLG,M,貸項通知單清單
+102,YLG,N,Creditnotalijst
+102,YLG,O,Kreditnotaliste
+102,YLG,P,Lista nota crédito
+102,YLG,Q,Zoznam dobropisov
+102,YLG,R,Список кред. авизо
+102,YLG,S,Lista de abonos
+102,YLG,T,Alacak dekontu lst.
+102,YLG,U,Hyvityslaskuluettelo
+102,YLG,V,Krediteringslista
+102,YLG,W,Списък кредит. авизо
+102,YLG,X,Kred. sąsk. sąr.
+102,YLG,Y,Kredīta avizo sar.
+102,YLG,c,Llista d'abonaments
+102,YLG,d,Lista odobrenja
+102,YLG,묩,क्रेडिट मेमो सूची
+102,YLG,뱋,Кред.авиз.тізімі
+102,YLG,쁩,Ds giấy ghi có
+102,YLGS,1,取消贷项凭证清单
+102,YLGS,2,ยกเลิกรายการใบลดหนี้
+102,YLGS,3,대변메모리스트 취소
+102,YLGS,4,AnulareListăCredMemo
+102,YLGS,5,Preklic seznama dobropisov
+102,YLGS,6,Otkaži listu odobrenja
+102,YLGS,7,Batal Senarai Memo Kredit
+102,YLGS,8,Скасувати список кредитових авізо
+102,YLGS,9,Kreed-arve loe. tüh.
+102,YLGS,A,إلغاء قائمة مذكرة دائن
+102,YLGS,B,בטל רשימת הודעות זיכוי
+102,YLGS,C,Storno sezn.dobrop.
+102,YLGS,D,Storno Gutschriftenliste
+102,YLGS,E,MH_Cancel Cred.Mem.List
+102,YLGS,F,Annulation de liste d'avoirs
+102,YLGS,G,Ακύρ.Λίστ.Πιστ.Σημ.
+102,YLGS,H,Jóváíráslista stornózása
+102,YLGS,I,Storno lista accred.
+102,YLGS,J,クレジットメモ一覧取消
+102,YLGS,K,Ann. kreditnotaliste
+102,YLGS,L,Stor.l. fak.kor.min.
+102,YLGS,M,取消貸項通知單清單
+102,YLGS,N,Storno cred.nota-lst
+102,YLGS,O,Annuller kreditnotaliste
+102,YLGS,P,Estorno Listas NCréd
+102,YLGS,Q,Zrušiť zoznam dobr.
+102,YLGS,R,Сторно спис. кредитовых авизо
+102,YLGS,S,Anul.lista de abonos
+102,YLGS,T,Alc.dkn.lst.ters kyt
+102,YLGS,U,Per. hyv.laskuluett.
+102,YLGS,V,Annullera kreditnotlista
+102,YLGS,W,Отказ списък кредитни известия
+102,YLGS,X,Anul.kred.sąsk.sąr.
+102,YLGS,Y,Atcelt kredīta avizo sarakstu
+102,YLGS,c,Anul.llst.abonaments
+102,YLGS,d,Otkaži listu odobr.
+102,YLGS,묩,क्रे.मे.सूची रद्द क.
+102,YLGS,뱋,Кред.авиз.тіз.болд.
+102,YLGS,쁩,Hủy ds.giấybáocó
+102,YLR,1,发票清单
+102,YLR,2,รายการใบกำกับสินค้า
+102,YLR,3,송장 리스트
+102,YLR,4,Listă de facturi
+102,YLR,5,Seznam računov
+102,YLR,6,Lista faktura
+102,YLR,7,Senarai Invois
+102,YLR,8,Сп.рах.-фак.
+102,YLR,9,Arvete loend
+102,YLR,A,قائمة الفواتير
+102,YLR,B,רשימת חשבוניות
+102,YLR,C,Seznam faktur
+102,YLR,D,Rechnungsliste
+102,YLR,E,MH_Invoice List
+102,YLR,F,Liste de factures
+102,YLR,G,Λίστα τιμολογίων
+102,YLR,H,Számlalista
+102,YLR,I,Lista fatture
+102,YLR,J,請求書一覧
+102,YLR,K,Fakturaliste
+102,YLR,L,Lista faktur
+102,YLR,M,發票清單
+102,YLR,N,Factuurlijst
+102,YLR,O,Fakturaliste
+102,YLR,P,Lista de faturas
+102,YLR,Q,Zoznam faktúr
+102,YLR,R,Список счетов
+102,YLR,S,Lista de facturas
+102,YLR,T,Fatura listesi
+102,YLR,U,Laskuluettelo
+102,YLR,V,Fakturalista
+102,YLR,W,Списък фактури
+102,YLR,X,Sąskaitų sąrašas
+102,YLR,Y,Rēķinu saraksts
+102,YLR,c,Llista factures
+102,YLR,d,Lista faktura
+102,YLR,묩,इनवॉइस सूची
+102,YLR,뱋,Шоттар тізімі
+102,YLR,쁩,Danh sách Hóa đơn
+102,YLRS,1,发票清单
+102,YLRS,2,รายการใบกำกับสินค้า
+102,YLRS,3,송장 리스트
+102,YLRS,4,Listă de facturi
+102,YLRS,5,Seznam računov
+102,YLRS,6,Lista faktura
+102,YLRS,7,Senarai Invois
+102,YLRS,8,Сп.рах.-фак.
+102,YLRS,9,Arvete loend
+102,YLRS,A,قائمة الفواتير
+102,YLRS,B,רשימת חשבוניות
+102,YLRS,C,Seznam faktur
+102,YLRS,D,Rechnungsliste
+102,YLRS,E,MH_Cancel Invoice List
+102,YLRS,F,Liste de factures
+102,YLRS,G,Λίστα τιμολογίων
+102,YLRS,H,Számlalista
+102,YLRS,I,Lista fatture
+102,YLRS,J,請求書一覧
+102,YLRS,K,Fakturaliste
+102,YLRS,L,Lista faktur
+102,YLRS,M,發票清單
+102,YLRS,N,Factuurlijst
+102,YLRS,O,Fakturaliste
+102,YLRS,P,Lista de faturas
+102,YLRS,Q,Zoznam faktúr
+102,YLRS,R,Список счетов
+102,YLRS,S,Lista de facturas
+102,YLRS,T,Fatura listesi
+102,YLRS,U,Laskuluettelo
+102,YLRS,V,Fakturalista
+102,YLRS,W,Списък фактури
+102,YLRS,X,Sąskaitų sąrašas
+102,YLRS,Y,Rēķinu saraksts
+102,YLRS,c,Llista factures
+102,YLRS,d,Lista faktura
+102,YLRS,묩,इनवॉइस सूची
+102,YLRS,뱋,Шоттар тізімі
+102,YLRS,쁩,Danh sách Hóa đơn
+102,YLS2,1,发票
+102,YLS2,2,ใบกำกับสินค้า
+102,YLS2,3,송장
+102,YLS2,4,Factură
+102,YLS2,5,Račun
+102,YLS2,6,Faktura
+102,YLS2,7,Invois
+102,YLS2,8,Рахунок-фактура
+102,YLS2,9,Arve
+102,YLS2,A,الفاتورة
+102,YLS2,B,חשבונית
+102,YLS2,C,Faktura
+102,YLS2,D,Rechnung
+102,YLS2,E,MH_Lent Sales Invoice
+102,YLS2,F,Facture
+102,YLS2,G,Τιμολόγιο
+102,YLS2,H,Számla
+102,YLS2,I,Fattura
+102,YLS2,J,請求書
+102,YLS2,K,Faktura
+102,YLS2,L,Faktura
+102,YLS2,M,發票
+102,YLS2,N,Factuur
+102,YLS2,O,Faktura
+102,YLS2,P,Fatura
+102,YLS2,Q,Faktúra
+102,YLS2,R,Счет
+102,YLS2,S,Factura
+102,YLS2,T,Fatura
+102,YLS2,U,Lasku
+102,YLS2,V,Faktura
+102,YLS2,W,Фактура
+102,YLS2,X,Sąskaita
+102,YLS2,Y,Faktūrrēķins
+102,YLS2,c,Factura
+102,YLS2,d,Faktura
+102,YLS2,묩,इनवॉइस
+102,YLS2,뱋,Шот-фактура
+102,YLS2,쁩,Hóa đơn
+102,YOT2,1,发票
+102,YOT2,2,ใบกำกับสินค้า
+102,YOT2,3,송장
+102,YOT2,4,Factură
+102,YOT2,5,Račun
+102,YOT2,6,Faktura
+102,YOT2,7,Invois
+102,YOT2,8,Рахунок-фактура
+102,YOT2,9,Arve
+102,YOT2,A,الفاتورة
+102,YOT2,B,חשבונית
+102,YOT2,C,Faktura
+102,YOT2,D,Rechnung
+102,YOT2,E,MH_Others Invoice
+102,YOT2,F,Facture
+102,YOT2,G,Τιμολόγιο
+102,YOT2,H,Számla
+102,YOT2,I,Fattura
+102,YOT2,J,請求書
+102,YOT2,K,Faktura
+102,YOT2,L,Faktura
+102,YOT2,M,發票
+102,YOT2,N,Factuur
+102,YOT2,O,Faktura
+102,YOT2,P,Fatura
+102,YOT2,Q,Faktúra
+102,YOT2,R,Счет
+102,YOT2,S,Factura
+102,YOT2,T,Fatura
+102,YOT2,U,Lasku
+102,YOT2,V,Faktura
+102,YOT2,W,Фактура
+102,YOT2,X,Sąskaita
+102,YOT2,Y,Faktūrrēķins
+102,YOT2,c,Factura
+102,YOT2,d,Faktura
+102,YOT2,묩,इनवॉइस
+102,YOT2,뱋,Шот-фактура
+102,YOT2,쁩,Hóa đơn
+102,YRE,1,退货货记
+102,YRE,2,ใบลดหนี้ของการส่งคืน
+102,YRE,3,반품의 대변
+102,YRE,4,Credit pt.retururi
+102,YRE,5,Kredit za vračila
+102,YRE,6,Odobr. za povrate
+102,YRE,7,Kredit utk Pulangan
+102,YRE,8,Кредит для повернен.
+102,YRE,9,Tagastuste kreedit
+102,YRE,A,دائن للمرتجعات
+102,YRE,B,אשראי להחלפות
+102,YRE,C,Dobropis vrác.dod.
+102,YRE,D,Retourengutschrift
+102,YRE,E,MH_Credit for Returns
+102,YRE,F,Avoir pour retours
+102,YRE,G,Πίστωση για Επιστρ.
+102,YRE,H,Visszáru-jóváírás
+102,YRE,I,Nota cred.per resi
+102,YRE,J,返品クレジット
+102,YRE,K,KredNota returvarer
+102,YRE,L,Fak.k.min za zwroty
+102,YRE,M,退貨通知單
+102,YRE,N,Retourencreditnota
+102,YRE,O,Returkreditnota
+102,YRE,P,Crédito devolução
+102,YRE,Q,Dobropis vrát.dod.
+102,YRE,R,Кредитов. возврата
+102,YRE,S,Abono p.devoluciones
+102,YRE,T,İade alacak dekontu
+102,YRE,U,Palautushyvityslasku
+102,YRE,V,Kreditnota returer
+102,YRE,W,Кредит. на върн. ст.
+102,YRE,X,Grąžinimų kreditas
+102,YRE,Y,Kredīts atgriešanai
+102,YRE,c,Abon.devolucions
+102,YRE,d,Odobrenje za vrać.
+102,YRE,묩,वापसी हेतु क्रेडिट
+102,YRE,뱋,Қайтар.арн.кредит
+102,YRE,쁩,T.dụng chohoànlại
+102,YRLP,1,发票
+102,YRLP,2,ใบกำกับสินค้า
+102,YRLP,3,송장
+102,YRLP,4,Factură
+102,YRLP,5,Račun
+102,YRLP,6,Faktura
+102,YRLP,7,Invois
+102,YRLP,8,Рахунок-фактура
+102,YRLP,9,Arve
+102,YRLP,A,الفاتورة
+102,YRLP,B,חשבונית
+102,YRLP,C,Faktura
+102,YRLP,D,Rechnung
+102,YRLP,E,MH_Ren_Les_Perdic_Bill
+102,YRLP,F,Facture
+102,YRLP,G,Τιμολόγιο
+102,YRLP,H,Számla
+102,YRLP,I,Fattura
+102,YRLP,J,請求書
+102,YRLP,K,Faktura
+102,YRLP,L,Faktura
+102,YRLP,M,發票
+102,YRLP,N,Factuur
+102,YRLP,O,Faktura
+102,YRLP,P,Fatura
+102,YRLP,Q,Faktúra
+102,YRLP,R,Счет
+102,YRLP,S,Factura
+102,YRLP,T,Fatura
+102,YRLP,U,Lasku
+102,YRLP,V,Faktura
+102,YRLP,W,Фактура
+102,YRLP,X,Sąskaita
+102,YRLP,Y,Faktūrrēķins
+102,YRLP,c,Factura
+102,YRLP,d,Faktura
+102,YRLP,묩,इनवॉइस
+102,YRLP,뱋,Шот-фактура
+102,YRLP,쁩,Hóa đơn
+102,YS1,1,发票作废
+102,YS1,2,การยกเลิกใบแจ้งหนี้
+102,YS1,3,송장 취소
+102,YS1,4,Stornare factură
+102,YS1,5,Storno računa
+102,YS1,6,Storniranje fakture
+102,YS1,7,Pembatalan Invois
+102,YS1,8,Скасування рахунка-фактури
+102,YS1,9,Arve tühistamine
+102,YS1,A,إلغاء الفاتورة
+102,YS1,B,ביטול חשבונית
+102,YS1,C,Storno faktury
+102,YS1,D,Storno Rechnung
+102,YS1,E,MH_Cancel. Invoice (S1)
+102,YS1,F,Annulation de facture
+102,YS1,G,Ακύρωση Τιμολογίου
+102,YS1,H,Számlastornó
+102,YS1,I,Storno fattura
+102,YS1,J,請求書取消
+102,YS1,K,Fakturaannullering
+102,YS1,L,Storno faktury
+102,YS1,M,發票取消
+102,YS1,N,Factuurstorno
+102,YS1,O,Fakturaannullering
+102,YS1,P,Estorno de fatura
+102,YS1,Q,Storno faktúry
+102,YS1,R,Сторно счета
+102,YS1,S,Cancelación de facturas
+102,YS1,T,Fatura iptali
+102,YS1,U,Laskun peruutus
+102,YS1,V,Fakturaannullering
+102,YS1,W,Сторно на фактура
+102,YS1,X,Sąskaitos anuliavimas
+102,YS1,Y,Faktūrrēķina atcelšana
+102,YS1,c,Cancel·lació de factures
+102,YS1,d,Storniranje fakture
+102,YS1,묩,इनवॉइस रद्द करें
+102,YS1,뱋,Шотты болдырмау
+102,YS1,쁩,Hủy hóa đơn
+102,YS2,1,贷项凭证取消
+102,YS2,2,การยกเลิกใบลดหนี้
+102,YS2,3,대변 메모 취소
+102,YS2,4,Anulare credit memo
+102,YS2,5,Storno dobropisa
+102,YS2,6,Storniranje odobrenja
+102,YS2,7,Pembatalan Memo Kredit
+102,YS2,8,Скасування кредитового авізо
+102,YS2,9,Kreeditarve tühistamine
+102,YS2,A,إلغاء مذكرة دائنة
+102,YS2,B,ביטול של הודעת זיכוי
+102,YS2,C,Storno dobropisu
+102,YS2,D,Storno Gutschrift
+102,YS2,E,MH_Cancel of Cred Memo
+102,YS2,F,Annulation d'avoir
+102,YS2,G,Ακύρωση Πιστ.Σημειώματος
+102,YS2,H,Jóváírás stornózása
+102,YS2,I,Storno nota di credito
+102,YS2,J,クレジットメモ取消
+102,YS2,K,Annullering af kreditnota
+102,YS2,L,Storno faktury korygującej minus
+102,YS2,M,貸項通知單取消
+102,YS2,N,Storno creditnota
+102,YS2,O,Annullering av kreditnota
+102,YS2,P,Estorno de nota de crédito
+102,YS2,Q,Storno dobropisu
+102,YS2,R,Сторно кредитового авизо
+102,YS2,S,Cancelación de nota de abono
+102,YS2,T,Alacak dekontu iptali
+102,YS2,U,Hyvityksen peruutus
+102,YS2,V,Annullering av kreditnota
+102,YS2,W,Сторниране кредитно авизо
+102,YS2,X,Kreditinės sąskaitos atšaukimas
+102,YS2,Y,Kredītrēķina atcelšana
+102,YS2,c,Cancel·lació de nota d'abonament
+102,YS2,d,Storniranje odobrenja
+102,YS2,묩,क्रेडिट मेमो रद्द करें
+102,YS2,뱋,Кред.авиз.болдырмау
+102,YS2,쁩,Hủy giấy ghi có
+102,YSF2,1,发票
+102,YSF2,2,ใบกำกับสินค้า
+102,YSF2,3,송장
+102,YSF2,4,Factură
+102,YSF2,5,Račun
+102,YSF2,6,Faktura
+102,YSF2,7,Invois
+102,YSF2,8,Рахунок-фактура
+102,YSF2,9,Arve
+102,YSF2,A,الفاتورة
+102,YSF2,B,חשבונית
+102,YSF2,C,Faktura
+102,YSF2,D,Rechnung
+102,YSF2,E,MH_Sch. Agrmnt Invoice
+102,YSF2,F,Facture
+102,YSF2,G,Τιμολόγιο
+102,YSF2,H,Számla
+102,YSF2,I,Fattura
+102,YSF2,J,請求書
+102,YSF2,K,Faktura
+102,YSF2,L,Faktura
+102,YSF2,M,發票
+102,YSF2,N,Factuur
+102,YSF2,O,Faktura
+102,YSF2,P,Fatura
+102,YSF2,Q,Faktúra
+102,YSF2,R,Счет
+102,YSF2,S,Factura
+102,YSF2,T,Fatura
+102,YSF2,U,Lasku
+102,YSF2,V,Faktura
+102,YSF2,W,Фактура
+102,YSF2,X,Sąskaita
+102,YSF2,Y,Faktūrrēķins
+102,YSF2,c,Factura
+102,YSF2,d,Faktura
+102,YSF2,묩,इनवॉइस
+102,YSF2,뱋,Шот-фактура
+102,YSF2,쁩,Hóa đơn
